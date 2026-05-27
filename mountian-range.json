@@ -1,0 +1,167 @@
+[
+  {
+    "province": "태백산맥",
+    "name": "구룡령",
+    "location": "강원특별자치도 홍천군 - 양양군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "대관령",
+    "location": "강원특별자치도 평창군 - 강릉시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "댓재",
+    "location": "강원특별자치도 삼척시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "만항재",
+    "location": "강원특별자치도 영월군 - 정선군 - 태백시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "미시령",
+    "location": "강원특별자치도 인제군 - 고성군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "백복령(백령)",
+    "location": "강원특별자치도 정선군 - 동해시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "삽당령",
+    "location": "강원특별자치도 강릉시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "운두령",
+    "location": "강원특별자치도 홍천군 - 평창군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "진고개",
+    "location": "강원특별자치도 평창군 - 강릉시"
+  },
+  {
+    "province": "태백산맥",
+    "name": "진부령",
+    "location": "강원특별자치도 인제군 - 고성군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "창수령",
+    "location": "경상북도 영양군 - 영덕군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "천왕재",
+    "location": "경상북도 청도군 - 경남 창녕군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "추가령",
+    "location": "강원특별자치도 세포군 (지리적 지구대)"
+  },
+  {
+    "province": "태백산맥",
+    "name": "팔조령",
+    "location": "대구광역시 달성군 - 경상북도 청도군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "한계령 / 은비령",
+    "location": "강원특별자치도 인제군 - 양양군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "한티재",
+    "location": "경상북도 칠곡군 - 군위군"
+  },
+  {
+    "province": "태백산맥",
+    "name": "헐티재",
+    "location": "대구광역시 달성군 - 경상북도 청도군"
+  },
+  {
+    "province": "광주산맥",
+    "name": "남태령",
+    "location": "서울특별시 관악구 - 경기도 과천시"
+  },
+  {
+    "province": "소백산맥",
+    "name": "남령",
+    "location": "경상남도 거창군 - 함양군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "동문재",
+    "location": "전라북도 장수군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "무룡고개",
+    "location": "전라북도 장수군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "문경새재(조령)",
+    "location": "경상북도 문경시 - 충청북도 괴산군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "벌재",
+    "location": "경상북도 문경시"
+  },
+  {
+    "province": "소백산맥",
+    "name": "부티재",
+    "location": "충청북도 보은군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "싸리재",
+    "location": "전라북도 무주군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "이화령",
+    "location": "경상북도 문경시 - 충청북도 괴산군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "죽령",
+    "location": "경상북도 영주시 - 충청북도 단양군"
+  },
+  {
+    "province": "소백산맥",
+    "name": "지재",
+    "location": "전라북도 무주군 - 경북 김천시"
+  },
+  {
+    "province": "소백산맥",
+    "name": "추풍령",
+    "location": "충청북도 영동군 - 경상북도 김천시"
+  },
+  {
+    "province": "소백산맥",
+    "name": "하늘재(계립령)",
+    "location": "경상북도 문경시 - 충청북도 충주시"
+  },
+  {
+    "province": "노령산맥",
+    "name": "곰티재",
+    "location": "전라북도 완주군 - 진안군"
+  },
+  {
+    "province": "노령산맥",
+    "name": "슬치",
+    "location": "전라북도 완주군"
+  },
+  {
+    "province": "노령산맥",
+    "name": "모래재",
+    "location": "전라북도 완주군 - 진안군"
+  }
+]

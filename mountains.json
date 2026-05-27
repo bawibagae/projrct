@@ -1,0 +1,8036 @@
+[
+  {
+    "province": "서울특별시",
+    "name": "개화산",
+    "location": "서울특별시 강서구",
+    "height": "128"
+  },
+  {
+    "province": "서울특별시",
+    "name": "관악산",
+    "location": "\"서울특별시 관악구ㆍ금천구",
+    "height": "632.2"
+  },
+  {
+    "province": "서울특별시",
+    "name": "구룡산",
+    "location": "\"서울특별시 서초구 염곡동ㆍ내곡동",
+    "height": "307.7"
+  },
+  {
+    "province": "서울특별시",
+    "name": "궁산",
+    "location": "서울특별시 강서구 가양동",
+    "height": "74"
+  },
+  {
+    "province": "서울특별시",
+    "name": "대모산",
+    "location": "서울특별시 강남구",
+    "height": "293"
+  },
+  {
+    "province": "서울특별시",
+    "name": "도봉산(자운봉)",
+    "location": "\"서울특별시 도봉구",
+    "height": "740.2"
+  },
+  {
+    "province": "서울특별시",
+    "name": "망우산",
+    "location": "\"서울특별시 중랑구 망우동 구리시\"",
+    "height": "282"
+  },
+  {
+    "province": "서울특별시",
+    "name": "백련산",
+    "location": "\"서울특별시 은평구",
+    "height": "216"
+  },
+  {
+    "province": "서울특별시",
+    "name": "봉제산",
+    "location": "서울특별시 강서구",
+    "height": "105"
+  },
+  {
+    "province": "서울특별시",
+    "name": "북악산",
+    "location": "서울특별시 종로구 부암동",
+    "height": "342"
+  },
+  {
+    "province": "서울특별시",
+    "name": "북한산",
+    "location": "\"서울특별시 강북구ㆍ성북구ㆍ종로구ㆍ은평구",
+    "height": "835.6"
+  },
+  {
+    "province": "서울특별시",
+    "name": "불암산",
+    "location": "\"서울특별시 노원구 상계동",
+    "height": "509.7"
+  },
+  {
+    "province": "서울특별시",
+    "name": "삼성산",
+    "location": "\"서울특별시 관악구 경기도 안양시\"",
+    "height": "554"
+  },
+  {
+    "province": "서울특별시",
+    "name": "수락산",
+    "location": "서울시 노원구 상계동",
+    "height": "640.6"
+  },
+  {
+    "province": "서울특별시",
+    "name": "아차산",
+    "location": "서울특별시 광진구",
+    "height": "287"
+  },
+  {
+    "province": "서울특별시",
+    "name": "안산",
+    "location": "서울특별시 서대문구 홍제동",
+    "height": "297"
+  },
+  {
+    "province": "서울특별시",
+    "name": "용마산",
+    "location": "서울특별시 중랑구 면목동",
+    "height": "357"
+  },
+  {
+    "province": "서울특별시",
+    "name": "우장산",
+    "location": "서울특별시 강서구 화곡동",
+    "height": "99"
+  },
+  {
+    "province": "서울특별시",
+    "name": "인왕산",
+    "location": "\"서울시 종로구",
+    "height": "340"
+  },
+  {
+    "province": "서울특별시",
+    "name": "증산",
+    "location": "서울특별시 강서구 염창동",
+    "height": "55"
+  },
+  {
+    "province": "서울특별시",
+    "name": "청계산",
+    "location": "\"서울특별시 서초구 신원동 의왕시 청계동 성남시 수정구\"",
+    "height": "873"
+  },
+  {
+    "province": "부산광역시",
+    "name": "개좌산",
+    "location": "부산광역시 기장군",
+    "height": "449"
+  },
+  {
+    "province": "부산광역시",
+    "name": "거문산",
+    "location": "부산광역시 기장군 철마면 웅천리",
+    "height": "543"
+  },
+  {
+    "province": "부산광역시",
+    "name": "구덕산",
+    "location": "\"부산광역시 북구 서구\"",
+    "height": "562"
+  },
+  {
+    "province": "부산광역시",
+    "name": "금정산",
+    "location": "\"부산광역시 금정구ㆍ북구",
+    "height": "800.8"
+  },
+  {
+    "province": "부산광역시",
+    "name": "달음산",
+    "location": "부산시 기장군",
+    "height": "587"
+  },
+  {
+    "province": "부산광역시",
+    "name": "배산",
+    "location": "\"부산광역시 연제구",
+    "height": "225"
+  },
+  {
+    "province": "부산광역시",
+    "name": "백양산",
+    "location": "부산광역시 부산진구",
+    "height": "642"
+  },
+  {
+    "province": "부산광역시",
+    "name": "봉래산",
+    "location": "부산광역시",
+    "height": "395"
+  },
+  {
+    "province": "부산광역시",
+    "name": "봉화산",
+    "location": "부산광역시 강서구 녹산동",
+    "height": "692"
+  },
+  {
+    "province": "부산광역시",
+    "name": "승학산",
+    "location": "부산광역시 사하구 당리동",
+    "height": "497"
+  },
+  {
+    "province": "부산광역시",
+    "name": "아미산",
+    "location": "\"부산광역시 서구 아미동",
+    "height": "234"
+  },
+  {
+    "province": "부산광역시",
+    "name": "아홉산",
+    "location": "부산광역시 금정구 기장군",
+    "height": "353"
+  },
+  {
+    "province": "부산광역시",
+    "name": "엄광산(고원견산)",
+    "location": "\"부산광역시 서구 동대신동",
+    "height": "504"
+  },
+  {
+    "province": "부산광역시",
+    "name": "연태봉",
+    "location": "부산광역시 강서구",
+    "height": "459"
+  },
+  {
+    "province": "부산광역시",
+    "name": "윤산",
+    "location": "부산광역시",
+    "height": "317"
+  },
+  {
+    "province": "부산광역시",
+    "name": "일광산",
+    "location": "부산광역시 기장군",
+    "height": "388"
+  },
+  {
+    "province": "부산광역시",
+    "name": "장산",
+    "location": "부산시 해운대구 좌동",
+    "height": "634"
+  },
+  {
+    "province": "부산광역시",
+    "name": "철마산",
+    "location": "부산광역시 기장군 철마면",
+    "height": "605"
+  },
+  {
+    "province": "대구광역시",
+    "name": "금계산",
+    "location": "대구광역시 달성군",
+    "height": "489"
+  },
+  {
+    "province": "대구광역시",
+    "name": "금산",
+    "location": "대구광역시 달성군 현풍면 상리",
+    "height": "288"
+  },
+  {
+    "province": "대구광역시",
+    "name": "대덕산",
+    "location": "대구광역시 달서구 송현동",
+    "height": "600"
+  },
+  {
+    "province": "대구광역시",
+    "name": "마천산",
+    "location": "\"대구광역시 달성군",
+    "height": "274"
+  },
+  {
+    "province": "대구광역시",
+    "name": "무학산",
+    "location": "대구 수성구 황금동",
+    "height": "200"
+  },
+  {
+    "province": "대구광역시",
+    "name": "뱀산",
+    "location": "대구광역시 달성군 구라리",
+    "height": "91"
+  },
+  {
+    "province": "대구광역시",
+    "name": "비슬산",
+    "location": "\"대구광역시 달성군 옥포면ㆍ유가면ㆍ가창면",
+    "height": "1083.4"
+  },
+  {
+    "province": "대구광역시",
+    "name": "산성산",
+    "location": "대구광역시 달성군 유가면",
+    "height": "654"
+  },
+  {
+    "province": "대구광역시",
+    "name": "안산",
+    "location": "대구광역시 수성구 욱수동",
+    "height": "470"
+  },
+  {
+    "province": "대구광역시",
+    "name": "와룡산",
+    "location": "대구광역시 대구",
+    "height": "295"
+  },
+  {
+    "province": "대구광역시",
+    "name": "용지봉",
+    "location": "대구광역시 수성구 범물동",
+    "height": "634"
+  },
+  {
+    "province": "대구광역시",
+    "name": "주암산",
+    "location": "대구광역시 달성군 가창면",
+    "height": "854.7"
+  },
+  {
+    "province": "대구광역시",
+    "name": "천을산",
+    "location": "대구광역시 수성구 고산동",
+    "height": "156"
+  },
+  {
+    "province": "대구광역시",
+    "name": "최정산",
+    "location": "대구광역시 달성군 가창면",
+    "height": "905"
+  },
+  {
+    "province": "대구광역시",
+    "name": "학산",
+    "location": "대구광역시 달서구",
+    "height": "118"
+  },
+  {
+    "province": "대구광역시",
+    "name": "환성산",
+    "location": "\"대구시 동구",
+    "height": "811"
+  },
+  {
+    "province": "인천광역시",
+    "name": "가현산",
+    "location": "\"인천광역시 서구",
+    "height": "192"
+  },
+  {
+    "province": "인천광역시",
+    "name": "거마산",
+    "location": "인천광역시 남동구 장수동",
+    "height": "214"
+  },
+  {
+    "province": "인천광역시",
+    "name": "거머리산",
+    "location": "인천광역시 남동구 만수4동",
+    "height": "125"
+  },
+  {
+    "province": "인천광역시",
+    "name": "고려산",
+    "location": "\"인천광역시 강화군 강화읍 송해면 내가면\"",
+    "height": "436"
+  },
+  {
+    "province": "인천광역시",
+    "name": "구봉산",
+    "location": "인천광역시 옹진군",
+    "height": "178"
+  },
+  {
+    "province": "인천광역시",
+    "name": "국사봉",
+    "location": "인천광역시 중구",
+    "height": "239"
+  },
+  {
+    "province": "인천광역시",
+    "name": "낙가산",
+    "location": "인천광역시 강화군 석모도",
+    "height": "267"
+  },
+  {
+    "province": "인천광역시",
+    "name": "마니산",
+    "location": "인천광역시 강화군 화도면",
+    "height": "472.1"
+  },
+  {
+    "province": "인천광역시",
+    "name": "문학산",
+    "location": "인천광역시 남구 문학동",
+    "height": "217.1"
+  },
+  {
+    "province": "인천광역시",
+    "name": "백고지",
+    "location": "인천광역시 옹진군 백령면",
+    "height": "100"
+  },
+  {
+    "province": "인천광역시",
+    "name": "백운산",
+    "location": "인천광역시 중구",
+    "height": "255"
+  },
+  {
+    "province": "인천광역시",
+    "name": "비조봉",
+    "location": "인천광역시 옹진군",
+    "height": "231"
+  },
+  {
+    "province": "인천광역시",
+    "name": "상봉산",
+    "location": "인천광역시 강화군 삼산면 석모도",
+    "height": "316"
+  },
+  {
+    "province": "인천광역시",
+    "name": "상아산",
+    "location": "인천광역시 남동구",
+    "height": "151"
+  },
+  {
+    "province": "인천광역시",
+    "name": "석화산",
+    "location": "인천광역시 중구 중산동",
+    "height": "143"
+  },
+  {
+    "province": "인천광역시",
+    "name": "선포산",
+    "location": "인천광역시 서구",
+    "height": "144"
+  },
+  {
+    "province": "인천광역시",
+    "name": "앞산",
+    "location": "인천광역시 부평구",
+    "height": "148"
+  },
+  {
+    "province": "인천광역시",
+    "name": "오봉산",
+    "location": "인천시 남동구 도림동",
+    "height": "101"
+  },
+  {
+    "province": "인천광역시",
+    "name": "용기원산",
+    "location": "인천광역시 옹진군 백령면",
+    "height": "136"
+  },
+  {
+    "province": "인천광역시",
+    "name": "정족산",
+    "location": "인천광역시 강화군 길상면",
+    "height": "200"
+  },
+  {
+    "province": "인천광역시",
+    "name": "해명산",
+    "location": "인천광역시 강화군 석모도",
+    "height": "309"
+  },
+  {
+    "province": "인천광역시",
+    "name": "혈구산",
+    "location": "인천광역시 강화군 내가면 고천리",
+    "height": "466"
+  },
+  {
+    "province": "인천광역시",
+    "name": "호룡곡산",
+    "location": "인천광역시 중구",
+    "height": "245"
+  },
+  {
+    "province": "인천광역시",
+    "name": "화개산",
+    "location": "인천광역시 강화군 교동면 대룡리",
+    "height": "262"
+  },
+  {
+    "province": "광주광역시",
+    "name": "갈미봉",
+    "location": "\"광주광역시 동구 선교동",
+    "height": "372"
+  },
+  {
+    "province": "광주광역시",
+    "name": "금당산",
+    "location": "광주광역시 서구 풍암동",
+    "height": "303.5"
+  },
+  {
+    "province": "광주광역시",
+    "name": "깃대봉",
+    "location": "광주광역시 동구",
+    "height": "822"
+  },
+  {
+    "province": "광주광역시",
+    "name": "마집봉",
+    "location": "광주광역시 동구",
+    "height": "311"
+  },
+  {
+    "province": "광주광역시",
+    "name": "무등산",
+    "location": "\"광주광역시 동구",
+    "height": "1186.8"
+  },
+  {
+    "province": "광주광역시",
+    "name": "바랑산",
+    "location": "\"광주광역시 동구 소태동",
+    "height": "602"
+  },
+  {
+    "province": "광주광역시",
+    "name": "어등산",
+    "location": "광주광역시 광산구 산정동ㆍ박호동ㆍ서봉동",
+    "height": "290.4"
+  },
+  {
+    "province": "대전광역시",
+    "name": "갑하산",
+    "location": "대전광역시 유성구·충남 공주시 반포면",
+    "height": "468.7"
+  },
+  {
+    "province": "대전광역시",
+    "name": "계룡산",
+    "location": "\"대전광역시",
+    "height": "846.5"
+  },
+  {
+    "province": "대전광역시",
+    "name": "계족산",
+    "location": "\"대전광역시 대덕구",
+    "height": "423.9"
+  },
+  {
+    "province": "대전광역시",
+    "name": "구봉산",
+    "location": "대전광역시 서구 가수원동",
+    "height": "264"
+  },
+  {
+    "province": "대전광역시",
+    "name": "금병산",
+    "location": "대전광역시 유성구",
+    "height": "390"
+  },
+  {
+    "province": "대전광역시",
+    "name": "금수봉",
+    "location": "대전광역시 유성",
+    "height": "531"
+  },
+  {
+    "province": "대전광역시",
+    "name": "만인산",
+    "location": "\"대전광역시 동구",
+    "height": "538"
+  },
+  {
+    "province": "대전광역시",
+    "name": "보문산",
+    "location": "대전광역시 중구",
+    "height": "457"
+  },
+  {
+    "province": "대전광역시",
+    "name": "뾰족산",
+    "location": "대전광역시 동구",
+    "height": "143"
+  },
+  {
+    "province": "대전광역시",
+    "name": "성치산",
+    "location": "대전광역시 대덕구 신탄진동",
+    "height": "219"
+  },
+  {
+    "province": "대전광역시",
+    "name": "식장산",
+    "location": "\"대전광역시 동구",
+    "height": "596.7"
+  },
+  {
+    "province": "대전광역시",
+    "name": "장태산",
+    "location": "대전광역시 서구",
+    "height": "471"
+  },
+  {
+    "province": "대전광역시",
+    "name": "천비산",
+    "location": "\"대전광역시 중구 침산동",
+    "height": "466"
+  },
+  {
+    "province": "대전광역시",
+    "name": "함각산",
+    "location": "\"대전 동구 효평동",
+    "height": "315"
+  },
+  {
+    "province": "대전광역시",
+    "name": "황학산",
+    "location": "대전광역시 동구",
+    "height": "158"
+  },
+  {
+    "province": "울산광역시",
+    "name": "가지산",
+    "location": "\"울산광역시 경상남도 밀양시\"",
+    "height": "1240"
+  },
+  {
+    "province": "울산광역시",
+    "name": "고헌산",
+    "location": "\"울산광역시 울주군 두서면",
+    "height": "1033"
+  },
+  {
+    "province": "울산광역시",
+    "name": "문수산",
+    "location": "\"울산광역시 울주군 청량면 삼동면",
+    "height": "600"
+  },
+  {
+    "province": "울산광역시",
+    "name": "신불산",
+    "location": "울산광역시 울주군 삼남면ㆍ상북면",
+    "height": "1159.3"
+  },
+  {
+    "province": "울산광역시",
+    "name": "염포산",
+    "location": "울산광역시 동구",
+    "height": "203"
+  },
+  {
+    "province": "울산광역시",
+    "name": "입화산",
+    "location": "울산광역시 중구 다운동",
+    "height": "157"
+  },
+  {
+    "province": "울산광역시",
+    "name": "천황산",
+    "location": "\"울산광역시",
+    "height": "1189"
+  },
+  {
+    "province": "울산광역시",
+    "name": "치술령",
+    "location": "\"울산시 울주군 두동면",
+    "height": "765"
+  },
+  {
+    "province": "울산광역시",
+    "name": "황방산",
+    "location": "울산광역시 중구 장현동",
+    "height": "103"
+  },
+  {
+    "province": "경기도",
+    "name": "가덕산",
+    "location": "\"경기도 가평군 북면",
+    "height": "858"
+  },
+  {
+    "province": "경기도",
+    "name": "가리산",
+    "location": "경기도 포천시 이동면 장암리",
+    "height": "774"
+  },
+  {
+    "province": "경기도",
+    "name": "각흘봉",
+    "location": "\"경기도 포천시",
+    "height": "838"
+  },
+  {
+    "province": "경기도",
+    "name": "갈기산",
+    "location": "\"경기도 양평군",
+    "height": "685"
+  },
+  {
+    "province": "경기도",
+    "name": "감악산",
+    "location": "\"경기도 양주시 남면 파주시 적성면\"",
+    "height": "674"
+  },
+  {
+    "province": "경기도",
+    "name": "강씨봉",
+    "location": "\"경기도 포천시",
+    "height": "830"
+  },
+  {
+    "province": "경기도",
+    "name": "검단산",
+    "location": "경기도 하남시 천현동",
+    "height": "658.4"
+  },
+  {
+    "province": "경기도",
+    "name": "견치봉",
+    "location": "경기도 포천시 이동면/가평군",
+    "height": "1120"
+  },
+  {
+    "province": "경기도",
+    "name": "계관산",
+    "location": "\"경기도 가평군",
+    "height": "736"
+  },
+  {
+    "province": "경기도",
+    "name": "계명산",
+    "location": "\"경기도 파주시 광탄면",
+    "height": "622"
+  },
+  {
+    "province": "경기도",
+    "name": "고대산",
+    "location": "경기도 연천군 신서면·강원도 철원군 철원읍",
+    "height": "832"
+  },
+  {
+    "province": "경기도",
+    "name": "고동산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "600"
+  },
+  {
+    "province": "경기도",
+    "name": "고래산",
+    "location": "\"경기도 여주군 북내면",
+    "height": "543"
+  },
+  {
+    "province": "경기도",
+    "name": "고령산",
+    "location": "\"경기도 파주시 광탄면",
+    "height": "622"
+  },
+  {
+    "province": "경기도",
+    "name": "곡달산",
+    "location": "경기도 가평군 설악면",
+    "height": "630"
+  },
+  {
+    "province": "경기도",
+    "name": "관음산",
+    "location": "경기도 포천시 영북면",
+    "height": "733"
+  },
+  {
+    "province": "경기도",
+    "name": "관인봉",
+    "location": "경기도 포천시",
+    "height": "710"
+  },
+  {
+    "province": "경기도",
+    "name": "광교산",
+    "location": "경기도",
+    "height": "582"
+  },
+  {
+    "province": "경기도",
+    "name": "광덕산",
+    "location": "\"경기도 포천시 이동면 화천군 사내면\"",
+    "height": "699"
+  },
+  {
+    "province": "경기도",
+    "name": "구나무산",
+    "location": "\"경기도 가평군 가평읍",
+    "height": "859"
+  },
+  {
+    "province": "경기도",
+    "name": "구봉산",
+    "location": "\"경기도 용인시 원삼면",
+    "height": "469"
+  },
+  {
+    "province": "경기도",
+    "name": "국망봉",
+    "location": "\"경기도 가평시",
+    "height": "1168"
+  },
+  {
+    "province": "경기도",
+    "name": "귀목봉",
+    "location": "\"경기도 가평군 북면",
+    "height": "1036"
+  },
+  {
+    "province": "경기도",
+    "name": "금물산",
+    "location": "\"경기도 양평군",
+    "height": "774"
+  },
+  {
+    "province": "경기도",
+    "name": "금주산",
+    "location": "경기도 포천시 영중면 금주리",
+    "height": "569"
+  },
+  {
+    "province": "경기도",
+    "name": "길매봉",
+    "location": "\"경기도 포천시 일동면",
+    "height": "735"
+  },
+  {
+    "province": "경기도",
+    "name": "깃대봉",
+    "location": "경기도 가평군 가평읍 상면",
+    "height": "520"
+  },
+  {
+    "province": "경기도",
+    "name": "깃대봉",
+    "location": "\"경기도 가평군 하면",
+    "height": "835"
+  },
+  {
+    "province": "경기도",
+    "name": "남한산성",
+    "location": "경기도 광주군 중부면",
+    "height": "480"
+  },
+  {
+    "province": "경기도",
+    "name": "노고산",
+    "location": "\"경기도 양주시",
+    "height": "429"
+  },
+  {
+    "province": "경기도",
+    "name": "노성산",
+    "location": "경기도 이천시 설성면",
+    "height": "310"
+  },
+  {
+    "province": "경기도",
+    "name": "녹수봉",
+    "location": "경기도 청평 덕현리",
+    "height": "370"
+  },
+  {
+    "province": "경기도",
+    "name": "단월산",
+    "location": "경기도 양평군 단월면",
+    "height": "778"
+  },
+  {
+    "province": "경기도",
+    "name": "당산",
+    "location": "\"경기도 양평군 강원도 원주시\"",
+    "height": "541"
+  },
+  {
+    "province": "경기도",
+    "name": "대금산",
+    "location": "\"경기도 가평군 가평읍",
+    "height": "705.8"
+  },
+  {
+    "province": "경기도",
+    "name": "대부산",
+    "location": "경기도 양평군 옥천면",
+    "height": "743"
+  },
+  {
+    "province": "경기도",
+    "name": "덕성산",
+    "location": "경기도 안성시 금광면",
+    "height": "519"
+  },
+  {
+    "province": "경기도",
+    "name": "덕암산",
+    "location": "\"경기도 평택시",
+    "height": "163"
+  },
+  {
+    "province": "경기도",
+    "name": "덕지산",
+    "location": "경기도 평택시",
+    "height": "138"
+  },
+  {
+    "province": "경기도",
+    "name": "도드람산",
+    "location": "경기도 이천시 마장면",
+    "height": "349"
+  },
+  {
+    "province": "경기도",
+    "name": "도마치봉",
+    "location": "\"경기도 포천시 이동면",
+    "height": "937"
+  },
+  {
+    "province": "경기도",
+    "name": "도일봉",
+    "location": "\"경기도 양평군 용문면",
+    "height": "864"
+  },
+  {
+    "province": "경기도",
+    "name": "둔지봉",
+    "location": "경기도 성남시",
+    "height": "310"
+  },
+  {
+    "province": "경기도",
+    "name": "마구산",
+    "location": "경기도 용인시 처인구 포곡읍 금어리",
+    "height": "595"
+  },
+  {
+    "province": "경기도",
+    "name": "마옥산",
+    "location": "경기도 안성시 일죽면 고은리",
+    "height": "446"
+  },
+  {
+    "province": "경기도",
+    "name": "매곡산",
+    "location": "경기도 양평군 서종면",
+    "height": "507"
+  },
+  {
+    "province": "경기도",
+    "name": "매봉",
+    "location": "\"경기도 가평군 하면",
+    "height": "865"
+  },
+  {
+    "province": "경기도",
+    "name": "명지산",
+    "location": "경기도 가평군 북면ㆍ하면",
+    "height": "1252.3"
+  },
+  {
+    "province": "경기도",
+    "name": "모락산",
+    "location": "\"경기도 의왕시 오전동",
+    "height": "385"
+  },
+  {
+    "province": "경기도",
+    "name": "몽덕산",
+    "location": "\"경기도 가평군 북면",
+    "height": "690"
+  },
+  {
+    "province": "경기도",
+    "name": "무갑산",
+    "location": "경기도 광주시 초월읍",
+    "height": "578"
+  },
+  {
+    "province": "경기도",
+    "name": "문례봉",
+    "location": "\"경기도 양평군 용문면",
+    "height": "992"
+  },
+  {
+    "province": "경기도",
+    "name": "문수산",
+    "location": "경기도 김포시 월곶면",
+    "height": "376"
+  },
+  {
+    "province": "경기도",
+    "name": "문안산",
+    "location": "경기도 남양주시 화도읍 금남리",
+    "height": "536"
+  },
+  {
+    "province": "경기도",
+    "name": "문형산",
+    "location": "경기도 광주시 오포읍",
+    "height": "499"
+  },
+  {
+    "province": "경기도",
+    "name": "민둥산",
+    "location": "\"경기도 포천시 이동면",
+    "height": "1023"
+  },
+  {
+    "province": "경기도",
+    "name": "바라산",
+    "location": "\"경기도 의왕시",
+    "height": "428"
+  },
+  {
+    "province": "경기도",
+    "name": "바른골봉",
+    "location": "\"경기도 가평군 가평읍",
+    "height": "781"
+  },
+  {
+    "province": "경기도",
+    "name": "박달봉",
+    "location": "\"경기도 포천시 이동면",
+    "height": "800"
+  },
+  {
+    "province": "경기도",
+    "name": "백둔봉",
+    "location": "경기도 가평군 북면",
+    "height": "974"
+  },
+  {
+    "province": "경기도",
+    "name": "백마산",
+    "location": "경기도 광주시",
+    "height": "286"
+  },
+  {
+    "province": "경기도",
+    "name": "백봉산(백봉)",
+    "location": "\"경기도 남양주시 평내동 화도읍\"",
+    "height": "587"
+  },
+  {
+    "province": "경기도",
+    "name": "백운봉",
+    "location": "\"경기도 양평군 양평읍 용문면\"",
+    "height": "936"
+  },
+  {
+    "province": "경기도",
+    "name": "백운산",
+    "location": "\"경기도 시흥시 수원시\"",
+    "height": "567"
+  },
+  {
+    "province": "경기도",
+    "name": "백운산",
+    "location": "경기도 평택시",
+    "height": "191"
+  },
+  {
+    "province": "경기도",
+    "name": "백운산(포천)",
+    "location": "\"경기도 포천시 이동면",
+    "height": "903"
+  },
+  {
+    "province": "경기도",
+    "name": "백족산",
+    "location": "경기도 이천시",
+    "height": "412"
+  },
+  {
+    "province": "경기도",
+    "name": "보금산",
+    "location": "경기도 여주군 북내면",
+    "height": "364"
+  },
+  {
+    "province": "경기도",
+    "name": "보납산",
+    "location": "경기도 가평군",
+    "height": "330"
+  },
+  {
+    "province": "경기도",
+    "name": "보리산",
+    "location": "경기도가평군",
+    "height": "627"
+  },
+  {
+    "province": "경기도",
+    "name": "봉미산",
+    "location": "경기도 양평군 단월면ㆍ설악면",
+    "height": "856"
+  },
+  {
+    "province": "경기도",
+    "name": "북배산",
+    "location": "\"경기도 가평군 북면",
+    "height": "869.6"
+  },
+  {
+    "province": "경기도",
+    "name": "북성산",
+    "location": "경기도 여주군 여주읍",
+    "height": "259"
+  },
+  {
+    "province": "경기도",
+    "name": "불곡산",
+    "location": "\"경기도 성남시",
+    "height": "465"
+  },
+  {
+    "province": "경기도",
+    "name": "불곡산",
+    "location": "경기도 양주시 유양동",
+    "height": "313"
+  },
+  {
+    "province": "경기도",
+    "name": "불기산",
+    "location": "경기도 가평군",
+    "height": "601"
+  },
+  {
+    "province": "경기도",
+    "name": "뾰루봉",
+    "location": "경기도 가평군 설악면",
+    "height": "710"
+  },
+  {
+    "province": "경기도",
+    "name": "사패산",
+    "location": "\"경기도 의정부시",
+    "height": "552"
+  },
+  {
+    "province": "경기도",
+    "name": "사향봉",
+    "location": "경기도 가평군 북면",
+    "height": "1031"
+  },
+  {
+    "province": "경기도",
+    "name": "사향산",
+    "location": "경기도 포천시 이동면",
+    "height": "507"
+  },
+  {
+    "province": "경기도",
+    "name": "삼각봉",
+    "location": "\"경기도 포천시",
+    "height": "903"
+  },
+  {
+    "province": "경기도",
+    "name": "삼태봉",
+    "location": "경기도 가평군/양평군",
+    "height": "683"
+  },
+  {
+    "province": "경기도",
+    "name": "서리산",
+    "location": "\"경기도 남양주시 수동면",
+    "height": "825"
+  },
+  {
+    "province": "경기도",
+    "name": "서운산",
+    "location": "경기도 안성시 서운면ㆍ충청북도 진천군 백곡면",
+    "height": "547.7"
+  },
+  {
+    "province": "경기도",
+    "name": "석룡산",
+    "location": "경기도 가평군 북면ㆍ강원도 화천군 사내면",
+    "height": "1153"
+  },
+  {
+    "province": "경기도",
+    "name": "설봉산",
+    "location": "경기도 이천시 이천읍",
+    "height": "394"
+  },
+  {
+    "province": "경기도",
+    "name": "성주산",
+    "location": "경기도 부천시",
+    "height": "217"
+  },
+  {
+    "province": "경기도",
+    "name": "성지봉",
+    "location": "\"경기도 양평군 청운면",
+    "height": "791"
+  },
+  {
+    "province": "경기도",
+    "name": "소구니산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "798"
+  },
+  {
+    "province": "경기도",
+    "name": "소리산",
+    "location": "경기도 양평군 단월면",
+    "height": "480.1"
+  },
+  {
+    "province": "경기도",
+    "name": "소요산",
+    "location": "\"경기도 동두천시",
+    "height": "587.5"
+  },
+  {
+    "province": "경기도",
+    "name": "송악산",
+    "location": "경기도 가평군",
+    "height": "705"
+  },
+  {
+    "province": "경기도",
+    "name": "수덕산",
+    "location": "경기도 가평군",
+    "height": "794"
+  },
+  {
+    "province": "경기도",
+    "name": "수리산",
+    "location": "경기도 안양시·군포시·안산시",
+    "height": "489"
+  },
+  {
+    "province": "경기도",
+    "name": "수정산",
+    "location": "경기도 용인시",
+    "height": "345"
+  },
+  {
+    "province": "경기도",
+    "name": "신로봉",
+    "location": "\"경기도 포천시 이동면",
+    "height": "999"
+  },
+  {
+    "province": "경기도",
+    "name": "아기봉",
+    "location": "경기도 가평군 하면",
+    "height": "772"
+  },
+  {
+    "province": "경기도",
+    "name": "애기봉",
+    "location": "경기도 가평군 북면 적목리",
+    "height": "1055"
+  },
+  {
+    "province": "경기도",
+    "name": "애기봉",
+    "location": "경기도 김포 하성면",
+    "height": "154"
+  },
+  {
+    "province": "경기도",
+    "name": "앵자봉",
+    "location": "\"경기도 광주군 퇴촌면 여주군 산북면 양평군 강하면\"",
+    "height": "667"
+  },
+  {
+    "province": "경기도",
+    "name": "양자산",
+    "location": "\"경기도 여주군 산북면",
+    "height": "712"
+  },
+  {
+    "province": "경기도",
+    "name": "어비산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "726"
+  },
+  {
+    "province": "경기도",
+    "name": "여계산",
+    "location": "경기도 오산시 신장동",
+    "height": "86"
+  },
+  {
+    "province": "경기도",
+    "name": "여우봉",
+    "location": "경기도 포천시 영북면 이동면",
+    "height": "620"
+  },
+  {
+    "province": "경기도",
+    "name": "연인산",
+    "location": "경기도 가평군 가평읍ㆍ북면ㆍ하면",
+    "height": "1068"
+  },
+  {
+    "province": "경기도",
+    "name": "열미봉",
+    "location": "경기도 광주군 퇴촌면 실촌면",
+    "height": "610"
+  },
+  {
+    "province": "경기도",
+    "name": "예봉산",
+    "location": "\"경기도 남양주시 와부읍",
+    "height": "638"
+  },
+  {
+    "province": "경기도",
+    "name": "옥녀봉",
+    "location": "경기도 가평군 승안리",
+    "height": "715"
+  },
+  {
+    "province": "경기도",
+    "name": "옥산",
+    "location": "경기도 양평군 옥천면",
+    "height": "578"
+  },
+  {
+    "province": "경기도",
+    "name": "왕방산",
+    "location": "\"경기도 동두천시",
+    "height": "737"
+  },
+  {
+    "province": "경기도",
+    "name": "용마산",
+    "location": "경기도 광주시 남종면 삼성리",
+    "height": "596"
+  },
+  {
+    "province": "경기도",
+    "name": "용문산",
+    "location": "경기도 양평군 용문면ㆍ옥천면",
+    "height": "1157.1"
+  },
+  {
+    "province": "경기도",
+    "name": "용조봉",
+    "location": "경기도 양평군",
+    "height": "631"
+  },
+  {
+    "province": "경기도",
+    "name": "우두산",
+    "location": "\"경기도 양평",
+    "height": "359"
+  },
+  {
+    "province": "경기도",
+    "name": "운길산",
+    "location": "경기도 남양주시 조안면 송촌리",
+    "height": "610"
+  },
+  {
+    "province": "경기도",
+    "name": "운악산",
+    "location": "\"경기도 가평군 하면",
+    "height": "934.7"
+  },
+  {
+    "province": "경기도",
+    "name": "운흥산",
+    "location": "경기도 시흥시",
+    "height": "205"
+  },
+  {
+    "province": "경기도",
+    "name": "원미산",
+    "location": "경기도 부천시",
+    "height": "168"
+  },
+  {
+    "province": "경기도",
+    "name": "원적산",
+    "location": "\"경기도 이천시 백사면",
+    "height": "564"
+  },
+  {
+    "province": "경기도",
+    "name": "유명산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "864"
+  },
+  {
+    "province": "경기도",
+    "name": "은두봉",
+    "location": "\"경기도 남양주시 수동면",
+    "height": "678"
+  },
+  {
+    "province": "경기도",
+    "name": "장락산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "627"
+  },
+  {
+    "province": "경기도",
+    "name": "전패봉(우정봉)",
+    "location": "\"경기도 가평군 가평읍",
+    "height": "701"
+  },
+  {
+    "province": "경기도",
+    "name": "정광산",
+    "location": "경기도 용인시 모현면",
+    "height": "563"
+  },
+  {
+    "province": "경기도",
+    "name": "정암산",
+    "location": "경기도 광주군 남종면",
+    "height": "403"
+  },
+  {
+    "province": "경기도",
+    "name": "조비산",
+    "location": "경기도 용인시 백암면",
+    "height": "260"
+  },
+  {
+    "province": "경기도",
+    "name": "종자산",
+    "location": "경기도 포천시 관인면",
+    "height": "643"
+  },
+  {
+    "province": "경기도",
+    "name": "종현산",
+    "location": "경기도 포천시 청산면",
+    "height": "588"
+  },
+  {
+    "province": "경기도",
+    "name": "주금산",
+    "location": "\"경기도 남양주시 수동면 가평군 상면\"",
+    "height": "813"
+  },
+  {
+    "province": "경기도",
+    "name": "주발봉",
+    "location": "경기도 가평군",
+    "height": "489"
+  },
+  {
+    "province": "경기도",
+    "name": "주읍산",
+    "location": "\"경기도 양평군 양평읍 지제면\"",
+    "height": "583"
+  },
+  {
+    "province": "경기도",
+    "name": "중미산",
+    "location": "경기도 가평군 설악면",
+    "height": "833"
+  },
+  {
+    "province": "경기도",
+    "name": "중봉",
+    "location": "경기도 가평군",
+    "height": "1424"
+  },
+  {
+    "province": "경기도",
+    "name": "중원산",
+    "location": "\"경기도 양평군 용문면",
+    "height": "800"
+  },
+  {
+    "province": "경기도",
+    "name": "천덕봉",
+    "location": "\"경기도 이천시 실촌면",
+    "height": "630"
+  },
+  {
+    "province": "경기도",
+    "name": "천마산",
+    "location": "\"경기도 남양주시 오남읍",
+    "height": "810.3"
+  },
+  {
+    "province": "경기도",
+    "name": "천보산",
+    "location": "경기도 양주시 회천읍",
+    "height": "337"
+  },
+  {
+    "province": "경기도",
+    "name": "청계산",
+    "location": "\"경기도 양평 서종면",
+    "height": "849"
+  },
+  {
+    "province": "경기도",
+    "name": "청계산",
+    "location": "\"경기도 포천시 일동면",
+    "height": "618"
+  },
+  {
+    "province": "경기도",
+    "name": "청명산",
+    "location": "경기도 화성시",
+    "height": "155"
+  },
+  {
+    "province": "경기도",
+    "name": "청우산",
+    "location": "\"경기도 가평군 상면",
+    "height": "619"
+  },
+  {
+    "province": "경기도",
+    "name": "초록산",
+    "location": "경기도 화성시",
+    "height": "152"
+  },
+  {
+    "province": "경기도",
+    "name": "촉대봉",
+    "location": "경기도 가평군 북면·강원도 춘천시 사북면",
+    "height": "1125"
+  },
+  {
+    "province": "경기도",
+    "name": "축령산",
+    "location": "\"경기도 남양주시 수동면",
+    "height": "887.1"
+  },
+  {
+    "province": "경기도",
+    "name": "칠보산",
+    "location": "\"경기도 수원",
+    "height": "234"
+  },
+  {
+    "province": "경기도",
+    "name": "칠봉산",
+    "location": "\"경기도 동두천시 송내동",
+    "height": "506"
+  },
+  {
+    "province": "경기도",
+    "name": "칠봉산",
+    "location": "경기도 양주시 회천읍",
+    "height": "506"
+  },
+  {
+    "province": "경기도",
+    "name": "칠장산",
+    "location": "\"경기도 안성시 죽산면 삼죽면\"",
+    "height": "492"
+  },
+  {
+    "province": "경기도",
+    "name": "칼봉산",
+    "location": "경기도 가평군 가평읍",
+    "height": "900"
+  },
+  {
+    "province": "경기도",
+    "name": "태을봉",
+    "location": "\"경기도 군포시",
+    "height": "488"
+  },
+  {
+    "province": "경기도",
+    "name": "태화산",
+    "location": "경기도 광주시 도척면",
+    "height": "641.1"
+  },
+  {
+    "province": "경기도",
+    "name": "통방산",
+    "location": "\"경기도 양평군 서종면",
+    "height": "650"
+  },
+  {
+    "province": "경기도",
+    "name": "팔강산",
+    "location": "경기도 구리시 갈매동",
+    "height": "150"
+  },
+  {
+    "province": "경기도",
+    "name": "편전산",
+    "location": "경기도 양평군",
+    "height": "376"
+  },
+  {
+    "province": "경기도",
+    "name": "한나무봉",
+    "location": "\"경기도 포천시 일동면",
+    "height": "768"
+  },
+  {
+    "province": "경기도",
+    "name": "함왕봉",
+    "location": "경기도 양평군",
+    "height": "947"
+  },
+  {
+    "province": "경기도",
+    "name": "해협산",
+    "location": "\"경기도 광주군 퇴촌면",
+    "height": "531"
+  },
+  {
+    "province": "경기도",
+    "name": "호명산",
+    "location": "경기도 가평군 청평면",
+    "height": "632.4"
+  },
+  {
+    "province": "경기도",
+    "name": "화악산(중봉)",
+    "location": "\"경기도 가평군 북면",
+    "height": "1468.3"
+  },
+  {
+    "province": "경기도",
+    "name": "화야산",
+    "location": "\"경기도 가평군 설악면",
+    "height": "755"
+  },
+  {
+    "province": "경기도",
+    "name": "화인봉",
+    "location": "경기도 가평군 관인면 중리",
+    "height": "805"
+  },
+  {
+    "province": "강원도",
+    "name": "가리봉",
+    "location": "강원도 인제군",
+    "height": "1519"
+  },
+  {
+    "province": "강원도",
+    "name": "가리산",
+    "location": "\"강원도 춘천시 북산면ㆍ동면",
+    "height": "1050.9"
+  },
+  {
+    "province": "강원도",
+    "name": "가리왕산",
+    "location": "\"강원도 정선군 정선읍 회동리ㆍ북평면",
+    "height": "1561.9"
+  },
+  {
+    "province": "강원도",
+    "name": "가마봉",
+    "location": "\"강원도 홍천군 내촌면",
+    "height": "925"
+  },
+  {
+    "province": "강원도",
+    "name": "가칠봉",
+    "location": "강원도 인제군 기린면 진동리",
+    "height": "1242"
+  },
+  {
+    "province": "강원도",
+    "name": "각희산",
+    "location": "\"강원도 정선군 동면",
+    "height": "1083"
+  },
+  {
+    "province": "강원도",
+    "name": "간대산",
+    "location": "강원도 삼척시 신기면 신기리",
+    "height": "502"
+  },
+  {
+    "province": "강원도",
+    "name": "간현봉",
+    "location": "강원도 원주시 지정면",
+    "height": "386"
+  },
+  {
+    "province": "강원도",
+    "name": "갈경산",
+    "location": "\"강원도 삼척시 원덕읍",
+    "height": "783"
+  },
+  {
+    "province": "강원도",
+    "name": "갈미봉",
+    "location": "\"강원도 원주시",
+    "height": "595"
+  },
+  {
+    "province": "강원도",
+    "name": "감악산",
+    "location": "강원도 원주시 신림면",
+    "height": "945"
+  },
+  {
+    "province": "강원도",
+    "name": "감악삼봉",
+    "location": "강원도 원주시",
+    "height": "925"
+  },
+  {
+    "province": "강원도",
+    "name": "개인산",
+    "location": "강원도 인제군 상남면ㆍ홍천군 내면",
+    "height": "1341.9"
+  },
+  {
+    "province": "강원도",
+    "name": "거문산",
+    "location": "강원도 평창군",
+    "height": "1173"
+  },
+  {
+    "province": "강원도",
+    "name": "검각산",
+    "location": "강원도 영월군 남면",
+    "height": "505"
+  },
+  {
+    "province": "강원도",
+    "name": "검봉",
+    "location": "강원도 춘천시 남산면",
+    "height": "530"
+  },
+  {
+    "province": "강원도",
+    "name": "계방산",
+    "location": "\"강원도 홍천군 내면",
+    "height": "1579.1"
+  },
+  {
+    "province": "강원도",
+    "name": "계족산",
+    "location": "강원도 영월군 영월읍",
+    "height": "890"
+  },
+  {
+    "province": "강원도",
+    "name": "고고산",
+    "location": "\"강원도 영월군",
+    "height": "854"
+  },
+  {
+    "province": "강원도",
+    "name": "고두산",
+    "location": "강원도 평창군 대화면",
+    "height": "1030"
+  },
+  {
+    "province": "강원도",
+    "name": "고루포기산",
+    "location": "\"강원도 강릉시",
+    "height": "1238"
+  },
+  {
+    "province": "강원도",
+    "name": "고성산",
+    "location": "강원도 고성군간성읍 금수리",
+    "height": "186"
+  },
+  {
+    "province": "강원도",
+    "name": "고성산",
+    "location": "강원도 삼척시",
+    "height": "546"
+  },
+  {
+    "province": "강원도",
+    "name": "고양산",
+    "location": "강원도 정선군",
+    "height": "1151"
+  },
+  {
+    "province": "강원도",
+    "name": "곧은봉",
+    "location": "강원도 춘천시 동면",
+    "height": "499"
+  },
+  {
+    "province": "강원도",
+    "name": "곰바위봉",
+    "location": "강원도 원주시",
+    "height": "627"
+  },
+  {
+    "province": "강원도",
+    "name": "곰봉",
+    "location": "강원도 영월군",
+    "height": "1015"
+  },
+  {
+    "province": "강원도",
+    "name": "공작산",
+    "location": "\"강원도 홍천군 동면",
+    "height": "887.4"
+  },
+  {
+    "province": "강원도",
+    "name": "괘방산",
+    "location": "강원도 강릉시 강동면",
+    "height": "339"
+  },
+  {
+    "province": "강원도",
+    "name": "구룡산",
+    "location": "강원도 영월군",
+    "height": "283"
+  },
+  {
+    "province": "강원도",
+    "name": "구룡산",
+    "location": "강원도 원주시 지정면",
+    "height": "479"
+  },
+  {
+    "province": "강원도",
+    "name": "구봉대산",
+    "location": "강원도 영월군 수주면",
+    "height": "870"
+  },
+  {
+    "province": "강원도",
+    "name": "구봉산",
+    "location": "강원도 춘천시",
+    "height": "440"
+  },
+  {
+    "province": "강원도",
+    "name": "구절산",
+    "location": "\"강원도 춘천시 동산면",
+    "height": "750"
+  },
+  {
+    "province": "강원도",
+    "name": "구학산",
+    "location": "\"강원도 원주시",
+    "height": "983"
+  },
+  {
+    "province": "강원도",
+    "name": "근산",
+    "location": "강원도 삼척시 미로면 내미로리",
+    "height": "505"
+  },
+  {
+    "province": "강원도",
+    "name": "금당산",
+    "location": "강원도 평창군 용평면",
+    "height": "1173"
+  },
+  {
+    "province": "강원도",
+    "name": "금대봉",
+    "location": "강원도 태백시 삼수동",
+    "height": "1418"
+  },
+  {
+    "province": "강원도",
+    "name": "금학산",
+    "location": "강원도 철원군 동송읍",
+    "height": "576"
+  },
+  {
+    "province": "강원도",
+    "name": "금확산",
+    "location": "\"강원도 홍천군 북방면",
+    "height": "655"
+  },
+  {
+    "province": "강원도",
+    "name": "기룡산",
+    "location": "강원도 인제군 인제읍 상동리",
+    "height": "662"
+  },
+  {
+    "province": "강원도",
+    "name": "기마봉",
+    "location": "강원도 강릉시",
+    "height": "383"
+  },
+  {
+    "province": "강원도",
+    "name": "기우산",
+    "location": "강원도 정선군 정선읍 신월리",
+    "height": "870"
+  },
+  {
+    "province": "강원도",
+    "name": "꼭두봉",
+    "location": "강원도 영월군",
+    "height": "860"
+  },
+  {
+    "province": "강원도",
+    "name": "나팔봉",
+    "location": "강원도 정선군 정선읍 광하리",
+    "height": "662"
+  },
+  {
+    "province": "강원도",
+    "name": "남대봉",
+    "location": "\"강원도 원주시 판부면",
+    "height": "1182"
+  },
+  {
+    "province": "강원도",
+    "name": "남병산",
+    "location": "강원도 평창군",
+    "height": "1150"
+  },
+  {
+    "province": "강원도",
+    "name": "노목산",
+    "location": "\"강원도 정선군 사북읍",
+    "height": "1150"
+  },
+  {
+    "province": "강원도",
+    "name": "노인봉",
+    "location": "\"강원도 강릉시",
+    "height": "1338"
+  },
+  {
+    "province": "강원도",
+    "name": "노추산",
+    "location": "강원도 강릉시 왕산면·정선군 북면",
+    "height": "1322"
+  },
+  {
+    "province": "강원도",
+    "name": "뇌암산",
+    "location": "강원도 삼척시 가곡면",
+    "height": "812"
+  },
+  {
+    "province": "강원도",
+    "name": "능경봉",
+    "location": "\"강원도 강릉시",
+    "height": "1123"
+  },
+  {
+    "province": "강원도",
+    "name": "다락산",
+    "location": "\"강원도 강릉시 왕산면",
+    "height": "1018"
+  },
+  {
+    "province": "강원도",
+    "name": "닭이봉",
+    "location": "강원도 정선군",
+    "height": "1028"
+  },
+  {
+    "province": "강원도",
+    "name": "대덕산",
+    "location": "강원도 삼척시 도계읍",
+    "height": "1290"
+  },
+  {
+    "province": "강원도",
+    "name": "대덕산",
+    "location": "강원도 태백시 삼수동",
+    "height": "1310.3"
+  },
+  {
+    "province": "강원도",
+    "name": "대암산",
+    "location": "\"강원 양구군 동면",
+    "height": "1312.6"
+  },
+  {
+    "province": "강원도",
+    "name": "대학산",
+    "location": "\"강원도 홍천군 동면",
+    "height": "876"
+  },
+  {
+    "province": "강원도",
+    "name": "덕고산",
+    "location": "\"강원도 횡성군",
+    "height": "1125"
+  },
+  {
+    "province": "강원도",
+    "name": "덕우산",
+    "location": "\"강원도 강릉시 왕산면",
+    "height": "1007"
+  },
+  {
+    "province": "강원도",
+    "name": "덕항산",
+    "location": "강원도 삼척시 신기면ㆍ태백시 하사미동",
+    "height": "1072.9"
+  },
+  {
+    "province": "강원도",
+    "name": "동대산",
+    "location": "강원도 평창군 진부면",
+    "height": "1434"
+  },
+  {
+    "province": "강원도",
+    "name": "돼지봉",
+    "location": "강원도 영월군",
+    "height": "818"
+  },
+  {
+    "province": "강원도",
+    "name": "된불데기산",
+    "location": "강원도 영월군",
+    "height": "910"
+  },
+  {
+    "province": "강원도",
+    "name": "두개비산",
+    "location": "강원도 홍천군",
+    "height": "250"
+  },
+  {
+    "province": "강원도",
+    "name": "두류산",
+    "location": "\"강원도 화천군 사내면",
+    "height": "993"
+  },
+  {
+    "province": "강원도",
+    "name": "두위봉",
+    "location": "\"강원도 정선군 남면",
+    "height": "1470"
+  },
+  {
+    "province": "강원도",
+    "name": "두타산",
+    "location": "\"강원도 동해시 삼화동",
+    "height": "1357"
+  },
+  {
+    "province": "강원도",
+    "name": "등선봉",
+    "location": "강원도 춘천시 강촌",
+    "height": "632"
+  },
+  {
+    "province": "강원도",
+    "name": "등잔봉",
+    "location": "강원도 춘천시",
+    "height": "834"
+  },
+  {
+    "province": "강원도",
+    "name": "마대산",
+    "location": "\"강원도 영월군 하동면",
+    "height": "1052"
+  },
+  {
+    "province": "강원도",
+    "name": "마명산",
+    "location": "강원도 강릉시",
+    "height": "113"
+  },
+  {
+    "province": "강원도",
+    "name": "마산",
+    "location": "강원도 고성군 간성읍",
+    "height": "1052"
+  },
+  {
+    "province": "강원도",
+    "name": "마적산",
+    "location": "\"강원도 춘천시 신북읍",
+    "height": "610.3"
+  },
+  {
+    "province": "강원도",
+    "name": "망경대산",
+    "location": "강원도 영월군 하동면",
+    "height": "1088"
+  },
+  {
+    "province": "강원도",
+    "name": "매봉산",
+    "location": "강원 영월 상동읍. 중동면",
+    "height": "1095"
+  },
+  {
+    "province": "강원도",
+    "name": "매봉산",
+    "location": "\"강원도 원주시 신림면",
+    "height": "806"
+  },
+  {
+    "province": "강원도",
+    "name": "매화산",
+    "location": "강원도 원주시 소초면",
+    "height": "954"
+  },
+  {
+    "province": "강원도",
+    "name": "맹현봉",
+    "location": "강원도 홍천군 내면",
+    "height": "1214"
+  },
+  {
+    "province": "강원도",
+    "name": "면산",
+    "location": "강원도 삼척시",
+    "height": "1245"
+  },
+  {
+    "province": "강원도",
+    "name": "명봉산",
+    "location": "강원도 원주시 문막",
+    "height": "599"
+  },
+  {
+    "province": "강원도",
+    "name": "명성산",
+    "location": "\"강원도 철원군 갈말읍",
+    "height": "922"
+  },
+  {
+    "province": "강원도",
+    "name": "모산봉",
+    "location": "강원도 강릉시",
+    "height": "104"
+  },
+  {
+    "province": "강원도",
+    "name": "목우산",
+    "location": "강원도 영월군 하동면",
+    "height": "1066"
+  },
+  {
+    "province": "강원도",
+    "name": "무학봉",
+    "location": "\"강원도 화천군 사내면",
+    "height": "832"
+  },
+  {
+    "province": "강원도",
+    "name": "문수봉",
+    "location": "\"강원도 태백시",
+    "height": "1162"
+  },
+  {
+    "province": "강원도",
+    "name": "문암산",
+    "location": "강원도 홍천군 내면",
+    "height": "1146"
+  },
+  {
+    "province": "강원도",
+    "name": "미륵산",
+    "location": "강원도 원주시 귀래면",
+    "height": "696"
+  },
+  {
+    "province": "강원도",
+    "name": "민둥산",
+    "location": "강원도 정선군 남면",
+    "height": "1118"
+  },
+  {
+    "province": "강원도",
+    "name": "바위산",
+    "location": "강원도 춘천시 북산면",
+    "height": "858"
+  },
+  {
+    "province": "강원도",
+    "name": "박지산(두타산)",
+    "location": "강원도 평창군 진부면",
+    "height": "1391.4"
+  },
+  {
+    "province": "강원도",
+    "name": "발교산",
+    "location": "\"강원도 홍천군 동면",
+    "height": "998"
+  },
+  {
+    "province": "강원도",
+    "name": "발왕산",
+    "location": "\"강원도 평창군 도암면",
+    "height": "1458"
+  },
+  {
+    "province": "강원도",
+    "name": "밥봉",
+    "location": "강원도 강릉시 옥계면 천남리",
+    "height": "337"
+  },
+  {
+    "province": "강원도",
+    "name": "방태산",
+    "location": "\"강원도 인제군 기린면",
+    "height": "1445.7"
+  },
+  {
+    "province": "강원도",
+    "name": "백덕산",
+    "location": "\"강원도 평창군 방림면 영월군 수주면\"",
+    "height": "1350"
+  },
+  {
+    "province": "강원도",
+    "name": "백병산",
+    "location": "강원도 태백시 황연동",
+    "height": "1259"
+  },
+  {
+    "province": "강원도",
+    "name": "백석봉",
+    "location": "강원도 정선군 북평면",
+    "height": "1170"
+  },
+  {
+    "province": "강원도",
+    "name": "백석산",
+    "location": "\"강원도 평창군 대화면",
+    "height": "1365"
+  },
+  {
+    "province": "강원도",
+    "name": "백우산",
+    "location": "강원도 홍천군 내촌면",
+    "height": "895"
+  },
+  {
+    "province": "강원도",
+    "name": "백운산(정선)",
+    "location": "\"강원도 정선군 신동읍",
+    "height": "883.5"
+  },
+  {
+    "province": "강원도",
+    "name": "백이산",
+    "location": "강원도 정선군",
+    "height": "369"
+  },
+  {
+    "province": "강원도",
+    "name": "백적산",
+    "location": "\"강원도 평창군 대화면",
+    "height": "1141"
+  },
+  {
+    "province": "강원도",
+    "name": "번암산",
+    "location": "강원도 화천군 사내면",
+    "height": "840"
+  },
+  {
+    "province": "강원도",
+    "name": "범바위봉",
+    "location": "강원도 삼척시 가곡면",
+    "height": "626"
+  },
+  {
+    "province": "강원도",
+    "name": "벼락바위봉",
+    "location": "강원도 원주시",
+    "height": "939"
+  },
+  {
+    "province": "강원도",
+    "name": "벽암산",
+    "location": "강원 정선 남면",
+    "height": "923"
+  },
+  {
+    "province": "강원도",
+    "name": "병무산",
+    "location": "\"강원도 횡성군 갑천면",
+    "height": "920"
+  },
+  {
+    "province": "강원도",
+    "name": "병풍산",
+    "location": "강원도 화천군",
+    "height": "796"
+  },
+  {
+    "province": "강원도",
+    "name": "보개산",
+    "location": "\"강원도 철원군 포천시\"",
+    "height": "780"
+  },
+  {
+    "province": "강원도",
+    "name": "보래봉",
+    "location": "강원도 평창군 봉평면",
+    "height": "1324"
+  },
+  {
+    "province": "강원도",
+    "name": "보석봉",
+    "location": "강원도 평창군",
+    "height": "985"
+  },
+  {
+    "province": "강원도",
+    "name": "복계산",
+    "location": "강원도 철원군 근남면",
+    "height": "1054"
+  },
+  {
+    "province": "강원도",
+    "name": "복두산",
+    "location": "강원도 삼척시 가곡면",
+    "height": "978"
+  },
+  {
+    "province": "강원도",
+    "name": "복주산",
+    "location": "강원도 철원군 근남면·화천군 사내면",
+    "height": "1152.1"
+  },
+  {
+    "province": "강원도",
+    "name": "봉래산",
+    "location": "강원도 영월군 영월읍",
+    "height": "856"
+  },
+  {
+    "province": "강원도",
+    "name": "봉복산",
+    "location": "\"강원도 횡성군 청일면",
+    "height": "1022"
+  },
+  {
+    "province": "강원도",
+    "name": "봉화봉",
+    "location": "강원도 인제군 북면 원통리",
+    "height": "590"
+  },
+  {
+    "province": "강원도",
+    "name": "봉화산",
+    "location": "강원도 춘천시 남산면",
+    "height": "329"
+  },
+  {
+    "province": "강원도",
+    "name": "봉화산",
+    "location": "강원도 춘천시 북산면",
+    "height": "734"
+  },
+  {
+    "province": "강원도",
+    "name": "봉화산",
+    "location": "강원도 홍천군",
+    "height": "487"
+  },
+  {
+    "province": "강원도",
+    "name": "부용산",
+    "location": "강원도 춘천시",
+    "height": "882"
+  },
+  {
+    "province": "강원도",
+    "name": "불금봉",
+    "location": "강원도 홍천군 북방면 성동리",
+    "height": "499"
+  },
+  {
+    "province": "강원도",
+    "name": "불화산",
+    "location": "강원도 강릉시 강동면",
+    "height": "31"
+  },
+  {
+    "province": "강원도",
+    "name": "비산",
+    "location": "강원도 원주시 영월군",
+    "height": "694"
+  },
+  {
+    "province": "강원도",
+    "name": "사금산",
+    "location": "\"강원도 삼척시 도계읍",
+    "height": "1092"
+  },
+  {
+    "province": "강원도",
+    "name": "사달산",
+    "location": "\"강원도 강릉",
+    "height": "1187"
+  },
+  {
+    "province": "강원도",
+    "name": "사명산",
+    "location": "\"강원도 춘천시 북산면 양구군 양구읍\"",
+    "height": "1198"
+  },
+  {
+    "province": "강원도",
+    "name": "사자산",
+    "location": "\"강원도 영월군 수주면",
+    "height": "1181"
+  },
+  {
+    "province": "강원도",
+    "name": "삼방산",
+    "location": "\"강원도 태백시",
+    "height": "1175"
+  },
+  {
+    "province": "강원도",
+    "name": "삼방산",
+    "location": "강원도 평창군 평창읍",
+    "height": "980"
+  },
+  {
+    "province": "강원도",
+    "name": "삼봉",
+    "location": "강원도 원주시",
+    "height": "1073"
+  },
+  {
+    "province": "강원도",
+    "name": "삼악산",
+    "location": "강원도 춘천시 서면",
+    "height": "655.8"
+  },
+  {
+    "province": "강원도",
+    "name": "삼형제봉",
+    "location": "강원도 강릉시 주문진읍 삼교리 / 양양군 현남면",
+    "height": "714"
+  },
+  {
+    "province": "강원도",
+    "name": "삽다리봉",
+    "location": "강원도 춘천시 북산면",
+    "height": "610"
+  },
+  {
+    "province": "강원도",
+    "name": "삿갓봉",
+    "location": "강원도 강릉시",
+    "height": "1055"
+  },
+  {
+    "province": "강원도",
+    "name": "삿갓봉",
+    "location": "강원도 춘천시 사북면",
+    "height": "716"
+  },
+  {
+    "province": "강원도",
+    "name": "삿갓봉",
+    "location": "\"강원도 평창군 평창읍",
+    "height": "400"
+  },
+  {
+    "province": "강원도",
+    "name": "삿갓봉",
+    "location": "강원도 횡성군",
+    "height": "716"
+  },
+  {
+    "province": "강원도",
+    "name": "상원산",
+    "location": "\"강원도 정선군 북평면",
+    "height": "1421"
+  },
+  {
+    "province": "강원도",
+    "name": "상정바위",
+    "location": "강원도 정선군",
+    "height": "1006"
+  },
+  {
+    "province": "강원도",
+    "name": "상해봉",
+    "location": "강원도 철원군",
+    "height": "1024"
+  },
+  {
+    "province": "강원도",
+    "name": "새득이봉",
+    "location": "\"강원도 춘천시",
+    "height": "935"
+  },
+  {
+    "province": "강원도",
+    "name": "샛등봉",
+    "location": "강원도 화천군 사내면",
+    "height": "885"
+  },
+  {
+    "province": "강원도",
+    "name": "석두봉",
+    "location": "강원도 강릉시",
+    "height": "991"
+  },
+  {
+    "province": "강원도",
+    "name": "석병산",
+    "location": "\"강원도 강릉시 옥계면",
+    "height": "1052.5"
+  },
+  {
+    "province": "강원도",
+    "name": "선바위봉",
+    "location": "\"강원도 횡성군",
+    "height": "1001"
+  },
+  {
+    "province": "강원도",
+    "name": "선자령",
+    "location": "\"강원도 강릉시",
+    "height": "1157"
+  },
+  {
+    "province": "강원도",
+    "name": "설악산",
+    "location": "\"강원도 속초시 설악동 양양군 서면ㆍ강현면\"",
+    "height": "1708"
+  },
+  {
+    "province": "강원도",
+    "name": "설악산 공룡능선",
+    "location": "강원도 속초시 설악동",
+    "height": "1708"
+  },
+  {
+    "province": "강원도",
+    "name": "설악산 울산바위",
+    "location": "강원도 속초시 설악동",
+    "height": "873"
+  },
+  {
+    "province": "강원도",
+    "name": "성치산",
+    "location": "강원도 홍천군 북방면",
+    "height": "554"
+  },
+  {
+    "province": "강원도",
+    "name": "소뿔산",
+    "location": "강원도 홍천군 내면",
+    "height": "1108"
+  },
+  {
+    "province": "강원도",
+    "name": "소주봉",
+    "location": "강원도 춘천시",
+    "height": "475"
+  },
+  {
+    "province": "강원도",
+    "name": "수리봉",
+    "location": "강원도 원주시",
+    "height": "427"
+  },
+  {
+    "province": "강원도",
+    "name": "수리봉",
+    "location": "강원도 춘천시 동내면ㆍ동산면",
+    "height": "645"
+  },
+  {
+    "province": "강원도",
+    "name": "수리봉",
+    "location": "강원도 홍천군 횡성군",
+    "height": "1019"
+  },
+  {
+    "province": "강원도",
+    "name": "숲뒤산",
+    "location": "강원도 삼척시 하장면",
+    "height": "1065"
+  },
+  {
+    "province": "강원도",
+    "name": "쉰움산",
+    "location": "\"강원도 삼척시 미로면",
+    "height": "683"
+  },
+  {
+    "province": "강원도",
+    "name": "승두봉",
+    "location": "\"강원도 평창군 방림면",
+    "height": "1013"
+  },
+  {
+    "province": "강원도",
+    "name": "시루봉",
+    "location": "강원도 강릉시 경포대",
+    "height": "73"
+  },
+  {
+    "province": "강원도",
+    "name": "신선바위봉",
+    "location": "강원도 영월군 주천면",
+    "height": "1068"
+  },
+  {
+    "province": "강원도",
+    "name": "십자봉",
+    "location": "\"강원도 원주시 귀래면",
+    "height": "985"
+  },
+  {
+    "province": "강원도",
+    "name": "아미산",
+    "location": "강원도 홍천군 서석면",
+    "height": "961"
+  },
+  {
+    "province": "강원도",
+    "name": "안산",
+    "location": "강원도 인제군 북면",
+    "height": "1430"
+  },
+  {
+    "province": "강원도",
+    "name": "약수봉",
+    "location": "\"강원도 홍천군 동면",
+    "height": "559"
+  },
+  {
+    "province": "강원도",
+    "name": "약수산",
+    "location": "강원도 홍천군 내면",
+    "height": "1306"
+  },
+  {
+    "province": "강원도",
+    "name": "어답산",
+    "location": "강원도 횡성군 갑천면",
+    "height": "789"
+  },
+  {
+    "province": "강원도",
+    "name": "연엽산",
+    "location": "\"강원도 춘천시 동산면",
+    "height": "775"
+  },
+  {
+    "province": "강원도",
+    "name": "연화산",
+    "location": "강원도 태백시 문곡동",
+    "height": "1171.8"
+  },
+  {
+    "province": "강원도",
+    "name": "염장봉",
+    "location": "강원도 정선군 북면 여량리",
+    "height": "689"
+  },
+  {
+    "province": "강원도",
+    "name": "오대산",
+    "location": "\"강원도 평창군 진부면 강릉시 연곡면\"",
+    "height": "1565"
+  },
+  {
+    "province": "강원도",
+    "name": "오대산 호령봉",
+    "location": "\"강원도 평창군 진부면 홍천군 내면\"",
+    "height": "1560"
+  },
+  {
+    "province": "강원도",
+    "name": "오봉산",
+    "location": "강원도 강릉시",
+    "height": "235"
+  },
+  {
+    "province": "강원도",
+    "name": "오봉산",
+    "location": "\"강원도 춘천시 북산면",
+    "height": "777.9"
+  },
+  {
+    "province": "강원도",
+    "name": "오봉산",
+    "location": "\"강원도 횡성군",
+    "height": "1136"
+  },
+  {
+    "province": "강원도",
+    "name": "오음산",
+    "location": "\"강원도 횡성군",
+    "height": "930"
+  },
+  {
+    "province": "강원도",
+    "name": "옥갑산",
+    "location": "\"강원도 정선군 북면",
+    "height": "1285"
+  },
+  {
+    "province": "강원도",
+    "name": "옥녀봉",
+    "location": "강원동 평창군 도암면",
+    "height": "555"
+  },
+  {
+    "province": "강원도",
+    "name": "완택산",
+    "location": "강원도 영월군 영월읍",
+    "height": "917.6"
+  },
+  {
+    "province": "강원도",
+    "name": "왕치산",
+    "location": "강원도 정선군 임계면",
+    "height": "900"
+  },
+  {
+    "province": "강원도",
+    "name": "용인등봉",
+    "location": "강원도 삼척시 가곡면",
+    "height": "1124"
+  },
+  {
+    "province": "강원도",
+    "name": "용화산",
+    "location": "\"강원도 화천군 간동면ㆍ하남면",
+    "height": "877.8"
+  },
+  {
+    "province": "강원도",
+    "name": "운계봉",
+    "location": "강원도 강릉시",
+    "height": "531"
+  },
+  {
+    "province": "강원도",
+    "name": "운교산",
+    "location": "\"강원도 영월군 하동면",
+    "height": "925"
+  },
+  {
+    "province": "강원도",
+    "name": "운무산",
+    "location": "\"강원도 횡성군 청일면",
+    "height": "978.5"
+  },
+  {
+    "province": "강원도",
+    "name": "운봉산",
+    "location": "강원도 고성군 토성면 운봉리",
+    "height": "47"
+  },
+  {
+    "province": "강원도",
+    "name": "월대산",
+    "location": "강원도 강릉시 성덕동",
+    "height": "75"
+  },
+  {
+    "province": "강원도",
+    "name": "육백산",
+    "location": "강원도 삼척시 도계읍 황조리",
+    "height": "1251"
+  },
+  {
+    "province": "강원도",
+    "name": "응복산",
+    "location": "강원도 홍천군 내면",
+    "height": "1156"
+  },
+  {
+    "province": "강원도",
+    "name": "응봉산",
+    "location": "\"강원도 삼척시 가곡면ㆍ원덕읍",
+    "height": "999.7"
+  },
+  {
+    "province": "강원도",
+    "name": "응봉산",
+    "location": "\"강원도 삼척시 도계읍",
+    "height": "1268"
+  },
+  {
+    "province": "강원도",
+    "name": "잠두산",
+    "location": "강원도 평창군",
+    "height": "1243"
+  },
+  {
+    "province": "강원도",
+    "name": "장산",
+    "location": "강원도 영월군 상동읍",
+    "height": "1409"
+  },
+  {
+    "province": "강원도",
+    "name": "장암산",
+    "location": "강원도 평창군 평창읍",
+    "height": "833"
+  },
+  {
+    "province": "강원도",
+    "name": "재래봉",
+    "location": "강원도 평창군",
+    "height": "619"
+  },
+  {
+    "province": "강원도",
+    "name": "절개산",
+    "location": "\"강원도 평창군",
+    "height": "876"
+  },
+  {
+    "province": "강원도",
+    "name": "절산",
+    "location": "강원도 화천",
+    "height": "334"
+  },
+  {
+    "province": "강원도",
+    "name": "점봉산",
+    "location": "\"강원도 양양군 서면",
+    "height": "1426"
+  },
+  {
+    "province": "강원도",
+    "name": "접산",
+    "location": "강원도 영월군",
+    "height": "823"
+  },
+  {
+    "province": "강원도",
+    "name": "제왕산",
+    "location": "\"강원도 강릉시 왕산면",
+    "height": "841"
+  },
+  {
+    "province": "강원도",
+    "name": "조고봉",
+    "location": "강원도 강릉시 왕산면 대기리",
+    "height": "1189"
+  },
+  {
+    "province": "강원도",
+    "name": "조봉",
+    "location": "강원도 양양군",
+    "height": "1182"
+  },
+  {
+    "province": "강원도",
+    "name": "좌방산",
+    "location": "강원도 춘천시 남면 발산리",
+    "height": "435"
+  },
+  {
+    "province": "강원도",
+    "name": "주걱봉",
+    "location": "\"강원도 인제군 북면",
+    "height": "1401"
+  },
+  {
+    "province": "강원도",
+    "name": "주봉산",
+    "location": "강원도 속초시",
+    "height": "338"
+  },
+  {
+    "province": "강원도",
+    "name": "죽엽산",
+    "location": "강원도 화천군",
+    "height": "859"
+  },
+  {
+    "province": "강원도",
+    "name": "중봉산",
+    "location": "강원도 삼척시 가곡면",
+    "height": "740"
+  },
+  {
+    "province": "강원도",
+    "name": "중왕산",
+    "location": "\"강원도 평창군 진부면",
+    "height": "1376"
+  },
+  {
+    "province": "강원도",
+    "name": "지각산",
+    "location": "강원도 삼척시 하장면",
+    "height": "904"
+  },
+  {
+    "province": "강원도",
+    "name": "지억산",
+    "location": "강원도 정선군 동면ㆍ남면",
+    "height": "1117"
+  },
+  {
+    "province": "강원도",
+    "name": "질운산",
+    "location": "\"강원도 영월군 중동면",
+    "height": "1172"
+  },
+  {
+    "province": "강원도",
+    "name": "창안산",
+    "location": "강원도 화천",
+    "height": "542"
+  },
+  {
+    "province": "강원도",
+    "name": "천삼산",
+    "location": "\"강원도 원주시",
+    "height": "819"
+  },
+  {
+    "province": "강원도",
+    "name": "천지봉",
+    "location": "\"강원도 원주시 소초면",
+    "height": "1087"
+  },
+  {
+    "province": "강원도",
+    "name": "청옥산",
+    "location": "\"강원도 동해시 삼화동",
+    "height": "1403"
+  },
+  {
+    "province": "강원도",
+    "name": "청옥산",
+    "location": "강원도 평창군 평창읍",
+    "height": "1256"
+  },
+  {
+    "province": "강원도",
+    "name": "청태산",
+    "location": "\"강원도 횡성군 둔내면 방림면\"",
+    "height": "1200"
+  },
+  {
+    "province": "강원도",
+    "name": "초록봉",
+    "location": "강원도 동해시",
+    "height": "528.7"
+  },
+  {
+    "province": "강원도",
+    "name": "치바위산",
+    "location": "강원도 삼척시 가곡면",
+    "height": "835"
+  },
+  {
+    "province": "강원도",
+    "name": "치악산",
+    "location": "\"강원도 원주시 영월군\"",
+    "height": "1282"
+  },
+  {
+    "province": "강원도",
+    "name": "칠봉산",
+    "location": "강원도 강릉시",
+    "height": "330"
+  },
+  {
+    "province": "강원도",
+    "name": "태기산",
+    "location": "\"횡성군 둔내면 홍천군 서석면\"",
+    "height": "1261"
+  },
+  {
+    "province": "강원도",
+    "name": "태백산",
+    "location": "\"강원도 태백시",
+    "height": "1566.7"
+  },
+  {
+    "province": "강원도",
+    "name": "태봉산",
+    "location": "강원도 강릉시 강동면 모전리",
+    "height": "116"
+  },
+  {
+    "province": "강원도",
+    "name": "태봉산",
+    "location": "강원도 삼척시 오사동",
+    "height": "169"
+  },
+  {
+    "province": "강원도",
+    "name": "태화산",
+    "location": "\"강원도 영월군 영월읍",
+    "height": "1027.5"
+  },
+  {
+    "province": "강원도",
+    "name": "팔봉산",
+    "location": "강원도 홍천군 서면 팔봉리",
+    "height": "328.2"
+  },
+  {
+    "province": "강원도",
+    "name": "피래산",
+    "location": "강원도 강릉시",
+    "height": "754"
+  },
+  {
+    "province": "강원도",
+    "name": "한석산",
+    "location": "강원도 인제군",
+    "height": "1103"
+  },
+  {
+    "province": "강원도",
+    "name": "함백산",
+    "location": "\"강원도 태백시 정선군 고한읍\"",
+    "height": "1573"
+  },
+  {
+    "province": "강원도",
+    "name": "향로봉",
+    "location": "\"강원도 원주시 행구동 신림면 횡성군 강림면\"",
+    "height": "579"
+  },
+  {
+    "province": "강원도",
+    "name": "향로봉",
+    "location": "강원도 춘천시 칠전동",
+    "height": "1043"
+  },
+  {
+    "province": "강원도",
+    "name": "화란봉",
+    "location": "강원도 강릉시 왕산면",
+    "height": "1069"
+  },
+  {
+    "province": "강원도",
+    "name": "황병산",
+    "location": "강원도 평창군 도암면 병내리",
+    "height": "1407"
+  },
+  {
+    "province": "강원도",
+    "name": "황장산",
+    "location": "\"강원도 삼척시 미로면 활기리",
+    "height": "1069"
+  },
+  {
+    "province": "강원도",
+    "name": "회령봉",
+    "location": "강원도 평창군 봉평면",
+    "height": "1309"
+  },
+  {
+    "province": "강원도",
+    "name": "회목봉",
+    "location": "\"강원도 화천군 사내면",
+    "height": "1027"
+  },
+  {
+    "province": "강원도",
+    "name": "후봉",
+    "location": "강원도 춘천시",
+    "height": "575"
+  },
+  {
+    "province": "강원도",
+    "name": "흥정산",
+    "location": "강원도 평창군 봉평면 흥정리",
+    "height": "1279"
+  },
+  {
+    "province": "충청북도",
+    "name": "가령산",
+    "location": "충청북도 괴산군",
+    "height": "642"
+  },
+  {
+    "province": "충청북도",
+    "name": "가은산",
+    "location": "충청북도 제천시 수산면",
+    "height": "575"
+  },
+  {
+    "province": "충청북도",
+    "name": "갈기산",
+    "location": "충청북도 영동군",
+    "height": "585"
+  },
+  {
+    "province": "충청북도",
+    "name": "것대산",
+    "location": "\"충청북도 청주시 상당구",
+    "height": "484"
+  },
+  {
+    "province": "충청북도",
+    "name": "계명산",
+    "location": "충북 충주시 안림동ㆍ용탄동ㆍ종민동",
+    "height": "622"
+  },
+  {
+    "province": "충청북도",
+    "name": "구녀산",
+    "location": "충청북도 청원군 북일면 조정리",
+    "height": "493"
+  },
+  {
+    "province": "충청북도",
+    "name": "구담봉",
+    "location": "\"충청북도 제천시 수산면 괴곡리",
+    "height": "373"
+  },
+  {
+    "province": "충청북도",
+    "name": "구룡산",
+    "location": "\"충청북도 청원군 현도면",
+    "height": "370"
+  },
+  {
+    "province": "충청북도",
+    "name": "국망산",
+    "location": "충청북도 충주시 앙성면 본평리",
+    "height": "770"
+  },
+  {
+    "province": "충청북도",
+    "name": "국봉",
+    "location": "\"충청북도 단양군",
+    "height": "628"
+  },
+  {
+    "province": "충청북도",
+    "name": "군자산",
+    "location": "충청북도 괴산군 칠성면",
+    "height": "948"
+  },
+  {
+    "province": "충청북도",
+    "name": "금단산",
+    "location": "충청북도 괴산군 청천면",
+    "height": "767"
+  },
+  {
+    "province": "충청북도",
+    "name": "금수산",
+    "location": "충청북도 제천시 수산면ㆍ단양군 적성면",
+    "height": "1015.8"
+  },
+  {
+    "province": "충청북도",
+    "name": "금적산",
+    "location": "충청북도 보은군 삼승면 서원리",
+    "height": "652"
+  },
+  {
+    "province": "충청북도",
+    "name": "깃대봉",
+    "location": "충청북도 괴산군 연풍면 원풍리",
+    "height": "644"
+  },
+  {
+    "province": "충청북도",
+    "name": "꾀꼬리봉",
+    "location": "충청북도 제천시 덕산면 월악리",
+    "height": "890"
+  },
+  {
+    "province": "충청북도",
+    "name": "낙가산",
+    "location": "\"충청북도 청주시 상당구 용정동",
+    "height": "475"
+  },
+  {
+    "province": "충청북도",
+    "name": "낙영산",
+    "location": "충청북도 괴산군 청천면",
+    "height": "746"
+  },
+  {
+    "province": "충청북도",
+    "name": "남군자산",
+    "location": "충청북도 괴산군 청천면 관평리",
+    "height": "827"
+  },
+  {
+    "province": "충청북도",
+    "name": "남산",
+    "location": "\"충청북도 충주시 직동",
+    "height": "636"
+  },
+  {
+    "province": "충청북도",
+    "name": "달이산(월이산)",
+    "location": "충청북도 옥천군 이원면",
+    "height": "555.1"
+  },
+  {
+    "province": "충청북도",
+    "name": "대성산",
+    "location": "\"충북 옥천군 이원면",
+    "height": "705.9"
+  },
+  {
+    "province": "충청북도",
+    "name": "덕절산",
+    "location": "충청북도 단양군 단성면",
+    "height": "780"
+  },
+  {
+    "province": "충청북도",
+    "name": "덕주봉",
+    "location": "충청북도 제천시 한수면",
+    "height": "893"
+  },
+  {
+    "province": "충청북도",
+    "name": "도락산",
+    "location": "\"충청북도 단양군 단성면",
+    "height": "965.3"
+  },
+  {
+    "province": "충청북도",
+    "name": "도명산",
+    "location": "충청북도 괴산군 청천면",
+    "height": "642"
+  },
+  {
+    "province": "충청북도",
+    "name": "동림산",
+    "location": "충청북도 청원군",
+    "height": "457"
+  },
+  {
+    "province": "충청북도",
+    "name": "동산",
+    "location": "\"충북 제천시 금성면",
+    "height": "895.5"
+  },
+  {
+    "province": "충청북도",
+    "name": "두악산",
+    "location": "충청북도 단양 단성면",
+    "height": "732"
+  },
+  {
+    "province": "충청북도",
+    "name": "두타산",
+    "location": "\"충북 진천군 초평면 증평읍\"",
+    "height": "598"
+  },
+  {
+    "province": "충청북도",
+    "name": "둔지미산",
+    "location": "충청북도 단양군",
+    "height": "650"
+  },
+  {
+    "province": "충청북도",
+    "name": "둥지봉",
+    "location": "충청북도 단양군",
+    "height": "822"
+  },
+  {
+    "province": "충청북도",
+    "name": "떡갈봉",
+    "location": "충청북도 제천시",
+    "height": "544"
+  },
+  {
+    "province": "충청북도",
+    "name": "마니산",
+    "location": "\"충청북도 영동군",
+    "height": "469"
+  },
+  {
+    "province": "충청북도",
+    "name": "마분봉",
+    "location": "충청북도 괴산군 연풍면",
+    "height": "776"
+  },
+  {
+    "province": "충청북도",
+    "name": "만뢰산",
+    "location": "충청북도 진천군 진천읍 연곡리",
+    "height": "611"
+  },
+  {
+    "province": "충청북도",
+    "name": "만수봉",
+    "location": "\"충청북도 제천시 한수면 충주시 상모면\"",
+    "height": "983"
+  },
+  {
+    "province": "충청북도",
+    "name": "말목산",
+    "location": "충청북도 단양군 적성면 하진리",
+    "height": "710"
+  },
+  {
+    "province": "충청북도",
+    "name": "망덕봉",
+    "location": "충청북도 제천시",
+    "height": "926"
+  },
+  {
+    "province": "충청북도",
+    "name": "메두막봉",
+    "location": "충청북도 제천시",
+    "height": "1100"
+  },
+  {
+    "province": "충청북도",
+    "name": "메밀봉",
+    "location": "\"충청북도 제천시 덕산면",
+    "height": "839"
+  },
+  {
+    "province": "충청북도",
+    "name": "면위산",
+    "location": "충청북도 충주시 동량면",
+    "height": "780"
+  },
+  {
+    "province": "충청북도",
+    "name": "목령산",
+    "location": "충청북도 청원군",
+    "height": "229"
+  },
+  {
+    "province": "충청북도",
+    "name": "묘봉",
+    "location": "\"충청북도 보은군 산외면 신정리",
+    "height": "874"
+  },
+  {
+    "province": "충청북도",
+    "name": "묘적봉",
+    "location": "\"충청북도 단양군",
+    "height": "1148"
+  },
+  {
+    "province": "충청북도",
+    "name": "무제봉",
+    "location": "충청북도 진천군 이월면 선계리",
+    "height": "573"
+  },
+  {
+    "province": "충청북도",
+    "name": "문수봉",
+    "location": "\"충청북도 제천시",
+    "height": "1517"
+  },
+  {
+    "province": "충청북도",
+    "name": "미남봉",
+    "location": "\"충청북도 보은군 산외면",
+    "height": "610"
+  },
+  {
+    "province": "충청북도",
+    "name": "민주지산",
+    "location": "\"충청북도 영동군 상촌면ㆍ용화면 경상북도 김천시 부항면\"",
+    "height": "1241"
+  },
+  {
+    "province": "충청북도",
+    "name": "박달산",
+    "location": "충북 괴산군 감물면ㆍ장연면",
+    "height": "824.5"
+  },
+  {
+    "province": "충청북도",
+    "name": "박쥐봉",
+    "location": "충청북도 충주시 상모면",
+    "height": "782"
+  },
+  {
+    "province": "충청북도",
+    "name": "발치봉",
+    "location": "충청북도 충주시 살미면",
+    "height": "550"
+  },
+  {
+    "province": "충청북도",
+    "name": "백마산",
+    "location": "충북 괴산군 사리면 노송리",
+    "height": "772"
+  },
+  {
+    "province": "충청북도",
+    "name": "백운산",
+    "location": "충북 제천시 백운면",
+    "height": "1087"
+  },
+  {
+    "province": "충청북도",
+    "name": "백족산",
+    "location": "충북 청원군 낭성면 추정리",
+    "height": "402"
+  },
+  {
+    "province": "충청북도",
+    "name": "백하산",
+    "location": "\"충청북도 영동 학산면",
+    "height": "634"
+  },
+  {
+    "province": "충청북도",
+    "name": "백화산",
+    "location": "\"충청북도 영동군 황간면",
+    "height": "1063"
+  },
+  {
+    "province": "충청북도",
+    "name": "보개산",
+    "location": "\"충청북도 괴산군 장연면",
+    "height": "877"
+  },
+  {
+    "province": "충청북도",
+    "name": "보광산",
+    "location": "충청북도 괴산군 사리면",
+    "height": "539"
+  },
+  {
+    "province": "충청북도",
+    "name": "보련산",
+    "location": "\"충청북도 충주시 앙성면",
+    "height": "765"
+  },
+  {
+    "province": "충청북도",
+    "name": "부모산",
+    "location": "\"충청북도 청주시 흥덕구 비하동",
+    "height": "232"
+  },
+  {
+    "province": "충청북도",
+    "name": "부용산",
+    "location": "\"충청북도 음성군 음성읍",
+    "height": "644"
+  },
+  {
+    "province": "충청북도",
+    "name": "북바위산",
+    "location": "\"충청북도 충주시 상모면",
+    "height": "772"
+  },
+  {
+    "province": "충청북도",
+    "name": "비봉산",
+    "location": "충북 제천시 청풍면",
+    "height": "361"
+  },
+  {
+    "province": "충청북도",
+    "name": "사랑산",
+    "location": "충청북도 괴산군 청천면",
+    "height": "647"
+  },
+  {
+    "province": "충청북도",
+    "name": "사봉",
+    "location": "충청북도 단양군 단성면",
+    "height": "879"
+  },
+  {
+    "province": "충청북도",
+    "name": "삼봉산",
+    "location": "충청북도 제천시 백운면",
+    "height": "910"
+  },
+  {
+    "province": "충청북도",
+    "name": "삼태산",
+    "location": "충청북도 단양군 어상천면",
+    "height": "876"
+  },
+  {
+    "province": "충청북도",
+    "name": "상당산성",
+    "location": "충청북도 청주시 상당구",
+    "height": "491"
+  },
+  {
+    "province": "충청북도",
+    "name": "샘봉산",
+    "location": "충청북도 청원군 문의면",
+    "height": "462"
+  },
+  {
+    "province": "충청북도",
+    "name": "서방산",
+    "location": "충청북도 청원군 문의면",
+    "height": "462"
+  },
+  {
+    "province": "충청북도",
+    "name": "석화봉",
+    "location": "충청북도 단양군",
+    "height": "834"
+  },
+  {
+    "province": "충청북도",
+    "name": "선도산",
+    "location": "\"충청북도 청원군 낭성면 무성리 현암리\"",
+    "height": "547"
+  },
+  {
+    "province": "충청북도",
+    "name": "선미봉",
+    "location": "충청북도 단양군 대강면",
+    "height": "1080"
+  },
+  {
+    "province": "충청북도",
+    "name": "성불산",
+    "location": "충청북도 괴산군 감물면 매전리",
+    "height": "532"
+  },
+  {
+    "province": "충청북도",
+    "name": "송학산",
+    "location": "충청북도 제천시 송학면ㆍ강원도 영월군 주천면",
+    "height": "819"
+  },
+  {
+    "province": "충청북도",
+    "name": "수레의산",
+    "location": "충청북도 음성군 생극면",
+    "height": "679"
+  },
+  {
+    "province": "충청북도",
+    "name": "수리봉",
+    "location": "충청북도 단양군 단성면 방곡리",
+    "height": "960"
+  },
+  {
+    "province": "충청북도",
+    "name": "수주팔봉",
+    "location": "충청북도 충주시 살미면 향산리",
+    "height": "490"
+  },
+  {
+    "province": "충청북도",
+    "name": "시랑산",
+    "location": "\"충청북도 제천시 백운면",
+    "height": "691"
+  },
+  {
+    "province": "충청북도",
+    "name": "시루봉",
+    "location": "충청북도 괴산군 연풍면 주진리",
+    "height": "915"
+  },
+  {
+    "province": "충청북도",
+    "name": "신선봉",
+    "location": "\"충북 제천시 청풍면",
+    "height": "891"
+  },
+  {
+    "province": "충청북도",
+    "name": "신선봉",
+    "location": "\"충청북도 충주시 상모면",
+    "height": "486"
+  },
+  {
+    "province": "충청북도",
+    "name": "신선암봉",
+    "location": "충청북도 괴산군 연풍면 원풍리",
+    "height": "937"
+  },
+  {
+    "province": "충청북도",
+    "name": "아가봉",
+    "location": "충청북도 괴산군 청천면 운교리",
+    "height": "541"
+  },
+  {
+    "province": "충청북도",
+    "name": "악휘봉",
+    "location": "충청북도 괴산군 연풍면 적석리",
+    "height": "845"
+  },
+  {
+    "province": "충청북도",
+    "name": "양성산",
+    "location": "충북 청원군 문의면",
+    "height": "300.6"
+  },
+  {
+    "province": "충청북도",
+    "name": "양천산",
+    "location": "충청북도 진천군 문백면",
+    "height": "350"
+  },
+  {
+    "province": "충청북도",
+    "name": "어래산",
+    "location": "충청북도 단양군",
+    "height": "1064"
+  },
+  {
+    "province": "충청북도",
+    "name": "오갑산",
+    "location": "\"충청북도 음성군 감곡면",
+    "height": "609"
+  },
+  {
+    "province": "충청북도",
+    "name": "옥녀봉",
+    "location": "충청북도 괴산군 칠성면 사은리",
+    "height": "599"
+  },
+  {
+    "province": "충청북도",
+    "name": "올산",
+    "location": "충청북도 단양군 대강면 올산리",
+    "height": "858"
+  },
+  {
+    "province": "충청북도",
+    "name": "용두산",
+    "location": "충청북도 제천시 송학면",
+    "height": "871"
+  },
+  {
+    "province": "충청북도",
+    "name": "용마봉",
+    "location": "충청북도 제천시 한수면 송계리",
+    "height": "687"
+  },
+  {
+    "province": "충청북도",
+    "name": "용바위봉",
+    "location": "\"충청북도 제천시",
+    "height": "750"
+  },
+  {
+    "province": "충청북도",
+    "name": "용산봉",
+    "location": "충청북도 단양군",
+    "height": "944"
+  },
+  {
+    "province": "충청북도",
+    "name": "용소봉",
+    "location": "충청북도 영동군",
+    "height": "462"
+  },
+  {
+    "province": "충청북도",
+    "name": "용암봉",
+    "location": "충청북도 제천시 한수면 송계리",
+    "height": "892"
+  },
+  {
+    "province": "충청북도",
+    "name": "우암산",
+    "location": "\"충청북도 청주시 상당구 내덕동 수동 대성동\"",
+    "height": "338"
+  },
+  {
+    "province": "충청북도",
+    "name": "월류봉",
+    "location": "충청북도 영동군 황간면",
+    "height": "401"
+  },
+  {
+    "province": "충청북도",
+    "name": "월악산",
+    "location": "\"충청북도 제천시 한수면",
+    "height": "1095.3"
+  },
+  {
+    "province": "충청북도",
+    "name": "월악수리봉",
+    "location": "충청북도 제천시 한수면 송계리",
+    "height": "761"
+  },
+  {
+    "province": "충청북도",
+    "name": "월악시루봉",
+    "location": "충청북도 제천시",
+    "height": "770"
+  },
+  {
+    "province": "충청북도",
+    "name": "월항삼봉",
+    "location": "\"충청북도 충주시 상모면 미륵리",
+    "height": "851"
+  },
+  {
+    "province": "충청북도",
+    "name": "월형산",
+    "location": "충청북도 제천시 한수면 탄지리",
+    "height": "526"
+  },
+  {
+    "province": "충청북도",
+    "name": "은적산",
+    "location": "충청북도 청원군",
+    "height": "206"
+  },
+  {
+    "province": "충청북도",
+    "name": "이성산",
+    "location": "충청북도 증평군",
+    "height": "257"
+  },
+  {
+    "province": "충청북도",
+    "name": "인등산",
+    "location": "충북 충주시 동량면ㆍ산척면",
+    "height": "666"
+  },
+  {
+    "province": "충청북도",
+    "name": "작성산",
+    "location": "충북 제천시 금성면 성내리",
+    "height": "840"
+  },
+  {
+    "province": "충청북도",
+    "name": "작은동산",
+    "location": "충북 제천시 청풍면 교리",
+    "height": "545"
+  },
+  {
+    "province": "충청북도",
+    "name": "장용산",
+    "location": "충청북도 옥천군 군서면 금산리",
+    "height": "656"
+  },
+  {
+    "province": "충청북도",
+    "name": "저승봉",
+    "location": "충청북도 제천시 청풍면 학현리",
+    "height": "596"
+  },
+  {
+    "province": "충청북도",
+    "name": "제비봉",
+    "location": "충청북도 단양군 단성면",
+    "height": "721"
+  },
+  {
+    "province": "충청북도",
+    "name": "조령산",
+    "location": "\"충청북도 괴산군 연풍면",
+    "height": "1025"
+  },
+  {
+    "province": "충청북도",
+    "name": "조봉산",
+    "location": "충청북도 괴산군 청천면",
+    "height": "687"
+  },
+  {
+    "province": "충청북도",
+    "name": "좌구산",
+    "location": "\"충청북도 증평군 증평읍",
+    "height": "658"
+  },
+  {
+    "province": "충청북도",
+    "name": "주론산",
+    "location": "\"충청북도 제천시 봉양읍",
+    "height": "903"
+  },
+  {
+    "province": "충청북도",
+    "name": "주봉산",
+    "location": "충청북도 충주시 동량면",
+    "height": "643"
+  },
+  {
+    "province": "충청북도",
+    "name": "주월산",
+    "location": "충청북도 괴산군 장연면",
+    "height": "470"
+  },
+  {
+    "province": "충청북도",
+    "name": "주행봉",
+    "location": "충북 영동군 황간면",
+    "height": "874"
+  },
+  {
+    "province": "충청북도",
+    "name": "중대봉",
+    "location": "충청북도 괴산군",
+    "height": "830"
+  },
+  {
+    "province": "충청북도",
+    "name": "지등산",
+    "location": "충청북도 충주시 동량면 조동리",
+    "height": "535"
+  },
+  {
+    "province": "충청북도",
+    "name": "천등산",
+    "location": "\"충청북도 충주시 산척면",
+    "height": "554"
+  },
+  {
+    "province": "충청북도",
+    "name": "천태산",
+    "location": "\"충청북도 영동군 양산면",
+    "height": "715.2"
+  },
+  {
+    "province": "충청북도",
+    "name": "첩푸산",
+    "location": "\"충청북도 충주시 상모면 중산리",
+    "height": "699"
+  },
+  {
+    "province": "충청북도",
+    "name": "칠보산",
+    "location": "충북 괴산군 청안면",
+    "height": "778"
+  },
+  {
+    "province": "충청북도",
+    "name": "하설산",
+    "location": "충청북도 제천시 덕산면",
+    "height": "1028"
+  },
+  {
+    "province": "충청북도",
+    "name": "형제봉",
+    "location": "충청북도 단양군 영춘면",
+    "height": "1115"
+  },
+  {
+    "province": "충청북도",
+    "name": "홀통골산",
+    "location": "충청북도 단양군 영천면",
+    "height": "1029"
+  },
+  {
+    "province": "충청북도",
+    "name": "환희산",
+    "location": "충청북도 진천군 문백면 봉죽리",
+    "height": "402"
+  },
+  {
+    "province": "충청북도",
+    "name": "황정산",
+    "location": "충청북도 단양군",
+    "height": "959"
+  },
+  {
+    "province": "충청남도",
+    "name": "가마봉",
+    "location": "충청남도 공주시 반포면",
+    "height": "416"
+  },
+  {
+    "province": "충청남도",
+    "name": "가야산",
+    "location": "충청남도 서산시 운산면·예산군 덕산면",
+    "height": "678.2"
+  },
+  {
+    "province": "충청남도",
+    "name": "광덕산",
+    "location": "\"충청남도 천안시 광덕면",
+    "height": "699.3"
+  },
+  {
+    "province": "충청남도",
+    "name": "금성산",
+    "location": "충청남도 부여군 부여읍",
+    "height": "121"
+  },
+  {
+    "province": "충청남도",
+    "name": "금오산",
+    "location": "충남 예산군 예산읍",
+    "height": "234.4"
+  },
+  {
+    "province": "충청남도",
+    "name": "남산",
+    "location": "\"충청남도 홍성군 홍성읍 남장리",
+    "height": "221"
+  },
+  {
+    "province": "충청남도",
+    "name": "노성산",
+    "location": "충남 논산시 노성면",
+    "height": "348.9"
+  },
+  {
+    "province": "충청남도",
+    "name": "대둔산",
+    "location": "\"충청남도 논산시 벌곡면ㆍ금산군 진산면",
+    "height": "878.9"
+  },
+  {
+    "province": "충청남도",
+    "name": "덕봉산",
+    "location": "충청남도 예산군 예산읍 수철리 449",
+    "height": "474"
+  },
+  {
+    "province": "충청남도",
+    "name": "덕숭산(수덕산)",
+    "location": "충청남도 예산군 덕산면",
+    "height": "495.2"
+  },
+  {
+    "province": "충청남도",
+    "name": "도고산",
+    "location": "\"충남 아산시 도고면",
+    "height": "482"
+  },
+  {
+    "province": "충청남도",
+    "name": "도덕봉 (흑룡산)",
+    "location": "\"충남 공주시 반포면",
+    "height": "534"
+  },
+  {
+    "province": "충청남도",
+    "name": "도비산",
+    "location": "충청남도 서산시 인지면",
+    "height": "352"
+  },
+  {
+    "province": "충청남도",
+    "name": "만수산",
+    "location": "\"충청남도 부여군 외산면",
+    "height": "575"
+  },
+  {
+    "province": "충청남도",
+    "name": "망경산",
+    "location": "\"충청남도 천안시",
+    "height": "385"
+  },
+  {
+    "province": "충청남도",
+    "name": "명덕산",
+    "location": "충청남도 공주시",
+    "height": "329"
+  },
+  {
+    "province": "충청남도",
+    "name": "무성산",
+    "location": "충남 공주시 우성면 한천리",
+    "height": "613.9"
+  },
+  {
+    "province": "충청남도",
+    "name": "미궐산",
+    "location": "충청남도 청양군",
+    "height": "369"
+  },
+  {
+    "province": "충청남도",
+    "name": "배방산",
+    "location": "충청남도 아산시 배방면",
+    "height": "361"
+  },
+  {
+    "province": "충청남도",
+    "name": "백마산",
+    "location": "\"충청남도 금산군 진산면 삼가리",
+    "height": "460"
+  },
+  {
+    "province": "충청남도",
+    "name": "백암산",
+    "location": "충청남도 금산군 남이면",
+    "height": "650"
+  },
+  {
+    "province": "충청남도",
+    "name": "백월산",
+    "location": "충청남도 홍성군",
+    "height": "394"
+  },
+  {
+    "province": "충청남도",
+    "name": "백화산",
+    "location": "충청남도 태안군 태안읍",
+    "height": "284"
+  },
+  {
+    "province": "충청남도",
+    "name": "봉수산",
+    "location": "\"충청남도 아산시 송악면 유곡리 강장리\"",
+    "height": "535"
+  },
+  {
+    "province": "충청남도",
+    "name": "봉수산",
+    "location": "\"충청남도 예산군 대흥면",
+    "height": "483"
+  },
+  {
+    "province": "충청남도",
+    "name": "봉황산",
+    "location": "충청남도 보령시",
+    "height": "149"
+  },
+  {
+    "province": "충청남도",
+    "name": "부소산",
+    "location": "충청남도 부여군 부여읍",
+    "height": "106"
+  },
+  {
+    "province": "충청남도",
+    "name": "비봉산",
+    "location": "충청남도 청양군",
+    "height": "138"
+  },
+  {
+    "province": "충청남도",
+    "name": "서대산",
+    "location": "\"충청남도 금산군 추부면ㆍ군북면",
+    "height": "904.1"
+  },
+  {
+    "province": "충청남도",
+    "name": "서원산",
+    "location": "충청남도 예산군",
+    "height": "481"
+  },
+  {
+    "province": "충청남도",
+    "name": "석문봉",
+    "location": "\"충청남도 예산군 덕산면",
+    "height": "653"
+  },
+  {
+    "province": "충청남도",
+    "name": "선야봉",
+    "location": "충청남도 금산군 남이면ㆍ전라북도 완주군 운주면",
+    "height": "758.7"
+  },
+  {
+    "province": "충청남도",
+    "name": "설화산",
+    "location": "충청남도 아산시",
+    "height": "440"
+  },
+  {
+    "province": "충청남도",
+    "name": "성거산",
+    "location": "\"충청남도 천안시 성거읍 북면\"",
+    "height": "579"
+  },
+  {
+    "province": "충청남도",
+    "name": "성주산",
+    "location": "\"충남 부여군 성주면",
+    "height": "677"
+  },
+  {
+    "province": "충청남도",
+    "name": "아미산",
+    "location": "\"충남 보령시 미산면",
+    "height": "630"
+  },
+  {
+    "province": "충청남도",
+    "name": "아미산",
+    "location": "충청남도 당진시",
+    "height": "350"
+  },
+  {
+    "province": "충청남도",
+    "name": "약산",
+    "location": "충청남도 공주시 우성면",
+    "height": "280"
+  },
+  {
+    "province": "충청남도",
+    "name": "양각산",
+    "location": "\"충청남도 보령시 웅천읍",
+    "height": "467"
+  },
+  {
+    "province": "충청남도",
+    "name": "오서산",
+    "location": "\"충청남도 보령시 청소면",
+    "height": "789.9"
+  },
+  {
+    "province": "충청남도",
+    "name": "옥마산",
+    "location": "\"충청남도 보령시 성주면",
+    "height": "601"
+  },
+  {
+    "province": "충청남도",
+    "name": "옥양봉",
+    "location": "\"충청남도 예산군 덕산면",
+    "height": "621"
+  },
+  {
+    "province": "충청남도",
+    "name": "용봉산",
+    "location": "충청남도 홍성군 홍북면ㆍ예산군 덕산면",
+    "height": "381"
+  },
+  {
+    "province": "충청남도",
+    "name": "운주산",
+    "location": "\"충청남도 연기군 전동면",
+    "height": "460"
+  },
+  {
+    "province": "충청남도",
+    "name": "월명산",
+    "location": "충청남도 서천군 비인면 성내리",
+    "height": "298"
+  },
+  {
+    "province": "충청남도",
+    "name": "월봉산",
+    "location": "충청남도 천안시",
+    "height": "133"
+  },
+  {
+    "province": "충청남도",
+    "name": "위례산",
+    "location": "충청남도 천안시",
+    "height": "523"
+  },
+  {
+    "province": "충청남도",
+    "name": "은석산",
+    "location": "충남 천안시 북면ㆍ병천면",
+    "height": "455"
+  },
+  {
+    "province": "충청남도",
+    "name": "일락산",
+    "location": "충청남도 서산시",
+    "height": "521"
+  },
+  {
+    "province": "충청남도",
+    "name": "작성산",
+    "location": "충청남도 천안시 병천면 매성리 북면 매송리",
+    "height": "771"
+  },
+  {
+    "province": "충청남도",
+    "name": "장학산",
+    "location": "\"충청남도 공주시 유구읍",
+    "height": "381"
+  },
+  {
+    "province": "충청남도",
+    "name": "진악산",
+    "location": "충남 금산군 금산읍",
+    "height": "732.3"
+  },
+  {
+    "province": "충청남도",
+    "name": "채죽산",
+    "location": "충청남도 공주시 우성면",
+    "height": "177"
+  },
+  {
+    "province": "충청남도",
+    "name": "천방산",
+    "location": "\"충청남도 서천군 판교면",
+    "height": "324"
+  },
+  {
+    "province": "충청남도",
+    "name": "천방산",
+    "location": "충청남도 예산군",
+    "height": "485"
+  },
+  {
+    "province": "충청남도",
+    "name": "천태산",
+    "location": "충청남도 공주시",
+    "height": "392"
+  },
+  {
+    "province": "충청남도",
+    "name": "취암산",
+    "location": "충청남도 천안시",
+    "height": "321"
+  },
+  {
+    "province": "충청남도",
+    "name": "칠갑산",
+    "location": "\"충청남도 청양군 대치면 장평면\"",
+    "height": "559"
+  },
+  {
+    "province": "충청남도",
+    "name": "칠봉산",
+    "location": "충청남도 공주시 탄천면 대학리",
+    "height": "234"
+  },
+  {
+    "province": "충청남도",
+    "name": "태수산",
+    "location": "충청남도 공주시 태봉동",
+    "height": "133"
+  },
+  {
+    "province": "충청남도",
+    "name": "태조산(태조봉)",
+    "location": "충청남도 천안시 안서동",
+    "height": "420.1"
+  },
+  {
+    "province": "충청남도",
+    "name": "팔봉산",
+    "location": "충남 서산시 팔봉면",
+    "height": "362"
+  },
+  {
+    "province": "충청남도",
+    "name": "평안산",
+    "location": "충청남도 공주시 탄천면 운곡리",
+    "height": "168"
+  },
+  {
+    "province": "충청남도",
+    "name": "향적산",
+    "location": "\"충청남도 계룡시 향한리",
+    "height": "574"
+  },
+  {
+    "province": "충청남도",
+    "name": "호태산",
+    "location": "충청남도 공주시 신관동",
+    "height": "138"
+  },
+  {
+    "province": "충청남도",
+    "name": "황적봉",
+    "location": "\"충청남도 공주시 반포면",
+    "height": "664"
+  },
+  {
+    "province": "충청남도",
+    "name": "흑성산",
+    "location": "충청남도 천안시",
+    "height": "495"
+  },
+  {
+    "province": "충청남도",
+    "name": "희리산",
+    "location": "충남 서천군 종천면",
+    "height": "327.1"
+  },
+  {
+    "province": "전라북도",
+    "name": "강천산",
+    "location": "\"전라북도 순창군 팔덕면",
+    "height": "583.7"
+  },
+  {
+    "province": "전라북도",
+    "name": "견두산",
+    "location": "\"전라북도 남원시",
+    "height": "804"
+  },
+  {
+    "province": "전라북도",
+    "name": "경각산",
+    "location": "\"전북 완주군 구이면",
+    "height": "659"
+  },
+  {
+    "province": "전라북도",
+    "name": "경수산",
+    "location": "\"전라북도 고창군 시원면",
+    "height": "444"
+  },
+  {
+    "province": "전라북도",
+    "name": "고덕산",
+    "location": "전라북도 임실군",
+    "height": "603"
+  },
+  {
+    "province": "전라북도",
+    "name": "고덕산",
+    "location": "\"전북 전주시 완산구",
+    "height": "602.7"
+  },
+  {
+    "province": "전라북도",
+    "name": "고리봉(두리봉)",
+    "location": "전북 남원시 주생면ㆍ금지면ㆍ대강면",
+    "height": "710.1"
+  },
+  {
+    "province": "전라북도",
+    "name": "고봉산",
+    "location": "전라북도 군산시",
+    "height": "153"
+  },
+  {
+    "province": "전라북도",
+    "name": "고성산",
+    "location": "전라북도 고창군 성송면/전라남도 장성군 삼계면 부성리",
+    "height": "98"
+  },
+  {
+    "province": "전라북도",
+    "name": "관음봉",
+    "location": "전라북도 부안군",
+    "height": "433"
+  },
+  {
+    "province": "전라북도",
+    "name": "교룡산",
+    "location": "전라북도 남원시",
+    "height": "518"
+  },
+  {
+    "province": "전라북도",
+    "name": "구봉산",
+    "location": "전북 진안군 주천면ㆍ정천면",
+    "height": "1002"
+  },
+  {
+    "province": "전라북도",
+    "name": "구성산",
+    "location": "\"전라북도 김제시 금구면",
+    "height": "488"
+  },
+  {
+    "province": "전라북도",
+    "name": "구수산 갓봉",
+    "location": "전라북도 영광군 백수읍",
+    "height": "344"
+  },
+  {
+    "province": "전라북도",
+    "name": "구황봉",
+    "location": "전라북도 고창군 아산면",
+    "height": "298"
+  },
+  {
+    "province": "전라북도",
+    "name": "나래산",
+    "location": "전라북도 임실군",
+    "height": "544"
+  },
+  {
+    "province": "전라북도",
+    "name": "내동산",
+    "location": "\"전라북도 진안군 백운면 성수면\"",
+    "height": "887"
+  },
+  {
+    "province": "전라북도",
+    "name": "내변산",
+    "location": "전라북도 부안군 변산면 진서면",
+    "height": "459"
+  },
+  {
+    "province": "전라북도",
+    "name": "내장산",
+    "location": "\"전라북도 정읍시 내장동",
+    "height": "763.5"
+  },
+  {
+    "province": "전라북도",
+    "name": "덕두산",
+    "location": "\"전라북도 남원 운봉읍 산내면\"",
+    "height": "1150"
+  },
+  {
+    "province": "전라북도",
+    "name": "덕유산(향적봉)",
+    "location": "\"전라북도 무주군ㆍ장수군",
+    "height": "1614.2"
+  },
+  {
+    "province": "전라북도",
+    "name": "덕태산",
+    "location": "전북 진안군 백운면",
+    "height": "1113"
+  },
+  {
+    "province": "전라북도",
+    "name": "두승산",
+    "location": "전라북도 정읍시 고부면ㆍ덕천면ㆍ소성면",
+    "height": "444"
+  },
+  {
+    "province": "전라북도",
+    "name": "마이산",
+    "location": "전라북도 진안군 진안읍ㆍ마령면",
+    "height": "687.4"
+  },
+  {
+    "province": "전라북도",
+    "name": "만덕산",
+    "location": "\"전북 완주군 상관면",
+    "height": "765.5"
+  },
+  {
+    "province": "전라북도",
+    "name": "만복대",
+    "location": "전라북도 남원시 산내면 덕동리",
+    "height": "1433"
+  },
+  {
+    "province": "전라북도",
+    "name": "만행산",
+    "location": "전라북도 남원시",
+    "height": "909"
+  },
+  {
+    "province": "전라북도",
+    "name": "모악산",
+    "location": "전라북도 김제시 금산면ㆍ전주시 완산구ㆍ완주군 구이면",
+    "height": "795.2"
+  },
+  {
+    "province": "전라북도",
+    "name": "문덕봉",
+    "location": "\"전라북도 남원시 금지면 주생면\"",
+    "height": "598"
+  },
+  {
+    "province": "전라북도",
+    "name": "미륵산",
+    "location": "전북 익산시 금마면ㆍ낭산면ㆍ삼기면",
+    "height": "429.6"
+  },
+  {
+    "province": "전라북도",
+    "name": "바래봉",
+    "location": "\"전라북도 남원시 운봉읍",
+    "height": "1165"
+  },
+  {
+    "province": "전라북도",
+    "name": "방문산",
+    "location": "\"전라북도 고창읍 전라남도 장성 북이면\"",
+    "height": "640"
+  },
+  {
+    "province": "전라북도",
+    "name": "백련산",
+    "location": "\"전라북도 임실군 청웅면",
+    "height": "754"
+  },
+  {
+    "province": "전라북도",
+    "name": "백암산",
+    "location": "\"전라북도 순창군 복흥면",
+    "height": "741.2"
+  },
+  {
+    "province": "전라북도",
+    "name": "변산",
+    "location": "\"전라북도 부안군 변산면 진서면\"",
+    "height": "459"
+  },
+  {
+    "province": "전라북도",
+    "name": "복두봉",
+    "location": "\"전라북도 진안 정천면",
+    "height": "1017"
+  },
+  {
+    "province": "전라북도",
+    "name": "봉실산",
+    "location": "\"전라북도 완주 봉동읍",
+    "height": "372"
+  },
+  {
+    "province": "전라북도",
+    "name": "봉화산",
+    "location": "\"전라북도 장수군 천천면",
+    "height": "338"
+  },
+  {
+    "province": "전라북도",
+    "name": "부귀산",
+    "location": "\"전라북도 진안군 진안읍",
+    "height": "806"
+  },
+  {
+    "province": "전라북도",
+    "name": "산성산",
+    "location": "\"전라북도 순창군",
+    "height": "603"
+  },
+  {
+    "province": "전라북도",
+    "name": "서방산",
+    "location": "전라북도 완주군 용진면",
+    "height": "617"
+  },
+  {
+    "province": "전라북도",
+    "name": "선운산",
+    "location": "전라북도 고창군 아산면ㆍ심원면ㆍ해리면",
+    "height": "334.7"
+  },
+  {
+    "province": "전라북도",
+    "name": "성미산",
+    "location": "전라북도 임실군",
+    "height": "431"
+  },
+  {
+    "province": "전라북도",
+    "name": "성수산",
+    "location": "전라북도 임실군 성수면ㆍ진안군 백운면",
+    "height": "876"
+  },
+  {
+    "province": "전라북도",
+    "name": "성황산",
+    "location": "\"전라북도 정읍시 장명동",
+    "height": "189"
+  },
+  {
+    "province": "전라북도",
+    "name": "신선봉",
+    "location": "전라북도 부안군",
+    "height": "967"
+  },
+  {
+    "province": "전라북도",
+    "name": "아양산",
+    "location": "전라북도 정읍시",
+    "height": "298"
+  },
+  {
+    "province": "전라북도",
+    "name": "안수산",
+    "location": "전라북도 완주군 고산면",
+    "height": "554"
+  },
+  {
+    "province": "전라북도",
+    "name": "여분산",
+    "location": "전라북도 순창군 구림면",
+    "height": "774"
+  },
+  {
+    "province": "전라북도",
+    "name": "연석산",
+    "location": "전라북도 진안군",
+    "height": "928"
+  },
+  {
+    "province": "전라북도",
+    "name": "영대산",
+    "location": "전라북도 장수군 산서면",
+    "height": "666"
+  },
+  {
+    "province": "전라북도",
+    "name": "오봉산",
+    "location": "\"전북 완주군 구이면",
+    "height": "513.2"
+  },
+  {
+    "province": "전라북도",
+    "name": "오성산",
+    "location": "전라북도 군산시",
+    "height": "227"
+  },
+  {
+    "province": "전라북도",
+    "name": "용화산",
+    "location": "전라북도 익산시",
+    "height": "342"
+  },
+  {
+    "province": "전라북도",
+    "name": "운암산",
+    "location": "\"전라북도 완주군 동상면",
+    "height": "597"
+  },
+  {
+    "province": "전라북도",
+    "name": "운장산",
+    "location": "\"전라북도 진안군 주천면ㆍ부귀면ㆍ정천면",
+    "height": "1125.8"
+  },
+  {
+    "province": "전라북도",
+    "name": "원등산",
+    "location": "전라북도 완주군",
+    "height": "713"
+  },
+  {
+    "province": "전라북도",
+    "name": "원통산",
+    "location": "전라북도 임실군",
+    "height": "603"
+  },
+  {
+    "province": "전라북도",
+    "name": "위봉산",
+    "location": "\"전라북도 완주군 소양면",
+    "height": "524"
+  },
+  {
+    "province": "전라북도",
+    "name": "장군봉",
+    "location": "\"전라북도 완주군 동상면",
+    "height": "735"
+  },
+  {
+    "province": "전라북도",
+    "name": "장안산",
+    "location": "\"전라북도 장수군 장수읍",
+    "height": "1237.4"
+  },
+  {
+    "province": "전라북도",
+    "name": "적상산",
+    "location": "전라북도 무주군 적상면",
+    "height": "1030.6"
+  },
+  {
+    "province": "전라북도",
+    "name": "조항산",
+    "location": "전라북도 무주군",
+    "height": "800"
+  },
+  {
+    "province": "전라북도",
+    "name": "중수봉",
+    "location": "전라북도 완주군 동상면",
+    "height": "548"
+  },
+  {
+    "province": "전라북도",
+    "name": "지리산",
+    "location": "\"전라북도 남원시 경상남도 하동군ㆍ산청군ㆍ함양군\"",
+    "height": "1915"
+  },
+  {
+    "province": "전라북도",
+    "name": "채계산",
+    "location": "전라북도 순창군 적성면",
+    "height": "348"
+  },
+  {
+    "province": "전라북도",
+    "name": "천등산",
+    "location": "전라북도 완주군 운주면",
+    "height": "707"
+  },
+  {
+    "province": "전라북도",
+    "name": "천장봉",
+    "location": "전라북도 전주시 상림동",
+    "height": "158"
+  },
+  {
+    "province": "전라북도",
+    "name": "축령산",
+    "location": "\"전북 고창군 고수면",
+    "height": "622"
+  },
+  {
+    "province": "전라북도",
+    "name": "치마산",
+    "location": "\"전라북도 완주군 구이면",
+    "height": "567"
+  },
+  {
+    "province": "전라북도",
+    "name": "칠백육고지",
+    "location": "전라북도 임실군 강진면",
+    "height": "706"
+  },
+  {
+    "province": "전라북도",
+    "name": "칠백이고지",
+    "location": "전라북도 완주군 고산면",
+    "height": "701"
+  },
+  {
+    "province": "전라북도",
+    "name": "팔공산",
+    "location": "전라북도 장수군",
+    "height": "1151"
+  },
+  {
+    "province": "전라북도",
+    "name": "풍악산",
+    "location": "\"전북 남원시 대산면",
+    "height": "600"
+  },
+  {
+    "province": "전라북도",
+    "name": "합미봉",
+    "location": "전라북도 장수군 장계면 명덕리",
+    "height": "1024"
+  },
+  {
+    "province": "전라북도",
+    "name": "회문산",
+    "location": "전라북도 임실군 덕치면",
+    "height": "837.1"
+  },
+  {
+    "province": "전라남도",
+    "name": "가야산",
+    "location": "전남 광양시 옥곡면",
+    "height": "496.9"
+  },
+  {
+    "province": "전라남도",
+    "name": "가야산",
+    "location": "전라남도 나주시 남평읍 수원리",
+    "height": "189"
+  },
+  {
+    "province": "전라남도",
+    "name": "가지산",
+    "location": "전라남도 장흥군 장평면 우산리",
+    "height": "510"
+  },
+  {
+    "province": "전라남도",
+    "name": "가학산",
+    "location": "전라남도 해남군 계곡면 당산리",
+    "height": "575"
+  },
+  {
+    "province": "전라남도",
+    "name": "갈두산",
+    "location": "전라남도 해남 송지면",
+    "height": "155"
+  },
+  {
+    "province": "전라남도",
+    "name": "감방산",
+    "location": "전라남도 무안군 현경면",
+    "height": "258"
+  },
+  {
+    "province": "전라남도",
+    "name": "개천산",
+    "location": "전라남도 화순군",
+    "height": "497"
+  },
+  {
+    "province": "전라남도",
+    "name": "계족산",
+    "location": "\"전라남도 구례군 간전면 금산리",
+    "height": "703"
+  },
+  {
+    "province": "전라남도",
+    "name": "계족산",
+    "location": "\"전라남도 순천시 서면",
+    "height": "723"
+  },
+  {
+    "province": "전라남도",
+    "name": "고락산",
+    "location": "전라남도 여수시 문수동",
+    "height": "350"
+  },
+  {
+    "province": "전라남도",
+    "name": "고산봉",
+    "location": "\"전라남도 함평군",
+    "height": "362"
+  },
+  {
+    "province": "전라남도",
+    "name": "곤방산",
+    "location": "전라남도 곡성군 오곡면",
+    "height": "715"
+  },
+  {
+    "province": "전라남도",
+    "name": "괘일산",
+    "location": "전라남도 담양군 무정면",
+    "height": "455"
+  },
+  {
+    "province": "전라남도",
+    "name": "구봉산",
+    "location": "전라남도 여수시",
+    "height": "388"
+  },
+  {
+    "province": "전라남도",
+    "name": "구봉화산(구봉산)",
+    "location": "전라남도 광양시",
+    "height": "473"
+  },
+  {
+    "province": "전라남도",
+    "name": "구수산",
+    "location": "전라남도 영광군",
+    "height": "351"
+  },
+  {
+    "province": "전라남도",
+    "name": "국사봉",
+    "location": "\"전라남도 영암군",
+    "height": "655"
+  },
+  {
+    "province": "전라남도",
+    "name": "군유산",
+    "location": "\"전라남도 함평군",
+    "height": "403"
+  },
+  {
+    "province": "전라남도",
+    "name": "궁성산",
+    "location": "\"전라남도 영암군 금정면",
+    "height": "484"
+  },
+  {
+    "province": "전라남도",
+    "name": "금강산",
+    "location": "전라남도 해남군 마산면",
+    "height": "481"
+  },
+  {
+    "province": "전라남도",
+    "name": "금골산",
+    "location": "전라남도 진도군 군내면",
+    "height": "196"
+  },
+  {
+    "province": "전라남도",
+    "name": "금성산",
+    "location": "전남 나주시 경현동 대호동",
+    "height": "451"
+  },
+  {
+    "province": "전라남도",
+    "name": "금오산",
+    "location": "전라남도 여수시 돌산읍",
+    "height": "634"
+  },
+  {
+    "province": "전라남도",
+    "name": "금전산",
+    "location": "전남 순천시 낙안면",
+    "height": "668"
+  },
+  {
+    "province": "전라남도",
+    "name": "깃대봉",
+    "location": "전라남도 신안 흑산면 홍도",
+    "height": "360.7"
+  },
+  {
+    "province": "전라남도",
+    "name": "까치절산",
+    "location": "전라남도 구례군",
+    "height": "295"
+  },
+  {
+    "province": "전라남도",
+    "name": "남망산",
+    "location": "전남 진도군 의신면",
+    "height": "164"
+  },
+  {
+    "province": "전라남도",
+    "name": "남산",
+    "location": "전라남도 순천시 남정동",
+    "height": "551"
+  },
+  {
+    "province": "전라남도",
+    "name": "달마산",
+    "location": "\"전라남도 해남군 송지면",
+    "height": "498.8"
+  },
+  {
+    "province": "전라남도",
+    "name": "대미산",
+    "location": "전라남도 여수시",
+    "height": "359"
+  },
+  {
+    "province": "전라남도",
+    "name": "덕룡산",
+    "location": "\"전라남도 강진군 도암면",
+    "height": "432.8"
+  },
+  {
+    "province": "전라남도",
+    "name": "도갑산",
+    "location": "전라남도 영암군 군서면",
+    "height": "376"
+  },
+  {
+    "province": "전라남도",
+    "name": "도솔봉",
+    "location": "전라남도 광양",
+    "height": "1125"
+  },
+  {
+    "province": "전라남도",
+    "name": "독실산",
+    "location": "전라남도 신안군 흑산면 가거도",
+    "height": "639"
+  },
+  {
+    "province": "전라남도",
+    "name": "동악산",
+    "location": "전라남도 곡성군 곡성읍",
+    "height": "737.1"
+  },
+  {
+    "province": "전라남도",
+    "name": "두륜산",
+    "location": "전라남도 해남군 삼산면ㆍ북일면ㆍ북평면ㆍ현산면",
+    "height": "700"
+  },
+  {
+    "province": "전라남도",
+    "name": "두봉산",
+    "location": "전라남도 신안군 자은면",
+    "height": "364"
+  },
+  {
+    "province": "전라남도",
+    "name": "두억산",
+    "location": "전라남도 해남군 계곡면 가학리",
+    "height": "529"
+  },
+  {
+    "province": "전라남도",
+    "name": "딸각산",
+    "location": "전라남도 고흥군",
+    "height": "420"
+  },
+  {
+    "province": "전라남도",
+    "name": "마래산",
+    "location": "전라남도 여수시",
+    "height": "385"
+  },
+  {
+    "province": "전라남도",
+    "name": "마복산",
+    "location": "전라남도 고흥군",
+    "height": "539"
+  },
+  {
+    "province": "전라남도",
+    "name": "만덕산",
+    "location": "\"전라남도 강진군 강진읍",
+    "height": "412.1"
+  },
+  {
+    "province": "전라남도",
+    "name": "만연산",
+    "location": "전라남도 화순군 화순읍",
+    "height": "609"
+  },
+  {
+    "province": "전라남도",
+    "name": "망마산",
+    "location": "전라남도 여수시",
+    "height": "140"
+  },
+  {
+    "province": "전라남도",
+    "name": "망모산",
+    "location": "전라남도 무안군 일로읍",
+    "height": "155"
+  },
+  {
+    "province": "전라남도",
+    "name": "모악산",
+    "location": "\"전라남도 함평",
+    "height": "348"
+  },
+  {
+    "province": "전라남도",
+    "name": "모후산",
+    "location": "\"전라남도 화순군 남면",
+    "height": "943.8"
+  },
+  {
+    "province": "전라남도",
+    "name": "무선산",
+    "location": "전라남도 여수시",
+    "height": "217"
+  },
+  {
+    "province": "전라남도",
+    "name": "박난봉",
+    "location": "전라남도 순천시 옥천동",
+    "height": "438"
+  },
+  {
+    "province": "전라남도",
+    "name": "반야봉",
+    "location": "\"전라남도 구례군 경상남도 하동군\"",
+    "height": "1732"
+  },
+  {
+    "province": "전라남도",
+    "name": "방장산",
+    "location": "\"전라남도 장성군",
+    "height": "733.6"
+  },
+  {
+    "province": "전라남도",
+    "name": "백아산",
+    "location": "전라남도 화순군 북면",
+    "height": "810"
+  },
+  {
+    "province": "전라남도",
+    "name": "백운산(광양)",
+    "location": "\"전라남도 광양시 봉강면ㆍ옥룡면ㆍ진상면ㆍ다압면",
+    "height": "1222.2"
+  },
+  {
+    "province": "전라남도",
+    "name": "백학산",
+    "location": "전라남도 무안군 해제면 대사리",
+    "height": "126"
+  },
+  {
+    "province": "전라남도",
+    "name": "병풍산(용구산)",
+    "location": "\"전라남도 담양군 수북면",
+    "height": "826.4"
+  },
+  {
+    "province": "전라남도",
+    "name": "보은산",
+    "location": "전라남도 강진군",
+    "height": "439"
+  },
+  {
+    "province": "전라남도",
+    "name": "보평산",
+    "location": "\"전라남도 무안군 무안읍 고절리",
+    "height": "225"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉대산",
+    "location": "전라남도 무안군",
+    "height": "195"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉두산",
+    "location": "전라남도 곡성군",
+    "height": "753"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉화산",
+    "location": "전라남도 보성군",
+    "height": "476"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉화산",
+    "location": "\"전라남도 순천시 용당동",
+    "height": "355"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉화산",
+    "location": "전라남도 여수시",
+    "height": "476"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉화산",
+    "location": "전라남도 여수시 화정면 개도리",
+    "height": "334"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉황산",
+    "location": "전라남도 고흥군 고흥읍 남계리",
+    "height": "199"
+  },
+  {
+    "province": "전라남도",
+    "name": "봉황산",
+    "location": "전라남도 여수시",
+    "height": "818"
+  },
+  {
+    "province": "전라남도",
+    "name": "부용산",
+    "location": "전라남도 장흥군 관산읍 성산리",
+    "height": "609"
+  },
+  {
+    "province": "전라남도",
+    "name": "부주산",
+    "location": "전라남도 목포시",
+    "height": "159"
+  },
+  {
+    "province": "전라남도",
+    "name": "부흥산",
+    "location": "전라남도 목포시 옥암동",
+    "height": "73"
+  },
+  {
+    "province": "전라남도",
+    "name": "불갑산",
+    "location": "전라남도 영광군 불갑면ㆍ함평군 해보면",
+    "height": "517.7"
+  },
+  {
+    "province": "전라남도",
+    "name": "불암산",
+    "location": "전라남도 광양시",
+    "height": "431"
+  },
+  {
+    "province": "전라남도",
+    "name": "불태산",
+    "location": "\"전남 장성군 장성읍·진원면",
+    "height": "720"
+  },
+  {
+    "province": "전라남도",
+    "name": "비봉산",
+    "location": "전라남도 화순군",
+    "height": "579"
+  },
+  {
+    "province": "전라남도",
+    "name": "사자산",
+    "location": "\"전라남도 장흥군",
+    "height": "666"
+  },
+  {
+    "province": "전라남도",
+    "name": "삼문산",
+    "location": "전라남도 완도군 완도읍 약산면",
+    "height": "397"
+  },
+  {
+    "province": "전라남도",
+    "name": "삼비산",
+    "location": "\"전라남도 보성군 웅치면",
+    "height": "664"
+  },
+  {
+    "province": "전라남도",
+    "name": "삼암봉",
+    "location": "전라남도 신안군 지도읍",
+    "height": "196"
+  },
+  {
+    "province": "전라남도",
+    "name": "상봉산",
+    "location": "전라남도 무안군 무안읍 교촌리",
+    "height": "130"
+  },
+  {
+    "province": "전라남도",
+    "name": "상황봉",
+    "location": "전라남도 완도군 군외면",
+    "height": "645.6"
+  },
+  {
+    "province": "전라남도",
+    "name": "설산",
+    "location": "전라남도 곡성군 옥과면ㆍ전라북도 순창군 금과면",
+    "height": "523"
+  },
+  {
+    "province": "전라남도",
+    "name": "소미산",
+    "location": "전라남도 여수시 돌산",
+    "height": "210"
+  },
+  {
+    "province": "전라남도",
+    "name": "송공산",
+    "location": "전라남도 신안군",
+    "height": "231"
+  },
+  {
+    "province": "전라남도",
+    "name": "수월산",
+    "location": "전라남도 여천군 삼산면",
+    "height": "128"
+  },
+  {
+    "province": "전라남도",
+    "name": "수인산",
+    "location": "전라남도 강진군 병영면·장흥군 유치면",
+    "height": "561"
+  },
+  {
+    "province": "전라남도",
+    "name": "승달산",
+    "location": "\"전라남도 무안군 청계면",
+    "height": "318"
+  },
+  {
+    "province": "전라남도",
+    "name": "승봉산",
+    "location": "전라남도 신안군 암태면",
+    "height": "356"
+  },
+  {
+    "province": "전라남도",
+    "name": "안심산",
+    "location": "전라남도 여수시",
+    "height": "347"
+  },
+  {
+    "province": "전라남도",
+    "name": "안양산",
+    "location": "전라남도 화순군 이서면",
+    "height": "853"
+  },
+  {
+    "province": "전라남도",
+    "name": "앵무산",
+    "location": "전라남도 순천시 해룡면",
+    "height": "385"
+  },
+  {
+    "province": "전라남도",
+    "name": "여귀산",
+    "location": "전남 진도군",
+    "height": "457"
+  },
+  {
+    "province": "전라남도",
+    "name": "영취산",
+    "location": "\"전라남도 여수시 상암동",
+    "height": "509.7"
+  },
+  {
+    "province": "전라남도",
+    "name": "예성산",
+    "location": "전라남도 화순군",
+    "height": "362"
+  },
+  {
+    "province": "전라남도",
+    "name": "오봉산",
+    "location": "전남 보성군 득량면",
+    "height": "513"
+  },
+  {
+    "province": "전라남도",
+    "name": "오산(자라산)",
+    "location": "전라남도 구례군 문척면 죽마리",
+    "height": "531"
+  },
+  {
+    "province": "전라남도",
+    "name": "옹성산",
+    "location": "전남 화순군 동복면",
+    "height": "573"
+  },
+  {
+    "province": "전라남도",
+    "name": "용암산",
+    "location": "전라남도 화순군 한천면ㆍ춘양면",
+    "height": "547"
+  },
+  {
+    "province": "전라남도",
+    "name": "운암산",
+    "location": "전라남도 고흥군",
+    "height": "487"
+  },
+  {
+    "province": "전라남도",
+    "name": "월각산",
+    "location": "\"전라남도 영암군",
+    "height": "456"
+  },
+  {
+    "province": "전라남도",
+    "name": "월출산",
+    "location": "\"전라남도 영암군 영암읍ㆍ군서면ㆍ학산면",
+    "height": "810.7"
+  },
+  {
+    "province": "전라남도",
+    "name": "유달산",
+    "location": "전라남도 목포시 죽교동",
+    "height": "228"
+  },
+  {
+    "province": "전라남도",
+    "name": "유방산",
+    "location": "전라남도 목포",
+    "height": "98"
+  },
+  {
+    "province": "전라남도",
+    "name": "일림산",
+    "location": "전남 보성군 웅치면ㆍ화천면",
+    "height": "664"
+  },
+  {
+    "province": "전라남도",
+    "name": "입암산",
+    "location": "\"전라남도 장성군 북이면 전라북도 정읍시\"",
+    "height": "626"
+  },
+  {
+    "province": "전라남도",
+    "name": "장군산",
+    "location": "전라남도 여수시",
+    "height": "325"
+  },
+  {
+    "province": "전라남도",
+    "name": "장암산",
+    "location": "\"전라남도 영광군 묘량면",
+    "height": "482"
+  },
+  {
+    "province": "전라남도",
+    "name": "적대봉",
+    "location": "전남 고흥군 금산면",
+    "height": "587.4"
+  },
+  {
+    "province": "전라남도",
+    "name": "적자봉",
+    "location": "전라남도 완도군 보길면",
+    "height": "431.1"
+  },
+  {
+    "province": "전라남도",
+    "name": "제석산",
+    "location": "\"전남 순천시 별량면",
+    "height": "560"
+  },
+  {
+    "province": "전라남도",
+    "name": "제암산",
+    "location": "전라남도 장흥 안양면·보성 웅치면",
+    "height": "807"
+  },
+  {
+    "province": "전라남도",
+    "name": "조계산",
+    "location": "전라남도 순천시 승주읍ㆍ송광면",
+    "height": "887.3"
+  },
+  {
+    "province": "전라남도",
+    "name": "주작산",
+    "location": "\"전라남도 강진군 도암면",
+    "height": "475"
+  },
+  {
+    "province": "전라남도",
+    "name": "주지봉",
+    "location": "전라남도 영암군",
+    "height": "491"
+  },
+  {
+    "province": "전라남도",
+    "name": "쫓비산",
+    "location": "전남 광양시 진상면",
+    "height": "537"
+  },
+  {
+    "province": "전라남도",
+    "name": "천관산",
+    "location": "\"전라남도 장흥군 관산읍",
+    "height": "724.3"
+  },
+  {
+    "province": "전라남도",
+    "name": "천등산",
+    "location": "\"전남 고흥군 풍양면 포두면\"",
+    "height": "550"
+  },
+  {
+    "province": "전라남도",
+    "name": "천봉산",
+    "location": "전라남도 보성군 문덕면",
+    "height": "436"
+  },
+  {
+    "province": "전라남도",
+    "name": "천태산",
+    "location": "전라남도 강진",
+    "height": "289"
+  },
+  {
+    "province": "전라남도",
+    "name": "첨찰산",
+    "location": "전남 진도군 고군면ㆍ의신면",
+    "height": "482"
+  },
+  {
+    "province": "전라남도",
+    "name": "초암산",
+    "location": "전남 보성군 겸백면",
+    "height": "576"
+  },
+  {
+    "province": "전라남도",
+    "name": "추월산",
+    "location": "\"전라남도 담양군 용면",
+    "height": "731.2"
+  },
+  {
+    "province": "전라남도",
+    "name": "칠락산",
+    "location": "전라남도 신안군 흑산면 진리",
+    "height": "260"
+  },
+  {
+    "province": "전라남도",
+    "name": "큰산",
+    "location": "전라남도 신안군 도초면 엄목리",
+    "height": "202"
+  },
+  {
+    "province": "전라남도",
+    "name": "태청산",
+    "location": "\"전남 영광군 대마면",
+    "height": "593"
+  },
+  {
+    "province": "전라남도",
+    "name": "통명산",
+    "location": "전남 곡성군 죽곡면",
+    "height": "764"
+  },
+  {
+    "province": "전라남도",
+    "name": "팔암산",
+    "location": "전라남도 장성군",
+    "height": "395"
+  },
+  {
+    "province": "전라남도",
+    "name": "팔영산",
+    "location": "전남 고흥군 영남면 우천리",
+    "height": "606.9"
+  },
+  {
+    "province": "전라남도",
+    "name": "형제봉",
+    "location": "전라남도 구례군 마산면 황전리",
+    "height": "912"
+  },
+  {
+    "province": "전라남도",
+    "name": "호랑산",
+    "location": "전라남도 여수",
+    "height": "490"
+  },
+  {
+    "province": "전라남도",
+    "name": "호암산",
+    "location": "전라남도 여수시",
+    "height": "280"
+  },
+  {
+    "province": "전라남도",
+    "name": "화학산",
+    "location": "\"전라남도 화순군 청풍면",
+    "height": "614"
+  },
+  {
+    "province": "전라남도",
+    "name": "흑석산",
+    "location": "\"전라남도 해남군 계곡면",
+    "height": "650"
+  },
+  {
+    "province": "경상북도",
+    "name": "가산",
+    "location": "\"경상북도 칠곡군 가산면",
+    "height": "901.8"
+  },
+  {
+    "province": "경상북도",
+    "name": "각화산",
+    "location": "경상북도 봉화군 춘양면",
+    "height": "1176"
+  },
+  {
+    "province": "경상북도",
+    "name": "갈모봉",
+    "location": "\"경상북도 문경시",
+    "height": "582"
+  },
+  {
+    "province": "경상북도",
+    "name": "갈미봉",
+    "location": "경상북도 안동시",
+    "height": "548"
+  },
+  {
+    "province": "경상북도",
+    "name": "갑장산",
+    "location": "\"경상북도 상주시 지천동",
+    "height": "805.8"
+  },
+  {
+    "province": "경상북도",
+    "name": "갓바위",
+    "location": "경상북도 경산시 와촌면",
+    "height": "852"
+  },
+  {
+    "province": "경상북도",
+    "name": "갓산",
+    "location": "경상북도 문경시 산북면 김용리",
+    "height": "673"
+  },
+  {
+    "province": "경상북도",
+    "name": "건지산",
+    "location": "\"경상북도 안동시 도산면 온혜리",
+    "height": "559"
+  },
+  {
+    "province": "경상북도",
+    "name": "검마산",
+    "location": "경상북도 영양군",
+    "height": "1017"
+  },
+  {
+    "province": "경상북도",
+    "name": "계명산",
+    "location": "경상북도 안동시",
+    "height": "775"
+  },
+  {
+    "province": "경상북도",
+    "name": "곰넘이봉",
+    "location": "경상북도 문경시 가은읍",
+    "height": "721"
+  },
+  {
+    "province": "경상북도",
+    "name": "공덕산",
+    "location": "경상북도 문경시 산북면ㆍ동로면",
+    "height": "913"
+  },
+  {
+    "province": "경상북도",
+    "name": "구미산",
+    "location": "경상북도 경주시 건천읍",
+    "height": "594"
+  },
+  {
+    "province": "경상북도",
+    "name": "구병산",
+    "location": "\"경상북도 상주시 화북면",
+    "height": "876.3"
+  },
+  {
+    "province": "경상북도",
+    "name": "구왕봉",
+    "location": "\"경상북도 문경시 가은읍",
+    "height": "877"
+  },
+  {
+    "province": "경상북도",
+    "name": "국망봉",
+    "location": "\"경상북도 안동시 도산면 운곡리",
+    "height": "481"
+  },
+  {
+    "province": "경상북도",
+    "name": "국망봉",
+    "location": "\"경상북도 영주시",
+    "height": "1421"
+  },
+  {
+    "province": "경상북도",
+    "name": "국사봉",
+    "location": "경상북도 문경 동로면",
+    "height": "464"
+  },
+  {
+    "province": "경상북도",
+    "name": "국통산",
+    "location": "경상북도 군위군 우보면 나호리",
+    "height": "337"
+  },
+  {
+    "province": "경상북도",
+    "name": "금박산",
+    "location": "경상북도 경산시 진량읍 현내리",
+    "height": "432"
+  },
+  {
+    "province": "경상북도",
+    "name": "금성산",
+    "location": "경북 의성군 금성면ㆍ가음면ㆍ춘산면ㆍ사곡면",
+    "height": "609"
+  },
+  {
+    "province": "경상북도",
+    "name": "금오산",
+    "location": "\"경상북도 구미시 김천시 남면\"",
+    "height": "976"
+  },
+  {
+    "province": "경상북도",
+    "name": "금학산",
+    "location": "경상북도 안동시",
+    "height": "947"
+  },
+  {
+    "province": "경상북도",
+    "name": "기룡산",
+    "location": "경북 영천시 자양면",
+    "height": "875"
+  },
+  {
+    "province": "경상북도",
+    "name": "기산",
+    "location": "경상북도 문경시 문경읍 각서리",
+    "height": "622"
+  },
+  {
+    "province": "경상북도",
+    "name": "기양산",
+    "location": "경상북도 상주시",
+    "height": "704"
+  },
+  {
+    "province": "경상북도",
+    "name": "까치산",
+    "location": "경상북도 청도군 운문면 방음리",
+    "height": "571"
+  },
+  {
+    "province": "경상북도",
+    "name": "꼭두바위봉",
+    "location": "경상북도 문경시",
+    "height": "838"
+  },
+  {
+    "province": "경상북도",
+    "name": "나각산",
+    "location": "경상북도 상주시 낙동면 물량리",
+    "height": "240"
+  },
+  {
+    "province": "경상북도",
+    "name": "남산",
+    "location": "경상북도 경주시 남산동ㆍ내남면",
+    "height": "495.1"
+  },
+  {
+    "province": "경상북도",
+    "name": "남산",
+    "location": "경상북도 상주시 외서면",
+    "height": "840"
+  },
+  {
+    "province": "경상북도",
+    "name": "남산",
+    "location": "\"경상북도 청도 각남면 청도읍\"",
+    "height": "321"
+  },
+  {
+    "province": "경상북도",
+    "name": "내연산",
+    "location": "\"경상북도 포항시 송라면ㆍ청하면ㆍ죽장면",
+    "height": "711.3"
+  },
+  {
+    "province": "경상북도",
+    "name": "냉산",
+    "location": "\"경상북도 구미시 해평면",
+    "height": "693"
+  },
+  {
+    "province": "경상북도",
+    "name": "노악산(노음산)",
+    "location": "\"경상북도 상주시 남장동 내서면\"",
+    "height": "725"
+  },
+  {
+    "province": "경상북도",
+    "name": "뇌정산",
+    "location": "\"경상북도 문경시 가은읍",
+    "height": "991"
+  },
+  {
+    "province": "경상북도",
+    "name": "눌의산",
+    "location": "\"경상북도 김천시",
+    "height": "743"
+  },
+  {
+    "province": "경상북도",
+    "name": "능곡산",
+    "location": "경상북도 문경시 마성면 상내리",
+    "height": "572"
+  },
+  {
+    "province": "경상북도",
+    "name": "다봉산",
+    "location": "\"경상북도 구미시 봉곡동",
+    "height": "388"
+  },
+  {
+    "province": "경상북도",
+    "name": "단봉산",
+    "location": "경상북도 합천군",
+    "height": "201"
+  },
+  {
+    "province": "경상북도",
+    "name": "단산",
+    "location": "경상북도 문경시 산북면",
+    "height": "956"
+  },
+  {
+    "province": "경상북도",
+    "name": "단석산",
+    "location": "경상북도 경주시 건천읍",
+    "height": "827.2"
+  },
+  {
+    "province": "경상북도",
+    "name": "단지봉",
+    "location": "\"경상북도 김천시 증산면",
+    "height": "1327"
+  },
+  {
+    "province": "경상북도",
+    "name": "달봉산",
+    "location": "경상북도 봉화군 봉화읍",
+    "height": "136"
+  },
+  {
+    "province": "경상북도",
+    "name": "대덕산",
+    "location": "\"경상북도 김천시 대덕면",
+    "height": "425"
+  },
+  {
+    "province": "경상북도",
+    "name": "대야산",
+    "location": "\"경상북도 문경시 가은읍",
+    "height": "931"
+  },
+  {
+    "province": "경상북도",
+    "name": "대왕산",
+    "location": "경상북도 청도군",
+    "height": "605"
+  },
+  {
+    "province": "경상북도",
+    "name": "덕가산",
+    "location": "\"경상북도 상주시 화북면 운흥리",
+    "height": "855"
+  },
+  {
+    "province": "경상북도",
+    "name": "도덕산",
+    "location": "경상북도 경주시 안강읍·영천시 고경면",
+    "height": "703"
+  },
+  {
+    "province": "경상북도",
+    "name": "도솔봉",
+    "location": "\"경상북도 영주시",
+    "height": "1314"
+  },
+  {
+    "province": "경상북도",
+    "name": "도장산",
+    "location": "\"경상북도 상주시 화북면 용유리",
+    "height": "828"
+  },
+  {
+    "province": "경상북도",
+    "name": "돈달산",
+    "location": "경상북도 문경시 점촌동",
+    "height": "273"
+  },
+  {
+    "province": "경상북도",
+    "name": "동대산",
+    "location": "경상북도 영덕군",
+    "height": "791"
+  },
+  {
+    "province": "경상북도",
+    "name": "둔덕산",
+    "location": "\"경북 문경시 가은읍",
+    "height": "970"
+  },
+  {
+    "province": "경상북도",
+    "name": "마산봉",
+    "location": "경상북도 문경시 문경읍 상초리",
+    "height": "654"
+  },
+  {
+    "province": "경상북도",
+    "name": "마정산",
+    "location": "경상북도 군위군 군위읍 용대리",
+    "height": "402"
+  },
+  {
+    "province": "경상북도",
+    "name": "마폐봉",
+    "location": "경상북도 문경시 문경읍 각서리",
+    "height": "925"
+  },
+  {
+    "province": "경상북도",
+    "name": "막장봉",
+    "location": "\"경상북도 문경시 가은읍",
+    "height": "868"
+  },
+  {
+    "province": "경상북도",
+    "name": "매봉",
+    "location": "\"경상북도 예천군 용문면 내지리",
+    "height": "929"
+  },
+  {
+    "province": "경상북도",
+    "name": "매봉산",
+    "location": "경상북도 구미시 고아읍 괴평리",
+    "height": "220"
+  },
+  {
+    "province": "경상북도",
+    "name": "매악산",
+    "location": "경상북도 상주시 사벌면 매호리",
+    "height": "335"
+  },
+  {
+    "province": "경상북도",
+    "name": "면봉산",
+    "location": "\"경상북도 청송군 현동면 ·현서면",
+    "height": "1113"
+  },
+  {
+    "province": "경상북도",
+    "name": "무지개산",
+    "location": "\"상주시 내서면 서원리",
+    "height": "441"
+  },
+  {
+    "province": "경상북도",
+    "name": "문복대",
+    "location": "경상북도 문경시 동로면 석항리",
+    "height": "1074"
+  },
+  {
+    "province": "경상북도",
+    "name": "문복산",
+    "location": "경상북도 청도군",
+    "height": "1013"
+  },
+  {
+    "province": "경상북도",
+    "name": "문수산",
+    "location": "경상북도 구미시 산동면 인덕리",
+    "height": "341"
+  },
+  {
+    "province": "경상북도",
+    "name": "문수산",
+    "location": "\"경상북도 봉화군 춘양면 물야면\"",
+    "height": "1205"
+  },
+  {
+    "province": "경상북도",
+    "name": "미석산",
+    "location": "\"경상북도 구미시 해평면 금호리 낙성리\"",
+    "height": "168"
+  },
+  {
+    "province": "경상북도",
+    "name": "미숭산",
+    "location": "경상북도 고령군 고령읍",
+    "height": "757"
+  },
+  {
+    "province": "경상북도",
+    "name": "방가산",
+    "location": "\"경상북도 군위군 고로면 인곡리",
+    "height": "756"
+  },
+  {
+    "province": "경상북도",
+    "name": "백악산",
+    "location": "\"경상북도 상주시 화북면",
+    "height": "857"
+  },
+  {
+    "province": "경상북도",
+    "name": "백암산",
+    "location": "\"경북 울진군 온정면",
+    "height": "1004"
+  },
+  {
+    "province": "경상북도",
+    "name": "백원산",
+    "location": "\"경상북도 상주시 인평동",
+    "height": "524"
+  },
+  {
+    "province": "경상북도",
+    "name": "백자산",
+    "location": "경상북도 경산시",
+    "height": "486"
+  },
+  {
+    "province": "경상북도",
+    "name": "백화산",
+    "location": "\"경상북도 문경시 문경읍 충청북도 괴산군 연풍면\"",
+    "height": "522"
+  },
+  {
+    "province": "경상북도",
+    "name": "백화산(한성봉)",
+    "location": "\"경상북도 상주시 모서면",
+    "height": "933.4"
+  },
+  {
+    "province": "경상북도",
+    "name": "베틀산",
+    "location": "경상북도 구미시 해평면 금산리",
+    "height": "369"
+  },
+  {
+    "province": "경상북도",
+    "name": "벽화산",
+    "location": "경상북도 의령군",
+    "height": "522"
+  },
+  {
+    "province": "경상북도",
+    "name": "병풍산",
+    "location": "경상북도 상주시 동문동",
+    "height": "366"
+  },
+  {
+    "province": "경상북도",
+    "name": "보현산",
+    "location": "\"경북 영천시 화북면 포항시 죽장면\"",
+    "height": "1126"
+  },
+  {
+    "province": "경상북도",
+    "name": "복우산",
+    "location": "경상북도 구미시 옥성면 산촌리",
+    "height": "509"
+  },
+  {
+    "province": "경상북도",
+    "name": "봉명산",
+    "location": "경상북도 문경시 문경읍",
+    "height": "697"
+  },
+  {
+    "province": "경상북도",
+    "name": "봉수산",
+    "location": "경상북도 안동시",
+    "height": "534"
+  },
+  {
+    "province": "경상북도",
+    "name": "봉화봉",
+    "location": "경상북도 포항시",
+    "height": "368"
+  },
+  {
+    "province": "경상북도",
+    "name": "봉황산",
+    "location": "\"경상북도 영주시 부석면",
+    "height": "259"
+  },
+  {
+    "province": "경상북도",
+    "name": "봉황산",
+    "location": "\"상주시 화서면 신봉리 상현리",
+    "height": "741"
+  },
+  {
+    "province": "경상북도",
+    "name": "부봉",
+    "location": "경상북도 문경시 문경읍",
+    "height": "913"
+  },
+  {
+    "province": "경상북도",
+    "name": "비룡산",
+    "location": "경상북도 예천군",
+    "height": "240"
+  },
+  {
+    "province": "경상북도",
+    "name": "비봉산",
+    "location": "경상북도 구미시 선산읍",
+    "height": "532"
+  },
+  {
+    "province": "경상북도",
+    "name": "비봉산",
+    "location": "경상북도 봉화군 상운면 문촌리",
+    "height": "441"
+  },
+  {
+    "province": "경상북도",
+    "name": "비봉산",
+    "location": "경상북도 상주시 중동면 오상리",
+    "height": "230"
+  },
+  {
+    "province": "경상북도",
+    "name": "비조산",
+    "location": "경상북도 문경시 산양면 위만리",
+    "height": "310"
+  },
+  {
+    "province": "경상북도",
+    "name": "비학산",
+    "location": "경상북도 포항시 북구",
+    "height": "762"
+  },
+  {
+    "province": "경상북도",
+    "name": "사룡산",
+    "location": "\"경상북도 경주시 산내면",
+    "height": "686"
+  },
+  {
+    "province": "경상북도",
+    "name": "산지봉",
+    "location": "\"경상북도 안동시 길안면 송사2리",
+    "height": "816"
+  },
+  {
+    "province": "경상북도",
+    "name": "삼봉산",
+    "location": "\"경상북도 상주시 낙동면 유곡리",
+    "height": "448"
+  },
+  {
+    "province": "경상북도",
+    "name": "삼성산",
+    "location": "경상북도 경산시 남산면",
+    "height": "554"
+  },
+  {
+    "province": "경상북도",
+    "name": "상운산",
+    "location": "경상북도 청도군 운문면",
+    "height": "1117"
+  },
+  {
+    "province": "경상북도",
+    "name": "상학봉",
+    "location": "경상북도 상주시 화북면",
+    "height": "834"
+  },
+  {
+    "province": "경상북도",
+    "name": "새봉",
+    "location": "경상북도 문경시 마성면 신현리",
+    "height": "617"
+  },
+  {
+    "province": "경상북도",
+    "name": "서산",
+    "location": "\"상주시 외남면 구서리 덕산리 공성면 안창리\"",
+    "height": "513"
+  },
+  {
+    "province": "경상북도",
+    "name": "선달산",
+    "location": "\"경상북도 봉화군 물야면",
+    "height": "1236"
+  },
+  {
+    "province": "경상북도",
+    "name": "선바위산",
+    "location": "경상북도 산청군 생초면",
+    "height": "376"
+  },
+  {
+    "province": "경상북도",
+    "name": "선암산",
+    "location": "경상북도 문경시 산북면 석봉리",
+    "height": "814"
+  },
+  {
+    "province": "경상북도",
+    "name": "선의산",
+    "location": "\"경상북도 경산시 남천면",
+    "height": "756"
+  },
+  {
+    "province": "경상북도",
+    "name": "성인봉",
+    "location": "경상북도 울릉군 울릉읍 서면ㆍ북면",
+    "height": "986.5"
+  },
+  {
+    "province": "경상북도",
+    "name": "성주봉",
+    "location": "경북 상주시 은척면",
+    "height": "912"
+  },
+  {
+    "province": "경상북도",
+    "name": "성주봉",
+    "location": "\"경상북도 문경시 문경읍 당포리",
+    "height": "961"
+  },
+  {
+    "province": "경상북도",
+    "name": "성주봉",
+    "location": "경상북도 문경시 산북면 김룡리",
+    "height": "607"
+  },
+  {
+    "province": "경상북도",
+    "name": "소금강산",
+    "location": "경상북도 경주시 용강동",
+    "height": "296"
+  },
+  {
+    "province": "경상북도",
+    "name": "소백산",
+    "location": "\"경상북도 영주시 풍기읍",
+    "height": "1439.7"
+  },
+  {
+    "province": "경상북도",
+    "name": "속리산",
+    "location": "\"경상북도 상주시 화북면",
+    "height": "1058.4"
+  },
+  {
+    "province": "경상북도",
+    "name": "송화산",
+    "location": "경상북도 경주시",
+    "height": "276"
+  },
+  {
+    "province": "경상북도",
+    "name": "수도산",
+    "location": "\"김천시 증산면",
+    "height": "1317.4"
+  },
+  {
+    "province": "경상북도",
+    "name": "수리봉",
+    "location": "경상북도 문경시 동로면 생달리",
+    "height": "645"
+  },
+  {
+    "province": "경상북도",
+    "name": "수선산",
+    "location": "상주시 청리면 청상리 / 낙동면 수정리",
+    "height": "684"
+  },
+  {
+    "province": "경상북도",
+    "name": "승무산",
+    "location": "경상북도 상주시",
+    "height": "559"
+  },
+  {
+    "province": "경상북도",
+    "name": "시루봉",
+    "location": "경상북도 문경시",
+    "height": "876"
+  },
+  {
+    "province": "경상북도",
+    "name": "시묘산",
+    "location": "경상북도 칠곡군",
+    "height": "371"
+  },
+  {
+    "province": "경상북도",
+    "name": "식산",
+    "location": "\"경상북도 상주시 서곡동 화개동 외담동",
+    "height": "503"
+  },
+  {
+    "province": "경상북도",
+    "name": "신선봉",
+    "location": "경상북도 문경시 문경읍 각서리",
+    "height": "845"
+  },
+  {
+    "province": "경상북도",
+    "name": "쌍두봉",
+    "location": "경상북도  청도군 삼계리",
+    "height": "910"
+  },
+  {
+    "province": "경상북도",
+    "name": "아기산",
+    "location": "경상북도 안동시 임동면",
+    "height": "589"
+  },
+  {
+    "province": "경상북도",
+    "name": "아미산",
+    "location": "경상북도 군위군 고로면",
+    "height": "602"
+  },
+  {
+    "province": "경상북도",
+    "name": "애기암봉",
+    "location": "경상북도 문경시 가은읍 완장리",
+    "height": "731"
+  },
+  {
+    "province": "경상북도",
+    "name": "앵산",
+    "location": "경상북도 거제시",
+    "height": "507"
+  },
+  {
+    "province": "경상북도",
+    "name": "어룡산",
+    "location": "경상북도 문경시 마성면",
+    "height": "617"
+  },
+  {
+    "province": "경상북도",
+    "name": "어림산",
+    "location": "경상북도 경주시",
+    "height": "510"
+  },
+  {
+    "province": "경상북도",
+    "name": "연봉산",
+    "location": "\"경상북도 구미시 옥계동",
+    "height": "187"
+  },
+  {
+    "province": "경상북도",
+    "name": "연엽산",
+    "location": "경상북도 문경시 농암면 화산리",
+    "height": "850"
+  },
+  {
+    "province": "경상북도",
+    "name": "오봉산",
+    "location": "\"경상북도 경주시 서면",
+    "height": "324"
+  },
+  {
+    "province": "경상북도",
+    "name": "오봉산",
+    "location": "\"경상북도 상주 합창읍 신흥리",
+    "height": "235"
+  },
+  {
+    "province": "경상북도",
+    "name": "오정산",
+    "location": "경상북도 문경시 호계면",
+    "height": "810"
+  },
+  {
+    "province": "경상북도",
+    "name": "옥녀봉",
+    "location": "\"경상북도 군위군 고로면",
+    "height": "590"
+  },
+  {
+    "province": "경상북도",
+    "name": "옥녀봉",
+    "location": "경상북도 문경시 마성면",
+    "height": "632"
+  },
+  {
+    "province": "경상북도",
+    "name": "옥주봉",
+    "location": "경상북도 상주시 사벌면 덕담리",
+    "height": "159"
+  },
+  {
+    "province": "경상북도",
+    "name": "옹강산",
+    "location": "경상북도 청도군",
+    "height": "831"
+  },
+  {
+    "province": "경상북도",
+    "name": "와룡산",
+    "location": "경상북도 안동시 와룡면 주계리",
+    "height": "461"
+  },
+  {
+    "province": "경상북도",
+    "name": "왕의산",
+    "location": "경상북도 문경시 산양면 위만리",
+    "height": "339"
+  },
+  {
+    "province": "경상북도",
+    "name": "용각산",
+    "location": "\"경상북도 청도군",
+    "height": "693"
+  },
+  {
+    "province": "경상북도",
+    "name": "용두산",
+    "location": "\"경상북도 안동시 도산면 운곡리",
+    "height": "661"
+  },
+  {
+    "province": "경상북도",
+    "name": "용림산",
+    "location": "경상북도 경주시",
+    "height": "529"
+  },
+  {
+    "province": "경상북도",
+    "name": "용문산",
+    "location": "\"경상북도 예천군 용문면 상리면\"",
+    "height": "782"
+  },
+  {
+    "province": "경상북도",
+    "name": "운달산",
+    "location": "경상북도 문경시 문경읍 용연리",
+    "height": "1097"
+  },
+  {
+    "province": "경상북도",
+    "name": "운문산",
+    "location": "\"경상북도 청도군 운문면",
+    "height": "1195.1"
+  },
+  {
+    "province": "경상북도",
+    "name": "운제산",
+    "location": "경상북도 포항시 북구",
+    "height": "482"
+  },
+  {
+    "province": "경상북도",
+    "name": "운주산",
+    "location": "\"경상북도 영천시 임고면 포항시 기계면\"",
+    "height": "806"
+  },
+  {
+    "province": "경상북도",
+    "name": "울련산",
+    "location": "경상북도 영양군",
+    "height": "939"
+  },
+  {
+    "province": "경상북도",
+    "name": "월방산",
+    "location": "경상북도 문경시 산양면 봉정리",
+    "height": "360"
+  },
+  {
+    "province": "경상북도",
+    "name": "월암봉",
+    "location": "경상북도 봉화군 석포면",
+    "height": "1094"
+  },
+  {
+    "province": "경상북도",
+    "name": "유학산",
+    "location": "\"경상북도 칠곡군 가산면",
+    "height": "839.1"
+  },
+  {
+    "province": "경상북도",
+    "name": "이구산",
+    "location": "경상북도 사천시",
+    "height": "362"
+  },
+  {
+    "province": "경상북도",
+    "name": "이만봉",
+    "location": "\"경상북도 문경시 가은읍",
+    "height": "990"
+  },
+  {
+    "province": "경상북도",
+    "name": "인내산",
+    "location": "경상북도 경주시",
+    "height": "534"
+  },
+  {
+    "province": "경상북도",
+    "name": "일월산",
+    "location": "\"경상북도 영양군 일월면 용화리",
+    "height": "1219"
+  },
+  {
+    "province": "경상북도",
+    "name": "작약산",
+    "location": "\"경상북도 상주시 은척면 무릉리 문경시 농암면 수예리\"",
+    "height": "770"
+  },
+  {
+    "province": "경상북도",
+    "name": "작약산",
+    "location": "\"경상북도 영양군 영양읍",
+    "height": "770"
+  },
+  {
+    "province": "경상북도",
+    "name": "장군봉",
+    "location": "경상북도 봉화군 소천면",
+    "height": "1039"
+  },
+  {
+    "province": "경상북도",
+    "name": "장군산",
+    "location": "경상북도 경산시 하양읍 부호리",
+    "height": "314"
+  },
+  {
+    "province": "경상북도",
+    "name": "장성봉",
+    "location": "경상북도 문경시 가은읍",
+    "height": "915"
+  },
+  {
+    "province": "경상북도",
+    "name": "장육산",
+    "location": "경상북도 청도군 운문면 봉화리",
+    "height": "686"
+  },
+  {
+    "province": "경상북도",
+    "name": "적라산",
+    "location": "경상북도 군위군 군위읍 수서리",
+    "height": "352"
+  },
+  {
+    "province": "경상북도",
+    "name": "접성산",
+    "location": "\"경상북도 구미시 고아읍 이례리 봉한1리대망2리",
+    "height": "374"
+  },
+  {
+    "province": "경상북도",
+    "name": "정수산",
+    "location": "경상북도 산청군",
+    "height": "841"
+  },
+  {
+    "province": "경상북도",
+    "name": "정족산",
+    "location": "경상북도 양산시",
+    "height": "700"
+  },
+  {
+    "province": "경상북도",
+    "name": "정침봉",
+    "location": "경상북도 문경시 동로면 마광리",
+    "height": "635"
+  },
+  {
+    "province": "경상북도",
+    "name": "조산봉",
+    "location": "경상북도 봉화군 재산면 동면리",
+    "height": "857"
+  },
+  {
+    "province": "경상북도",
+    "name": "조항산",
+    "location": "\"경상북도 문경시 농암면",
+    "height": "951"
+  },
+  {
+    "province": "경상북도",
+    "name": "주산",
+    "location": "경상북도 고령군",
+    "height": "310"
+  },
+  {
+    "province": "경상북도",
+    "name": "주왕산",
+    "location": "\"경상북도 청송군 청송읍ㆍ부동면",
+    "height": "722.1"
+  },
+  {
+    "province": "경상북도",
+    "name": "주지봉",
+    "location": "경상북도 문경시 마성면 상내리",
+    "height": "368"
+  },
+  {
+    "province": "경상북도",
+    "name": "주흘산",
+    "location": "경상북도 문경시 문경읍",
+    "height": "1108.4"
+  },
+  {
+    "province": "경상북도",
+    "name": "지곡산",
+    "location": "경상북도 포항시 지곡동",
+    "height": "108"
+  },
+  {
+    "province": "경상북도",
+    "name": "지룡산",
+    "location": "경상북도 청도군 운문면",
+    "height": "659"
+  },
+  {
+    "province": "경상북도",
+    "name": "지장산",
+    "location": "경북 상주시 모동면 신흥리",
+    "height": "773"
+  },
+  {
+    "province": "경상북도",
+    "name": "천등산",
+    "location": "경상북도 안동시 서후면",
+    "height": "707"
+  },
+  {
+    "province": "경상북도",
+    "name": "천마산",
+    "location": "경상북도 문경시 영순면 이목리",
+    "height": "278"
+  },
+  {
+    "province": "경상북도",
+    "name": "천봉산",
+    "location": "\"경상북도 상주시 만산동",
+    "height": "609"
+  },
+  {
+    "province": "경상북도",
+    "name": "천생산",
+    "location": "\"경북 구미시 신동ㆍ인의동ㆍ황상동ㆍ금전동",
+    "height": "407"
+  },
+  {
+    "province": "경상북도",
+    "name": "천왕산",
+    "location": "\"경상북도 청도군 풍각면 성산면\"",
+    "height": "619"
+  },
+  {
+    "province": "경상북도",
+    "name": "천주봉",
+    "location": "경상북도 문경시 동로면",
+    "height": "839"
+  },
+  {
+    "province": "경상북도",
+    "name": "천지갑산",
+    "location": "경상북도 안동시 길안면",
+    "height": "462"
+  },
+  {
+    "province": "경상북도",
+    "name": "천택산",
+    "location": "\"경상북도 상주시 화남면 임곡리",
+    "height": "683"
+  },
+  {
+    "province": "경상북도",
+    "name": "철마산",
+    "location": "경상북도 청도군",
+    "height": "627"
+  },
+  {
+    "province": "경상북도",
+    "name": "청계산",
+    "location": "\"경상북도 상주시 화서면 화송리",
+    "height": "658"
+  },
+  {
+    "province": "경상북도",
+    "name": "청량산",
+    "location": "경상북도 봉화군 명호면",
+    "height": "869.7"
+  },
+  {
+    "province": "경상북도",
+    "name": "청옥산",
+    "location": "\"경상북도 봉화군 석포면",
+    "height": "1277"
+  },
+  {
+    "province": "경상북도",
+    "name": "청화산",
+    "location": "경상북도 구미시 도개면 다곡리",
+    "height": "701"
+  },
+  {
+    "province": "경상북도",
+    "name": "청화산",
+    "location": "\"경상북도 문경시 상주시",
+    "height": "984"
+  },
+  {
+    "province": "경상북도",
+    "name": "촛대봉",
+    "location": "경상북도 문경시 농암면 화산리",
+    "height": "661"
+  },
+  {
+    "province": "경상북도",
+    "name": "칠보산",
+    "location": "\"경상북도 영덕군 창수면",
+    "height": "810"
+  },
+  {
+    "province": "경상북도",
+    "name": "칠봉산",
+    "location": "경상북도 문경시 농암면 갈동리",
+    "height": "595"
+  },
+  {
+    "province": "경상북도",
+    "name": "탄항산",
+    "location": "경상북도 문경시 문경읍",
+    "height": "857"
+  },
+  {
+    "province": "경상북도",
+    "name": "태양산",
+    "location": "경상북도 청송군",
+    "height": "933"
+  },
+  {
+    "province": "경상북도",
+    "name": "태조산(냉산)",
+    "location": "\"경상북도 구미시 해평면 일선리",
+    "height": "692"
+  },
+  {
+    "province": "경상북도",
+    "name": "토함산",
+    "location": "경상북도 경주시 불국동",
+    "height": "745.8"
+  },
+  {
+    "province": "경상북도",
+    "name": "통고산",
+    "location": "경상북도 울진군 서면",
+    "height": "1067"
+  },
+  {
+    "province": "경상북도",
+    "name": "통내산",
+    "location": "경상북도 청도군 매전면",
+    "height": "674"
+  },
+  {
+    "province": "경상북도",
+    "name": "팔각산",
+    "location": "경북 영덕군 달산면 주응리",
+    "height": "633"
+  },
+  {
+    "province": "경상북도",
+    "name": "팔공산",
+    "location": "\"경상북도 군위군 부계면 대구광역시 동구\"",
+    "height": "1192"
+  },
+  {
+    "province": "경상북도",
+    "name": "팔음산",
+    "location": "\"경상북도 상주시 모서면 화현리 옥천군 청산면 명치리\"",
+    "height": "762"
+  },
+  {
+    "province": "경상북도",
+    "name": "포도산",
+    "location": "경상북도 영양군",
+    "height": "748"
+  },
+  {
+    "province": "경상북도",
+    "name": "포암산",
+    "location": "\"경상북도 문경시 문경읍",
+    "height": "962"
+  },
+  {
+    "province": "경상북도",
+    "name": "풍락산",
+    "location": "경상북도 봉화군  명호면 관창리",
+    "height": "775"
+  },
+  {
+    "province": "경상북도",
+    "name": "학가산",
+    "location": "\"경상북도 안동시 서후면",
+    "height": "869.6"
+  },
+  {
+    "province": "경상북도",
+    "name": "형제봉",
+    "location": "\"경상북도 상주시",
+    "height": "1178"
+  },
+  {
+    "province": "경상북도",
+    "name": "화부산",
+    "location": "\"경상북도 안동시 길안면 대사리",
+    "height": "626"
+  },
+  {
+    "province": "경상북도",
+    "name": "화산",
+    "location": "경상북도 안동시",
+    "height": "338"
+  },
+  {
+    "province": "경상북도",
+    "name": "화악산",
+    "location": "경상북도 청도군 청도읍ㆍ경상남도 밀양시 청도면",
+    "height": "932.1"
+  },
+  {
+    "province": "경상북도",
+    "name": "황악산",
+    "location": "경상북도 김천시 대항면 운수리",
+    "height": "1111.4"
+  },
+  {
+    "province": "경상북도",
+    "name": "황장산",
+    "location": "경상북도 문경시 동로면",
+    "height": "1077"
+  },
+  {
+    "province": "경상북도",
+    "name": "황학산",
+    "location": "\"경상북도 문경시 문경읍",
+    "height": "912"
+  },
+  {
+    "province": "경상북도",
+    "name": "황학산",
+    "location": "경상북도 안동시",
+    "height": "769"
+  },
+  {
+    "province": "경상북도",
+    "name": "효양산",
+    "location": "경상북도 청도군",
+    "height": "580"
+  },
+  {
+    "province": "경상북도",
+    "name": "희양산",
+    "location": "\"경상북도 문경시 가은읍\"",
+    "height": "996"
+  },
+  {
+    "province": "경상남도",
+    "name": "가라산",
+    "location": "경상남도 거제시 남부면 다대리",
+    "height": "580"
+  },
+  {
+    "province": "경상남도",
+    "name": "가래봉",
+    "location": "경상남도 밀양시 단장면 단장리",
+    "height": "502"
+  },
+  {
+    "province": "경상남도",
+    "name": "가야산",
+    "location": "\"경상남도 합천군ㆍ거창군",
+    "height": "1432.6"
+  },
+  {
+    "province": "경상남도",
+    "name": "각산",
+    "location": "경상남도 사천시",
+    "height": "398"
+  },
+  {
+    "province": "경상남도",
+    "name": "간월산",
+    "location": "경상남도 울산시 울주군",
+    "height": "1069"
+  },
+  {
+    "province": "경상남도",
+    "name": "갈전산",
+    "location": "경상남도 산청군 생초면",
+    "height": "764"
+  },
+  {
+    "province": "경상남도",
+    "name": "감악산",
+    "location": "경상남도 거창군",
+    "height": "925"
+  },
+  {
+    "province": "경상남도",
+    "name": "감암산",
+    "location": "경상남도 합천 가회면",
+    "height": "834"
+  },
+  {
+    "province": "경상남도",
+    "name": "감투봉",
+    "location": "경상남도 산청군 시천면 사리",
+    "height": "768"
+  },
+  {
+    "province": "경상남도",
+    "name": "거류산",
+    "location": "경상남도 고성군 거류면",
+    "height": "571.7"
+  },
+  {
+    "province": "경상남도",
+    "name": "거망산",
+    "location": "경상남도 함양군",
+    "height": "1184"
+  },
+  {
+    "province": "경상남도",
+    "name": "건흥산(거열산)",
+    "location": "\"경상남도 거창군 거창읍",
+    "height": "792"
+  },
+  {
+    "province": "경상남도",
+    "name": "경운산",
+    "location": "경상남도 김해시",
+    "height": "378"
+  },
+  {
+    "province": "경상남도",
+    "name": "계룡산",
+    "location": "\"경상남도 거제시 신현읍",
+    "height": "566"
+  },
+  {
+    "province": "경상남도",
+    "name": "관룡산",
+    "location": "\"경상남도 창녕군 창녕읍",
+    "height": "740"
+  },
+  {
+    "province": "경상남도",
+    "name": "광제산",
+    "location": "경상남도 진주시",
+    "height": "420"
+  },
+  {
+    "province": "경상남도",
+    "name": "괘관산",
+    "location": "경상남도 함양군 서하면ㆍ병곡면",
+    "height": "1252"
+  },
+  {
+    "province": "경상남도",
+    "name": "괘방산",
+    "location": "\"경상남도 진주",
+    "height": "451"
+  },
+  {
+    "province": "경상남도",
+    "name": "구곡산",
+    "location": "경상남도 산청",
+    "height": "961"
+  },
+  {
+    "province": "경상남도",
+    "name": "구두산",
+    "location": "경상남도 남해군 설천면 덕신리",
+    "height": "618"
+  },
+  {
+    "province": "경상남도",
+    "name": "구만산",
+    "location": "\"경상남도 밀양시 산내면",
+    "height": "785"
+  },
+  {
+    "province": "경상남도",
+    "name": "구절산",
+    "location": "경상남도 고성군 동해면",
+    "height": "521"
+  },
+  {
+    "province": "경상남도",
+    "name": "구천산",
+    "location": "경상남도 밀양시 삼랑진",
+    "height": "620"
+  },
+  {
+    "province": "경상남도",
+    "name": "구현산",
+    "location": "\"경상남도 창녕군 창녕읍 계성면\"",
+    "height": "579"
+  },
+  {
+    "province": "경상남도",
+    "name": "국사봉",
+    "location": "경상남도 거제 옥포일동",
+    "height": "728"
+  },
+  {
+    "province": "경상남도",
+    "name": "국사봉",
+    "location": "경상남도 의령군 봉수면",
+    "height": "613"
+  },
+  {
+    "province": "경상남도",
+    "name": "국수봉",
+    "location": "경상남도 울산시 울주군",
+    "height": "603"
+  },
+  {
+    "province": "경상남도",
+    "name": "굴암산",
+    "location": "\"경상남도 진해시 웅동 부산광역시 강서구 지사동\"",
+    "height": "663"
+  },
+  {
+    "province": "경상남도",
+    "name": "금귀봉",
+    "location": "경상남도 거창군 거창읍",
+    "height": "827"
+  },
+  {
+    "province": "경상남도",
+    "name": "금산",
+    "location": "경상남도 남해군 상주면ㆍ이동면ㆍ삼동면",
+    "height": "704.9"
+  },
+  {
+    "province": "경상남도",
+    "name": "금성산",
+    "location": "경상남도 합천군",
+    "height": "672"
+  },
+  {
+    "province": "경상남도",
+    "name": "금오산",
+    "location": "경남 하동군 금남면ㆍ진교면",
+    "height": "849"
+  },
+  {
+    "province": "경상남도",
+    "name": "금오산",
+    "location": "\"경상남도 밀양시 삼랑진읍·단장면",
+    "height": "766"
+  },
+  {
+    "province": "경상남도",
+    "name": "금오산",
+    "location": "\"경상남도 밀양시 삼량진읍",
+    "height": "634"
+  },
+  {
+    "province": "경상남도",
+    "name": "금원산",
+    "location": "경상남도 거창군 위천면·함양군 안의면",
+    "height": "1352.5"
+  },
+  {
+    "province": "경상남도",
+    "name": "기백산",
+    "location": "경상남도 거창군 위천면·함양군 안의면",
+    "height": "1331"
+  },
+  {
+    "province": "경상남도",
+    "name": "깃대봉",
+    "location": "경상남도 마산시 함포구 진전면·진주시 이반성면",
+    "height": "220"
+  },
+  {
+    "province": "경상남도",
+    "name": "깃대봉",
+    "location": "\"경상남도 함양군 서상면",
+    "height": "1015"
+  },
+  {
+    "province": "경상남도",
+    "name": "낙화산",
+    "location": "경상남도 밀양시 상동면 도곡리",
+    "height": "597"
+  },
+  {
+    "province": "경상남도",
+    "name": "남덕유산",
+    "location": "경상남도 거창군",
+    "height": "1507"
+  },
+  {
+    "province": "경상남도",
+    "name": "남산",
+    "location": "경상남도 의령군",
+    "height": "821"
+  },
+  {
+    "province": "경상남도",
+    "name": "남암산",
+    "location": "경상남도 울산시",
+    "height": "543"
+  },
+  {
+    "province": "경상남도",
+    "name": "노자산",
+    "location": "경상남도 거제시 동부면 구천리",
+    "height": "557.1"
+  },
+  {
+    "province": "경상남도",
+    "name": "능걸산",
+    "location": "경상남도 양산시 상북면",
+    "height": "783"
+  },
+  {
+    "province": "경상남도",
+    "name": "능동산",
+    "location": "경상남도 울산시 울주군",
+    "height": "983"
+  },
+  {
+    "province": "경상남도",
+    "name": "대곡산",
+    "location": "경상남도 마산시",
+    "height": "516"
+  },
+  {
+    "province": "경상남도",
+    "name": "대금산",
+    "location": "거제도 연초면ㆍ장목면",
+    "height": "438.7"
+  },
+  {
+    "province": "경상남도",
+    "name": "대방산",
+    "location": "경상남도 남해 창선면",
+    "height": "468"
+  },
+  {
+    "province": "경상남도",
+    "name": "대성산",
+    "location": "경상남도 산청군 신등면 모례리",
+    "height": "607"
+  },
+  {
+    "province": "경상남도",
+    "name": "대운산",
+    "location": "\"경남 양산시 웅상읍 부산시 기장군\"",
+    "height": "742"
+  },
+  {
+    "province": "경상남도",
+    "name": "덕갈산",
+    "location": "\"경상남도 산청군 함양군",
+    "height": "669"
+  },
+  {
+    "province": "경상남도",
+    "name": "덕대산",
+    "location": "경상남도 밀양시 하남읍 남전리",
+    "height": "634"
+  },
+  {
+    "province": "경상남도",
+    "name": "동신어산",
+    "location": "경상남도 김해 상동면",
+    "height": "460"
+  },
+  {
+    "province": "경상남도",
+    "name": "두무산",
+    "location": "\"경상남도 거창 가조면 가야면",
+    "height": "1034"
+  },
+  {
+    "province": "경상남도",
+    "name": "둔철산",
+    "location": "경상남도 산청군 산청읍 척지리",
+    "height": "812"
+  },
+  {
+    "province": "경상남도",
+    "name": "마금산",
+    "location": "경상남도 창원시",
+    "height": "280"
+  },
+  {
+    "province": "경상남도",
+    "name": "만어산",
+    "location": "경상남도 밀양시 삼랑진읍 우곡리",
+    "height": "670"
+  },
+  {
+    "province": "경상남도",
+    "name": "망산",
+    "location": "경남 거제시 일운면",
+    "height": "375"
+  },
+  {
+    "province": "경상남도",
+    "name": "망운산",
+    "location": "\"경남 남해군 서면 노구리",
+    "height": "784.9"
+  },
+  {
+    "province": "경상남도",
+    "name": "망진산",
+    "location": "경상남도 진주시",
+    "height": "172"
+  },
+  {
+    "province": "경상남도",
+    "name": "망해봉",
+    "location": "경상남도 산청군",
+    "height": "257"
+  },
+  {
+    "province": "경상남도",
+    "name": "매봉산",
+    "location": "경상남도 밀양 삼량진",
+    "height": "755"
+  },
+  {
+    "province": "경상남도",
+    "name": "매화산",
+    "location": "경상남도 합천군 가야면",
+    "height": "1085"
+  },
+  {
+    "province": "경상남도",
+    "name": "무량산",
+    "location": "경상남도 고성군 고성읍 무량리",
+    "height": "579"
+  },
+  {
+    "province": "경상남도",
+    "name": "무릉산",
+    "location": "\"경상남도 김해시 한림면",
+    "height": "313"
+  },
+  {
+    "province": "경상남도",
+    "name": "무릉산",
+    "location": "\"경상남도 창원시 북면",
+    "height": "556"
+  },
+  {
+    "province": "경상남도",
+    "name": "무이산",
+    "location": "경상남도 고성군 상리면",
+    "height": "549"
+  },
+  {
+    "province": "경상남도",
+    "name": "무척산",
+    "location": "\"경상남도 김해시 생림면",
+    "height": "702.2"
+  },
+  {
+    "province": "경상남도",
+    "name": "무학산",
+    "location": "경상남도 창원시 교방동",
+    "height": "761.4"
+  },
+  {
+    "province": "경상남도",
+    "name": "미녀봉(숙성산)",
+    "location": "\"경남 거창군 가조면",
+    "height": "930"
+  },
+  {
+    "province": "경상남도",
+    "name": "미녀산",
+    "location": "경상남도 거창군 가조면",
+    "height": "930"
+  },
+  {
+    "province": "경상남도",
+    "name": "미륵산",
+    "location": "경상남도 통영시 산양읍ㆍ봉평동",
+    "height": "458.4"
+  },
+  {
+    "province": "경상남도",
+    "name": "미타산",
+    "location": "경상남도 의령군 부림면ㆍ합천군 적중면",
+    "height": "662"
+  },
+  {
+    "province": "경상남도",
+    "name": "반월산",
+    "location": "경남 창원시 마산회원구 양덕동",
+    "height": "103"
+  },
+  {
+    "province": "경상남도",
+    "name": "밝얼산",
+    "location": "경상남도 울산시 울주군 상북면",
+    "height": "738"
+  },
+  {
+    "province": "경상남도",
+    "name": "방어산",
+    "location": "경상남도 진주시 지수면ㆍ함안군 군북면",
+    "height": "532.1"
+  },
+  {
+    "province": "경상남도",
+    "name": "배내봉",
+    "location": "경상남도 울산시 울주군",
+    "height": "965"
+  },
+  {
+    "province": "경상남도",
+    "name": "백두산",
+    "location": "경상남도 김해시",
+    "height": "353"
+  },
+  {
+    "province": "경상남도",
+    "name": "백마산",
+    "location": "경상남도 밀양시 단장면 고례리/ 양산시 상북면 대리",
+    "height": "772"
+  },
+  {
+    "province": "경상남도",
+    "name": "백마산",
+    "location": "경상남도 산청군",
+    "height": "469"
+  },
+  {
+    "province": "경상남도",
+    "name": "백암산",
+    "location": "\"경상남도 밀양군 산내면 상동면",
+    "height": "1004"
+  },
+  {
+    "province": "경상남도",
+    "name": "백운산",
+    "location": "경상남도 밀양",
+    "height": "885"
+  },
+  {
+    "province": "경상남도",
+    "name": "백운산",
+    "location": "경상남도 산청군",
+    "height": "1218"
+  },
+  {
+    "province": "경상남도",
+    "name": "백운산",
+    "location": "경상남도 울산시 울주군",
+    "height": "892"
+  },
+  {
+    "province": "경상남도",
+    "name": "백운산",
+    "location": "경상남도 함양군 백전면",
+    "height": "1279"
+  },
+  {
+    "province": "경상남도",
+    "name": "백월산",
+    "location": "경상남도 창원시",
+    "height": "428"
+  },
+  {
+    "province": "경상남도",
+    "name": "백이산",
+    "location": "경상남도 함안군",
+    "height": "983"
+  },
+  {
+    "province": "경상남도",
+    "name": "벽방산",
+    "location": "\"경남 통영시 광도면",
+    "height": "651.5"
+  },
+  {
+    "province": "경상남도",
+    "name": "보두산",
+    "location": "경상남도 밀양군 상동면",
+    "height": "562"
+  },
+  {
+    "province": "경상남도",
+    "name": "보해산",
+    "location": "\"경남 거창군 가북면",
+    "height": "909"
+  },
+  {
+    "province": "경상남도",
+    "name": "부암산",
+    "location": "\"경남 합천군 가회면",
+    "height": "696"
+  },
+  {
+    "province": "경상남도",
+    "name": "북병산",
+    "location": "경상남도 거제",
+    "height": "465"
+  },
+  {
+    "province": "경상남도",
+    "name": "북암산",
+    "location": "경상남도 밀양",
+    "height": "807"
+  },
+  {
+    "province": "경상남도",
+    "name": "분지봉",
+    "location": "경상남도 하동군",
+    "height": "623"
+  },
+  {
+    "province": "경상남도",
+    "name": "불모산",
+    "location": "\"경상남도 창원시",
+    "height": "801"
+  },
+  {
+    "province": "경상남도",
+    "name": "불모산",
+    "location": "경상남도 통영시 사량면 사량도",
+    "height": "399"
+  },
+  {
+    "province": "경상남도",
+    "name": "비계산",
+    "location": "\"경상남도 거창군 가조면",
+    "height": "1131"
+  },
+  {
+    "province": "경상남도",
+    "name": "비봉산",
+    "location": "경상남도 진주시",
+    "height": "531"
+  },
+  {
+    "province": "경상남도",
+    "name": "비학산",
+    "location": "경상남도 밀양시 산외면 남기리",
+    "height": "317"
+  },
+  {
+    "province": "경상남도",
+    "name": "산방산",
+    "location": "경상남도 거제시 둔덕면 산방리",
+    "height": "395"
+  },
+  {
+    "province": "경상남도",
+    "name": "산성산",
+    "location": "경상남도 밀양시 활성동",
+    "height": "380"
+  },
+  {
+    "province": "경상남도",
+    "name": "삼강봉",
+    "location": "\"경상남도 울주군 소호리",
+    "height": "851"
+  },
+  {
+    "province": "경상남도",
+    "name": "삼봉산",
+    "location": "경상남도 거창군 고제면",
+    "height": "1254"
+  },
+  {
+    "province": "경상남도",
+    "name": "삼봉산",
+    "location": "경상남도 통영시",
+    "height": "255"
+  },
+  {
+    "province": "경상남도",
+    "name": "삼신봉",
+    "location": "경상남도 하동군",
+    "height": "1285"
+  },
+  {
+    "province": "경상남도",
+    "name": "삼정산",
+    "location": "\"경상남도 함양군 마천면",
+    "height": "1182"
+  },
+  {
+    "province": "경상남도",
+    "name": "상산",
+    "location": "\"경상남도 함양군 함양읍",
+    "height": "825"
+  },
+  {
+    "province": "경상남도",
+    "name": "석대산",
+    "location": "경상남도 산청군",
+    "height": "535"
+  },
+  {
+    "province": "경상남도",
+    "name": "선유산",
+    "location": "경상남도 고성",
+    "height": "427"
+  },
+  {
+    "province": "경상남도",
+    "name": "선자산",
+    "location": "경상남도 거제시",
+    "height": "507"
+  },
+  {
+    "province": "경상남도",
+    "name": "설흘산",
+    "location": "경남 남해군 남면",
+    "height": "481.7"
+  },
+  {
+    "province": "경상남도",
+    "name": "성제봉(형제봉)",
+    "location": "경상남도 하동군 악양면",
+    "height": "964"
+  },
+  {
+    "province": "경상남도",
+    "name": "수리봉",
+    "location": "경상남도 밀양",
+    "height": "767"
+  },
+  {
+    "province": "경상남도",
+    "name": "수태산",
+    "location": "경상남도 고성군 상리면",
+    "height": "570"
+  },
+  {
+    "province": "경상남도",
+    "name": "승학산",
+    "location": "경상남도 밀양시",
+    "height": "539"
+  },
+  {
+    "province": "경상남도",
+    "name": "시살등",
+    "location": "경상남도 양산시",
+    "height": "981"
+  },
+  {
+    "province": "경상남도",
+    "name": "신어산",
+    "location": "경상남도 김해시 삼방동",
+    "height": "630"
+  },
+  {
+    "province": "경상남도",
+    "name": "아미산",
+    "location": "\"경상남도 울주군 두서면 전읍리",
+    "height": "402"
+  },
+  {
+    "province": "경상남도",
+    "name": "아홉산",
+    "location": "경상남도 거창군",
+    "height": "353"
+  },
+  {
+    "province": "경상남도",
+    "name": "악견산",
+    "location": "경상남도 합천군 대병면",
+    "height": "634"
+  },
+  {
+    "province": "경상남도",
+    "name": "안전산",
+    "location": "경상남도 양산",
+    "height": "665"
+  },
+  {
+    "province": "경상남도",
+    "name": "양각산",
+    "location": "경상남도 거창군 웅양면 산포리",
+    "height": "1158"
+  },
+  {
+    "province": "경상남도",
+    "name": "어곡산",
+    "location": "경상남도 양산읍 어곡리",
+    "height": "680"
+  },
+  {
+    "province": "경상남도",
+    "name": "억산",
+    "location": "\"경상남도 밀양시 산내면",
+    "height": "954"
+  },
+  {
+    "province": "경상남도",
+    "name": "여항산",
+    "location": "\"경남 함안군 여항면",
+    "height": "770"
+  },
+  {
+    "province": "경상남도",
+    "name": "연화산",
+    "location": "경상남도 고성군 개천면ㆍ영현면",
+    "height": "524"
+  },
+  {
+    "province": "경상남도",
+    "name": "연화산",
+    "location": "경상남도 울산시 울주군 언양면",
+    "height": "531"
+  },
+  {
+    "province": "경상남도",
+    "name": "열왕산",
+    "location": "경상남도 밀양시 청도면 구기리",
+    "height": "663"
+  },
+  {
+    "province": "경상남도",
+    "name": "염수봉",
+    "location": "\"경상남도 양산시 상북면",
+    "height": "816"
+  },
+  {
+    "province": "경상남도",
+    "name": "영산",
+    "location": "경상남도 밀양시 단장면",
+    "height": "888"
+  },
+  {
+    "province": "경상남도",
+    "name": "영축산",
+    "location": "\"경상남도 양산 하북면 울산시 울주군 삼남면 상북면",
+    "height": "1081"
+  },
+  {
+    "province": "경상남도",
+    "name": "영취산",
+    "location": "\"경상남도 창녕군 영산면",
+    "height": "737"
+  },
+  {
+    "province": "경상남도",
+    "name": "오도산",
+    "location": "\"경상남도 거창군 가조면",
+    "height": "1134"
+  },
+  {
+    "province": "경상남도",
+    "name": "오두산",
+    "location": "경상남도 울산시 울주군",
+    "height": "824"
+  },
+  {
+    "province": "경상남도",
+    "name": "오룡산",
+    "location": "경상남도 양산시 원동면",
+    "height": "967"
+  },
+  {
+    "province": "경상남도",
+    "name": "오봉산",
+    "location": "경남 양산시 교동",
+    "height": "633"
+  },
+  {
+    "province": "경상남도",
+    "name": "옥교산",
+    "location": "경상남도 밀양시 상동면 안인리",
+    "height": "538"
+  },
+  {
+    "province": "경상남도",
+    "name": "옥녀봉",
+    "location": "\"경상남도 거제시 장승포항",
+    "height": "562"
+  },
+  {
+    "province": "경상남도",
+    "name": "옥녀봉",
+    "location": "경상남도 통영시 사량면(사량도)",
+    "height": "510"
+  },
+  {
+    "province": "경상남도",
+    "name": "와룡산",
+    "location": "경상남도 사천시 사천읍",
+    "height": "801.4"
+  },
+  {
+    "province": "경상남도",
+    "name": "왕산",
+    "location": "경상남도 산청군 금서면",
+    "height": "925.6"
+  },
+  {
+    "province": "경상남도",
+    "name": "용마산",
+    "location": "경상남도 창원시 마산합포구 산호동",
+    "height": "96"
+  },
+  {
+    "province": "경상남도",
+    "name": "용암봉",
+    "location": "경상남도 밀양시",
+    "height": "686"
+  },
+  {
+    "province": "경상남도",
+    "name": "우두봉",
+    "location": "경상남도 거제시 둔덕면 거림리",
+    "height": "435"
+  },
+  {
+    "province": "경상남도",
+    "name": "우두산",
+    "location": "경상남도 거창군 가북면",
+    "height": "1046"
+  },
+  {
+    "province": "경상남도",
+    "name": "웅산",
+    "location": "\"경상남도 진해시 자은동",
+    "height": "703"
+  },
+  {
+    "province": "경상남도",
+    "name": "웅석봉",
+    "location": "경남 산청군 단성면",
+    "height": "1099"
+  },
+  {
+    "province": "경상남도",
+    "name": "원효산",
+    "location": "\"경상남도 양산시 상북면 웅상읍 동면",
+    "height": "922"
+  },
+  {
+    "province": "경상남도",
+    "name": "월아산",
+    "location": "경남 진주시 금산면ㆍ진성면",
+    "height": "469"
+  },
+  {
+    "province": "경상남도",
+    "name": "월여산",
+    "location": "경상남도 거창군",
+    "height": "862"
+  },
+  {
+    "province": "경상남도",
+    "name": "의룡산",
+    "location": "경상남도 합천군 대병면",
+    "height": "453"
+  },
+  {
+    "province": "경상남도",
+    "name": "의상봉(이상봉)",
+    "location": "경상남도 거창군",
+    "height": "1046"
+  },
+  {
+    "province": "경상남도",
+    "name": "이명산",
+    "location": "경남 산청시 곤양면",
+    "height": "570"
+  },
+  {
+    "province": "경상남도",
+    "name": "이방산",
+    "location": "경상남도 산청군",
+    "height": "716"
+  },
+  {
+    "province": "경상남도",
+    "name": "임호산",
+    "location": "경상남도 김해시",
+    "height": "178"
+  },
+  {
+    "province": "경상남도",
+    "name": "자굴산",
+    "location": "\"경상남도 의령군 가례면 대의면",
+    "height": "897"
+  },
+  {
+    "province": "경상남도",
+    "name": "작대산",
+    "location": "경상남도 함안군 칠원면",
+    "height": "649"
+  },
+  {
+    "province": "경상남도",
+    "name": "장령산",
+    "location": "경상남도 사천시 정동면",
+    "height": "250"
+  },
+  {
+    "province": "경상남도",
+    "name": "장복산",
+    "location": "경상남도 진해시 여좌동",
+    "height": "582"
+  },
+  {
+    "province": "경상남도",
+    "name": "재약산",
+    "location": "\"경상남도 밀양시 단장면ㆍ산내면",
+    "height": "1119.1"
+  },
+  {
+    "province": "경상남도",
+    "name": "적석산",
+    "location": "경남 마산시 진전면·고성군 회화면·창원시",
+    "height": "492"
+  },
+  {
+    "province": "경상남도",
+    "name": "정각산",
+    "location": "경상남도 밀양시 단장면",
+    "height": "860"
+  },
+  {
+    "province": "경상남도",
+    "name": "정병산",
+    "location": "\"경남 창원시 토월동",
+    "height": "567"
+  },
+  {
+    "province": "경상남도",
+    "name": "정승봉",
+    "location": "경상남도 밀양군 산내면",
+    "height": "803"
+  },
+  {
+    "province": "경상남도",
+    "name": "종남산",
+    "location": "경남 밀양시 상남면ㆍ초동면",
+    "height": "664"
+  },
+  {
+    "province": "경상남도",
+    "name": "종암산",
+    "location": "경상남도 창녕군",
+    "height": "546"
+  },
+  {
+    "province": "경상남도",
+    "name": "좌이산",
+    "location": "경남 고성군",
+    "height": "415"
+  },
+  {
+    "province": "경상남도",
+    "name": "주산",
+    "location": "경상남도 산청군",
+    "height": "831"
+  },
+  {
+    "province": "경상남도",
+    "name": "중봉",
+    "location": "경상남도 밀양시 산내면",
+    "height": "1169"
+  },
+  {
+    "province": "경상남도",
+    "name": "지리산(통영)",
+    "location": "경상남도 통영시 사량면",
+    "height": "399.3"
+  },
+  {
+    "province": "경상남도",
+    "name": "집현산",
+    "location": "경상남도 진주시",
+    "height": "578"
+  },
+  {
+    "province": "경상남도",
+    "name": "천마산",
+    "location": "경상남도 울주군 두서면 내화리",
+    "height": "611"
+  },
+  {
+    "province": "경상남도",
+    "name": "천성산",
+    "location": "\"경상남도 양산시 하북면 웅상읍",
+    "height": "920"
+  },
+  {
+    "province": "경상남도",
+    "name": "천자봉",
+    "location": "\"경상남도 진해시 자은동",
+    "height": "502"
+  },
+  {
+    "province": "경상남도",
+    "name": "천주산",
+    "location": "\"경상남도 창원시 마산회원구 구암동",
+    "height": "639.6"
+  },
+  {
+    "province": "경상남도",
+    "name": "천지봉(천제봉)",
+    "location": "경상남도 밀양군 산내면",
+    "height": "685"
+  },
+  {
+    "province": "경상남도",
+    "name": "천태산",
+    "location": "경남 양산시 원동면",
+    "height": "630.9"
+  },
+  {
+    "province": "경상남도",
+    "name": "추화산",
+    "location": "경상남도 밀양시",
+    "height": "243"
+  },
+  {
+    "province": "경상남도",
+    "name": "칠현산",
+    "location": "경상남도 통영시 사량도",
+    "height": "349"
+  },
+  {
+    "province": "경상남도",
+    "name": "토곡산",
+    "location": "경상남도 양산시 원동면",
+    "height": "855"
+  },
+  {
+    "province": "경상남도",
+    "name": "팔용산",
+    "location": "\"경상남도 마산시",
+    "height": "328"
+  },
+  {
+    "province": "경상남도",
+    "name": "하서산",
+    "location": "경상남도 밀양",
+    "height": "375"
+  },
+  {
+    "province": "경상남도",
+    "name": "한우산",
+    "location": "경남 의령군 가례면",
+    "height": "835"
+  },
+  {
+    "province": "경상남도",
+    "name": "함박산",
+    "location": "경상남도 양산",
+    "height": "588"
+  },
+  {
+    "province": "경상남도",
+    "name": "향로봉",
+    "location": "\"경상남도 고성군 하일",
+    "height": "578"
+  },
+  {
+    "province": "경상남도",
+    "name": "향로봉",
+    "location": "경상남도 양산시",
+    "height": "727"
+  },
+  {
+    "province": "경상남도",
+    "name": "향로산",
+    "location": "경상남도 밀양시",
+    "height": "976"
+  },
+  {
+    "province": "경상남도",
+    "name": "허굴산",
+    "location": "경상남도 합천군 대병면",
+    "height": "681"
+  },
+  {
+    "province": "경상남도",
+    "name": "호구산",
+    "location": "경남 남해군 이동면 용소리",
+    "height": "619"
+  },
+  {
+    "province": "경상남도",
+    "name": "호음산",
+    "location": "경상남도 거창군",
+    "height": "930"
+  },
+  {
+    "province": "경상남도",
+    "name": "화왕산",
+    "location": "경상남도 창녕군 창녕읍 옥천리 일대",
+    "height": "757.7"
+  },
+  {
+    "province": "경상남도",
+    "name": "황매산",
+    "location": "\"경상남도 합천군 대병면 산청군 차황면",
+    "height": "1113"
+  },
+  {
+    "province": "경상남도",
+    "name": "황새봉",
+    "location": "경상남도 김해시",
+    "height": "393"
+  },
+  {
+    "province": "경상남도",
+    "name": "황석산",
+    "location": "경상남도 함양군",
+    "height": "1192.5"
+  },
+  {
+    "province": "경상남도",
+    "name": "흰대미산",
+    "location": "\"경상남도 거창군 가북면",
+    "height": "1018"
+  },
+  {
+    "province": "제주도",
+    "name": "고근산",
+    "location": "제주도 서귀포시 서호동",
+    "height": "396"
+  },
+  {
+    "province": "제주도",
+    "name": "고내봉",
+    "location": "제주도 제주시 애월읍 고내리",
+    "height": "175"
+  },
+  {
+    "province": "제주도",
+    "name": "군산",
+    "location": "제주도 서귀포시 안덕면",
+    "height": "355"
+  },
+  {
+    "province": "제주도",
+    "name": "단산",
+    "location": "제주도 서귀포시 안덕면",
+    "height": "140"
+  },
+  {
+    "province": "제주도",
+    "name": "따라비",
+    "location": "제주도 제주시",
+    "height": "342"
+  },
+  {
+    "province": "제주도",
+    "name": "사라봉",
+    "location": "제주도 제주시",
+    "height": "148"
+  },
+  {
+    "province": "제주도",
+    "name": "산방산",
+    "location": "제주도 서귀포시 안덕면",
+    "height": "507"
+  },
+  {
+    "province": "제주도",
+    "name": "성산 일출봉",
+    "location": "제주도 남제주군 성산읍 성산리 114",
+    "height": "182"
+  },
+  {
+    "province": "제주도",
+    "name": "영천악",
+    "location": "제주도 서귀포시",
+    "height": "277"
+  },
+  {
+    "province": "제주도",
+    "name": "원당봉(삼양)",
+    "location": "\"제주도 제주시 조천읍 신촌리",
+    "height": "171"
+  },
+  {
+    "province": "제주도",
+    "name": "월랑봉",
+    "location": "제주도 제주시 구좌읍 세화리",
+    "height": "382"
+  },
+  {
+    "province": "제주도",
+    "name": "은월봉",
+    "location": "제주도 제주시 구좌읍",
+    "height": "180"
+  },
+  {
+    "province": "제주도",
+    "name": "한라산",
+    "location": "\"제주도 제주시",
+    "height": "1947.3"
+  }
+]

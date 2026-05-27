@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/global.css" />
+    <link rel="stylesheet" href="/css/mountian-range.css" />
+  </head>
+  <body>
+    <header>
+      <div class="list">
+        <ul>
+          <a href="/main/main.html"><li>홈</li></a>
+          <a href="/mountains/info.html"><li>정보</li></a>
+          <a href="/mountian-range/mountain-range.html"><li>산맥/고개</li></a>
+          <a href="/for-mountain/for-mountain.html"><li>대륙별 산</li></a>
+          <a href="/login/login.html"><li>로그인</li></a>
+        </ul>
+      </div>
+    </header>
+    <div class="filter">
+      <button onclick="filterRegion('all')">전체</button>
+      <button onclick="filterRegion('태백산맥')">태백산맥</button>
+      <button onclick="filterRegion('광주산맥')">광주산맥</button>
+      <button onclick="filterRegion('소백산맥')">소백산맥</button>
+      <button onclick="filterRegion('노령산맥')">노령산맥</button>
+      <button onclick="filterRegion('차령산맥')">차령산맥</button>
+    </div>
+    <div class="container" id="mountain-list"></div>
+    <script src="/mountian-range/mountian-range.js"></script>
+  </body>
+</html>
